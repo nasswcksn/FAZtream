@@ -1,0 +1,915 @@
+poster,rating,link,title,date
+https://image.tmdb.org/t/p/w185/meBdUcg308d7jhoVShOXxJDU8pn.jpg,4.9,https://vip2.idlixvip.asia/movie/the-devils-deception-2022/,The Devil's Deception (2022),2022-10-20
+https://image.tmdb.org/t/p/w185/2U0Dj7hvEVpWFABwmTH3ZQ6gnGe.jpg,6.6,https://vip2.idlixvip.asia/movie/munafik-2016/,Munafik (2016),2016-02-25
+https://image.tmdb.org/t/p/w185/2Abt2GgscAGtGAXTrhH44qPhugI.jpg,5.7,https://vip2.idlixvip.asia/movie/dark-nuns-2025/,Dark Nuns (2025),2025-01-24
+https://image.tmdb.org/t/p/w185/mcgvjr9Sb3niTOStwFKWBlPBbyn.jpg,6.3,https://vip2.idlixvip.asia/movie/the-priests-2015/,The Priests (2015),2015-11-05
+https://image.tmdb.org/t/p/w185/4kLK3cl4MbrjVFDQXb9PT11ZaV4.jpg,6.5,https://vip2.idlixvip.asia/movie/heart-eyes-2025/,Heart Eyes (2025),2025-02-06
+https://image.tmdb.org/t/p/w185/xZIGHoHj0DF0zdibwa66cRWHdHO.jpg,6.6,https://vip2.idlixvip.asia/movie/presence-2025/,Presence (2025),2025-01-16
+https://image.tmdb.org/t/p/w185/sf6j1SbgDf7VTjL1MRq5MAQSOyE.jpg,5.0,https://vip2.idlixvip.asia/movie/the-bayou-2025/,The Bayou (2025),2025-01-31
+https://image.tmdb.org/t/p/w185/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg,7.3,https://vip2.idlixvip.asia/movie/companion-2025/,Companion (2025),2025-01-22
+https://image.tmdb.org/t/p/w185/rUmTgkDhBuimpjrl7uSrg2Q5uMX.jpg,0.0,https://vip2.idlixvip.asia/movie/atrocious-2025/,Atrocious (2025),2025-01-09
+https://image.tmdb.org/t/p/w185/k894njyPmSnsWIDWG4NGUYd7pLC.jpg,0.0,https://vip2.idlixvip.asia/movie/a-night-of-soul-turning-2023/,A Night of Soul Turning (2023),2023-06-02
+https://image.tmdb.org/t/p/w185/5yUPKpy6ijvEBI5b6L0kJC30NHm.jpg,6.5,https://vip2.idlixvip.asia/movie/handsome-guys-2024/,Handsome Guys (2024),2024-06-26
+https://image.tmdb.org/t/p/w185/uDW5eeFUYp1vaU2ymEdVBG6g7iq.jpg,7.1,https://vip2.idlixvip.asia/movie/death-whisperer-2-2024/,Death Whisperer 2 (2024),2024-10-10
+https://image.tmdb.org/t/p/w185/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg,0.0,https://vip2.idlixvip.asia/movie/the-devils-advocate-1997/,The Devil's Advocate (1997),1997-10-17
+https://image.tmdb.org/t/p/w185/gTlVy3wUApAanIAPdx3yz0YOROD.jpg,0.0,https://vip2.idlixvip.asia/movie/anacondas-the-hunt-for-the-blood-orchid-2004/,Anacondas: The Hunt for the Blood Orchid (2004),2004-08-25
+https://image.tmdb.org/t/p/w185/33NysOnLpLZY0ewHTcfpalzAsRG.jpg,0.0,https://vip2.idlixvip.asia/movie/anaconda-1997/,Anaconda (1997),1997-04-11
+https://image.tmdb.org/t/p/w185/y910s3Arhlcn1fF9s7iL0v04RRH.jpg,0.0,https://vip2.idlixvip.asia/movie/200kg-vampire-2024/,200KG Vampire (2024),2024-09-05
+https://image.tmdb.org/t/p/w185/k5SoO75feHyoRR7C9b33o26wYF7.jpg,0.0,https://vip2.idlixvip.asia/movie/100kg-vampire-2023/,100KG Vampire (2023),2023-04-05
+https://image.tmdb.org/t/p/w185/vtdEHG1j07PqLlVyhKNZRHTPKGt.jpg,5.9,https://vip2.idlixvip.asia/movie/wolf-man-2025/,Wolf Man (2025),2025-01-15
+https://image.tmdb.org/t/p/w185/u53wFzLoJD7om52Hjma8G27LS2h.jpg,5.7,https://vip2.idlixvip.asia/movie/grafted-2024/,Grafted (2024),2024-09-12
+https://image.tmdb.org/t/p/w185/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg,5.6,https://vip2.idlixvip.asia/movie/goosebumps-2-haunted-halloween-2018/,Goosebumps 2: Haunted Halloween (2018),2018-10-11
+https://image.tmdb.org/t/p/w185/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg,6.3,https://vip2.idlixvip.asia/movie/goosebumps-2015/,Goosebumps (2015),2015-08-05
+https://image.tmdb.org/t/p/w185/sW4MFTfW88Ii8TyZVD7oprzzhOU.jpg,5.3,https://vip2.idlixvip.asia/movie/vamps-2012/,Vamps (2012),2012-08-25
+https://image.tmdb.org/t/p/w185/fQqPoAHvHicie1ttuiV2q0yv9V7.jpg,5.8,https://vip2.idlixvip.asia/movie/the-wolfman-2010/,The Wolfman (2010),2010-02-10
+https://image.tmdb.org/t/p/w185/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg,7.6,https://vip2.idlixvip.asia/movie/nosferatu-2024/,Nosferatu (2024),2024-12-25
+https://image.tmdb.org/t/p/w185/cUC4rUb1Cs2KMaZ6RD4uYUEEwls.jpg,4.9,https://vip2.idlixvip.asia/movie/knock-knock-2015/,Knock Knock (2015),2015-06-26
+https://image.tmdb.org/t/p/w185/zqeFM6cjHjYmgjqJExjt1NPBPdd.jpg,4.8,https://vip2.idlixvip.asia/movie/year-10-2024/,Year 10 (2024),2024-08-24
+https://image.tmdb.org/t/p/w185/ser6ZCKHMXhQISKULYCxz6Saf3I.jpg,5.8,https://vip2.idlixvip.asia/movie/get-away-2024/,Get Away (2024),2024-12-06
+https://image.tmdb.org/t/p/w185/lCKINeaA01ciEBWlmCjAEFmRiXJ.jpg,6.4,https://vip2.idlixvip.asia/movie/feng-shui-2004/,Feng Shui (2004),2004-09-18
+https://image.tmdb.org/t/p/w185/k3hmkxg4NC2ru1xLhPcI0e4doGa.jpg,6.2,https://vip2.idlixvip.asia/movie/zim-zim-ala-kazim-2024/,Zim Zim Ala Kazim (2024),2024-06-13
+https://image.tmdb.org/t/p/w185/6oxJ75L6rB88TeSspcnPA7JqjWw.jpg,5.2,https://vip2.idlixvip.asia/movie/the-thaw-2009/,The Thaw (2009),2009-08-30
+https://image.tmdb.org/t/p/w185/eNyj1J1GMasLYzss61o2rXz8Lpi.jpg,3.9,https://vip2.idlixvip.asia/movie/ghosts-of-red-ridge-2024/,Ghosts of Red Ridge (2024),2024-12-03
+https://image.tmdb.org/t/p/w185/elKf8Y5yi6Rl6teKsrQg0GAwaQD.jpg,5.0,https://vip2.idlixvip.asia/movie/werewolves-2024/,Werewolves (2024),2024-12-04
+https://image.tmdb.org/t/p/w185/ayyYwCmmYgBeZWJDTzoBiyXYpnA.jpg,5.2,https://vip2.idlixvip.asia/movie/y2k-2024/,Y2K (2024),2024-12-06
+https://image.tmdb.org/t/p/w185/h8wfp6CTiafZ6X8U7sEMpz9q0NP.jpg,0.0,https://vip2.idlixvip.asia/movie/roxana-2024/,Roxana (2024),2024-09-21
+https://image.tmdb.org/t/p/w185/o89snIeueVAH0m56vM15v0RjpEz.jpg,4.4,https://vip2.idlixvip.asia/movie/the-one-hundred-2022/,The One Hundred (2022),2022-10-06
+https://image.tmdb.org/t/p/w185/ykocDqwg5PRUopnBVb1x1DWnEJF.jpg,5.3,https://vip2.idlixvip.asia/movie/legion-2010/,Legion (2010),2010-01-21
+https://image.tmdb.org/t/p/w185/nx4rYyGsLKN2Dx5IpGzw1SMZ9PO.jpg,5.2,https://vip2.idlixvip.asia/movie/the-covenant-2006/,The Covenant (2006),2006-09-07
+https://image.tmdb.org/t/p/w185/ivhpwpGe186bbsKKoRgHY2aR3DW.jpg,7.6,https://vip2.idlixvip.asia/movie/sinakagon-2024/,Sinakagon (2024),2024-06-13
+https://image.tmdb.org/t/p/w185/6IIi4Jbw9ohoOnOVJacQBaMDZxT.jpg,4.2,https://vip2.idlixvip.asia/movie/sijjin-7-2024/,Sijjin 7 (2024),2024-06-13
+https://image.tmdb.org/t/p/w185/rs10lMBnJFnJX1Y7MYpyB8JiNAF.jpg,5.1,https://vip2.idlixvip.asia/movie/operation-undead-2024/,Operation Undead (2024),2024-08-01
+https://image.tmdb.org/t/p/w185/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg,7.2,https://vip2.idlixvip.asia/movie/heretic-2024/,Heretic (2024),2024-10-31
+https://image.tmdb.org/t/p/w185/fRbDHbGBXg6kwQYr3CRYeKPJW5q.jpg,5.4,https://vip2.idlixvip.asia/movie/dear-santa-2024/,Dear Santa (2024),2024-11-24
+https://image.tmdb.org/t/p/w185/kiBgVYyBdjTzAB6Wh2Qdkpf3CUI.jpg,7.5,https://vip2.idlixvip.asia/movie/the-lady-of-the-lake-2024/,The Lady of the Lake (2024),2024-07-12
+https://image.tmdb.org/t/p/w185/xE06xrZkIipJMPSgWoeelohxi9h.jpg,8.5,https://vip2.idlixvip.asia/movie/mononoke-the-movie-the-phantom-in-the-rain-2024/,Mononoke the Movie: The Phantom in the Rain (2024),2024-07-26
+https://image.tmdb.org/t/p/w185/W2tus8EwEagKCCCPqqocHEM9F2.jpg,5.7,https://vip2.idlixvip.asia/movie/the-closet-2020/,The Closet (2020),2020-02-05
+https://image.tmdb.org/t/p/w185/lAjLzQDyUXxCH4tOBxkRYDbBpY.jpg,5.3,https://vip2.idlixvip.asia/movie/rumours-2024/,Rumours (2024),2024-10-18
+https://image.tmdb.org/t/p/w185/nHlHRntqfDM0ORsfgPL28u4GiTT.jpg,6.5,https://vip2.idlixvip.asia/movie/your-monster-2024/,Your Monster (2024),2024-10-25
+https://image.tmdb.org/t/p/w185/h2xI8LpnleyWzIrjtgBLrE3fc13.jpg,5.9,https://vip2.idlixvip.asia/movie/the-cursed-land-2024/,The Cursed Land (2024),2024-07-11
+https://image.tmdb.org/t/p/w185/rgB23yhNSSGhH7cusyKneKsdEP2.jpg,0.0,https://vip2.idlixvip.asia/movie/tastes-of-horror-2023/,Tastes of Horror (2023),2023-10-18
+https://image.tmdb.org/t/p/w185/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg,7.2,https://vip2.idlixvip.asia/movie/smile-2-2024/,Smile 2 (2024),2024-10-16
+https://image.tmdb.org/t/p/w185/gmoA1CpaLxLNK4nLpbszpvm2Dyr.jpg,0.0,https://vip2.idlixvip.asia/movie/ma-da-the-drowning-spirit-2024/,Ma Da: The Drowning Spirit (2024),2024-08-16
+https://image.tmdb.org/t/p/w185/OydsAHa1bLDQGaKIU7qW9SRjQb.jpg,4.2,https://vip2.idlixvip.asia/movie/black-cab-2024/,Black Cab (2024),2024-10-25
+https://image.tmdb.org/t/p/w185/zD2UZkh0DwbDEMuOKIR7jgwgulZ.jpg,6.1,https://vip2.idlixvip.asia/movie/monster-summer-2024/,Monster Summer (2024),2024-10-04
+https://image.tmdb.org/t/p/w185/h1mDaWeB9Z1h8KsUUji7CR02yik.jpg,5.1,https://vip2.idlixvip.asia/movie/manhole-2014/,Manhole (2014),2014-10-08
+https://image.tmdb.org/t/p/w185/x5YbfyUA8huK0shr008xwzNVJ5Y.jpg,6.0,https://vip2.idlixvip.asia/movie/the-midnight-meat-train-2008/,The Midnight Meat Train (2008),2008-08-07
+https://image.tmdb.org/t/p/w185/jqhAgE9ceTX8f9xTcqBlmXSuMG3.jpg,2.2,https://vip2.idlixvip.asia/movie/amityville-where-the-echo-lives-2024/,Amityville: Where the Echo Lives (2024),2024-10-28
+https://image.tmdb.org/t/p/w185/ieO49ludO6DxRVV8u1LKMjtrDLN.jpg,4.6,https://vip2.idlixvip.asia/movie/hostel-part-iii-2011/,Hostel: Part III (2011),2011-12-22
+https://image.tmdb.org/t/p/w185/bXHaXVGncI2WKUrNRYDyTyj3ymR.jpg,4.3,https://vip2.idlixvip.asia/movie/30-days-of-night-dark-days-2010/,30 Days of Night: Dark Days (2010),2010-10-04
+https://image.tmdb.org/t/p/w185/fEvjXyKm6OedmBU2yS7IaZefsDa.jpg,5.6,https://vip2.idlixvip.asia/movie/body-parts-2023/,Body Parts (2023),2023-08-30
+https://image.tmdb.org/t/p/w185/9DKH4j80eR4qAcGDoShlUO7D0Is.jpg,4.4,https://vip2.idlixvip.asia/movie/carved-2024/,Carved (2024),2024-10-21
+https://image.tmdb.org/t/p/w185/1rEGnHwe4BqiARrjzcan6tmIisK.jpg,5.2,https://vip2.idlixvip.asia/movie/spirit-in-the-blood-2024/,Spirit in the Blood (2024),2024-11-07
+https://image.tmdb.org/t/p/w185/mLVfio0vOlOME4hxS1UA0QxRnTb.jpg,0.0,https://vip2.idlixvip.asia/movie/nokturno-2024/,Nokturno (2024),2024-10-31
+https://image.tmdb.org/t/p/w185/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg,7.0,https://vip2.idlixvip.asia/movie/apocalypse-z-the-beginning-of-the-end-2024/,Apocalypse Z: The Beginning of the End (2024),2024-10-04
+https://image.tmdb.org/t/p/w185/qB20aiY8Ah3pQikkBxm3j7jQVc8.jpg,5.5,https://vip2.idlixvip.asia/movie/hostel-part-ii-2007/,Hostel: Part II (2007),2007-06-07
+https://image.tmdb.org/t/p/w185/dDrtuWUKhgUGp12kgUWuP0NpTdF.jpg,5.9,https://vip2.idlixvip.asia/movie/hostel-2005/,Hostel (2005),2005-09-17
+https://image.tmdb.org/t/p/w185/gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg,0.0,https://vip2.idlixvip.asia/movie/time-cut-2024/,Time Cut (2024),2024-10-29
+https://image.tmdb.org/t/p/w185/dMI4XZCfC0VhUNN1Ds6ty6iRoyJ.jpg,5.4,https://vip2.idlixvip.asia/movie/red-riding-hood-2011/,Red Riding Hood (2011),2011-03-10
+https://image.tmdb.org/t/p/w185/4hJUWgdmoFsNpzyTN6QjoZcaivO.jpg,7.6,https://vip2.idlixvip.asia/movie/vampire-hunter-d-bloodlust-2000/,Vampire Hunter D: Bloodlust (2000),2000-08-25
+https://image.tmdb.org/t/p/w185/iKmykghTmvQj6zum79TsdUL5mPF.jpg,4.2,https://vip2.idlixvip.asia/movie/the-call-2020/,The Call (2020),2020-10-23
+https://image.tmdb.org/t/p/w185/lEjhWFMtdjmTXHkes8kE902R4L1.jpg,4.5,https://vip2.idlixvip.asia/movie/ganymede-2024/,Ganymede (2024),2024-08-01
+https://image.tmdb.org/t/p/w185/1TL0htMs8niYcN583rle7Dl18mA.jpg,3.6,https://vip2.idlixvip.asia/movie/all-we-wanted-2024/,All We Wanted (2024),2024-08-30
+https://image.tmdb.org/t/p/w185/p0qqnfmhmJYYz73jK7UOwP3ZUgn.jpg,4.7,https://vip2.idlixvip.asia/movie/the-front-room-2024/,The Front Room (2024),2024-09-05
+https://image.tmdb.org/t/p/w185/cRDJxdnRb7ikKd6fVJTrGeaL34v.jpg,0.0,https://vip2.idlixvip.asia/movie/dont-move-2024/,Don't Move (2024),2024-10-24
+https://image.tmdb.org/t/p/w185/blRsgsexoBqnjcEJkV8beKAVT6J.jpg,6.0,https://vip2.idlixvip.asia/movie/spongebob-squarepants-kreepaway-kamp-2024/,SpongeBob Squarepants: Kreepaway Kamp (2024),2024-10-10
+https://image.tmdb.org/t/p/w185/kaEc9t2CjHddXJyJLd9GQcDURcX.jpg,5.0,https://vip2.idlixvip.asia/movie/the-radleys-2024/,The Radleys (2024),2024-10-04
+https://image.tmdb.org/t/p/w185/xUIaDutJAWyfWEyZRcqaNWcoR55.jpg,4.9,https://vip2.idlixvip.asia/movie/the-park-maniac-2024/,The Park Maniac (2024),2024-10-12
+https://image.tmdb.org/t/p/w185/knZo3KnD7mT4aXwLDbYyQw7ZA8Z.jpg,3.5,https://vip2.idlixvip.asia/movie/spin-the-bottle-2024/,Spin the Bottle (2024),2024-10-03
+https://image.tmdb.org/t/p/w185/lbyzPtNGHIYogFKGF0NfhaJ51fc.jpg,5.6,https://vip2.idlixvip.asia/movie/the-deep-dark-2023/,The Deep Dark (2023),2023-11-15
+https://image.tmdb.org/t/p/w185/63xYQj1BwRFielxsBDXvHIJyXVm.jpg,7.0,https://vip2.idlixvip.asia/movie/terrifier-3-2024/,Terrifier 3 (2024),2024-10-09
+https://image.tmdb.org/t/p/w185/az0k8pzdeqrrEO9iu8vL081bjA0.jpg,5.2,https://vip2.idlixvip.asia/movie/stream-2024/,Stream (2024),2024-08-21
+https://image.tmdb.org/t/p/w185/2eXckmxW6tswDIMz7ighcsKA7fW.jpg,4.7,https://vip2.idlixvip.asia/movie/violett-2024/,Violett (2024),2024-06-10
+https://image.tmdb.org/t/p/w185/cWSBA1W6xVcxdmNpzZ71t1VuiIo.jpg,6.0,https://vip2.idlixvip.asia/movie/senior-2015/,Senior (2015),2015-12-03
+https://image.tmdb.org/t/p/w185/bveVjxLU7Sl76FR8zeAgi4WekHO.jpg,0.0,https://vip2.idlixvip.asia/movie/bottom-of-the-water-2023/,Bottom of the Water (2023),2023-11-09
+https://image.tmdb.org/t/p/w185/wrgcEz7En3yqe2ZvNQV5zKR3uuI.jpg,6.1,https://vip2.idlixvip.asia/movie/haunted-universities-3-2024/,Haunted Universities 3 (2024),2024-05-30
+https://image.tmdb.org/t/p/w185/7oF4PsyhcE6QmQV02I1G8FWL2KM.jpg,4.7,https://vip2.idlixvip.asia/movie/haunted-universities-2nd-semester-2022/,Haunted Universities 2nd Semester (2022),2022-03-24
+https://image.tmdb.org/t/p/w185/yiNU3XmCrUm3YOmucKngf311tw8.jpg,5.3,https://vip2.idlixvip.asia/movie/haunted-universities-2009/,Haunted Universities (2009),2009-10-20
+https://image.tmdb.org/t/p/w185/3xgcQHcYxGOrJNbwgXRGPPHCXVu.jpg,6.3,https://vip2.idlixvip.asia/movie/mads-2024/,MadS (2024),2024-10-25
+https://image.tmdb.org/t/p/w185/53IK9rlZJbwFYbNnJZiLq7UWxkT.jpg,4.6,https://vip2.idlixvip.asia/movie/bagman-2024/,Bagman (2024),2024-09-20
+https://image.tmdb.org/t/p/w185/gemFCEHgQYqo8cNbHDI6mTGVx3l.jpg,4.5,https://vip2.idlixvip.asia/movie/rippy-2024/,Rippy (2024),2024-10-31
+https://image.tmdb.org/t/p/w185/jHdmMiS35fN0zLJBXNg3VHLJk9y.jpg,6.0,https://vip2.idlixvip.asia/movie/seven-cemeteries-2024/,Seven Cemeteries (2024),2024-10-11
+https://image.tmdb.org/t/p/w185/eo8BhR8Q5STmWE9sMLsEPagxmy6.jpg,6.2,https://vip2.idlixvip.asia/movie/mama-2013/,Mama (2013),2013-01-17
+https://image.tmdb.org/t/p/w185/33S6yUnEWueNVZABJeFPKUd7Rmz.jpg,0.0,https://vip2.idlixvip.asia/movie/outside-2024/,Outside (2024),2024-10-17
+https://image.tmdb.org/t/p/w185/i77OInTKcrnRlAozFOaB6D5mk15.jpg,0.0,https://vip2.idlixvip.asia/movie/sing-thriller-2024/,Sing: Thriller (2024),2024-10-16
+https://image.tmdb.org/t/p/w185/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg,7.4,https://vip2.idlixvip.asia/movie/alien-romulus-2024/,Alien: Romulus (2024),2024-08-13
+https://image.tmdb.org/t/p/w185/t5TV6Y8yKZXTtg8Abf4uBGVH9mD.jpg,5.3,https://vip2.idlixvip.asia/movie/mr-crocket-2024/,Mr. Crocket (2024),2024-09-26
+https://image.tmdb.org/t/p/w185/nEWbEBs8BalwasA4Un8rll3kauT.jpg,0.0,https://vip2.idlixvip.asia/movie/daddys-head-2024/,Daddy's Head (2024),2024-10-10
+https://image.tmdb.org/t/p/w185/3EpZ2ksjijmdr8BhISP03PYzNFW.jpg,5.7,https://vip2.idlixvip.asia/movie/never-let-go-2024/,Never Let Go (2024),2024-09-18
+https://image.tmdb.org/t/p/w185/jPv8841K4WXXntdci0js51qHzbX.jpg,4.5,https://vip2.idlixvip.asia/movie/death-streamer-2024/,Death Streamer (2024),2024-10-11
+https://image.tmdb.org/t/p/w185/lqoMzCcZYEFK729d6qzt349fB4o.jpg,7.9,https://vip2.idlixvip.asia/movie/the-substance-2024/,The Substance (2024),2024-09-07
+https://image.tmdb.org/t/p/w185/o0QqNbfO5YLcZs066RrRiph10zl.jpg,6.5,https://vip2.idlixvip.asia/movie/my-boo-2024/,My Boo (2024),2024-05-01
+https://image.tmdb.org/t/p/w185/1xqQv9PoOIVX4nHlKVQELaAHyvG.jpg,6.1,https://vip2.idlixvip.asia/movie/tag-2015/,Tag (2015),2015-05-11
+https://image.tmdb.org/t/p/w185/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg,7.0,https://vip2.idlixvip.asia/movie/beetlejuice-beetlejuice-2024/,Beetlejuice Beetlejuice (2024),2024-09-04
+https://image.tmdb.org/t/p/w185/iz2GabtToVB05gLTVSH7ZvFtsMM.jpg,4.8,https://vip2.idlixvip.asia/movie/hellboy-the-crooked-man-2024/,Hellboy: The Crooked Man (2024),2024-08-29
+https://image.tmdb.org/t/p/w185/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg,5.6,https://vip2.idlixvip.asia/movie/azrael-2024/,Azrael (2024),2024-09-27
+https://image.tmdb.org/t/p/w185/oXg4MGeXn8wIQQP1oGqprGl9aYM.jpg,6.1,https://vip2.idlixvip.asia/movie/things-will-be-different-2024/,Things Will Be Different (2024),2024-10-04
+https://image.tmdb.org/t/p/w185/nrZQt5fykCSP7JnP6qon0UJ2Acj.jpg,6.2,https://vip2.idlixvip.asia/movie/the-wait-2023/,The Wait (2023),2023-12-15
+https://image.tmdb.org/t/p/w185/y3oWzE9jzCNfJ1B1R1ndVVG5Uh9.jpg,5.5,https://vip2.idlixvip.asia/movie/suburban-gothic-2014/,Suburban Gothic (2014),2014-07-19
+https://image.tmdb.org/t/p/w185/wXaf6VGNHIGU7qivapGOF7o4o4N.jpg,0.0,https://vip2.idlixvip.asia/movie/v-h-s-beyond-2024/,V/H/S/Beyond (2024),2024-09-20
+https://image.tmdb.org/t/p/w185/lnYn5X6vWFbw9CLzcuP56Svjksm.jpg,7.4,https://vip2.idlixvip.asia/movie/its-whats-inside-2024/,It's What's Inside (2024),2024-01-19
+https://image.tmdb.org/t/p/w185/tpWZjYkbOlcfxfH5Qu5g9SzAtUL.jpg,2.2,https://vip2.idlixvip.asia/movie/bungalow-section-12-2024/,Bungalow Section 12 (2024),2024-01-25
+https://image.tmdb.org/t/p/w185/7DDqi6BiLgLieN3MaQYX36dOWIk.jpg,5.3,https://vip2.idlixvip.asia/movie/revenge-of-the-pontianak-2019/,Revenge of the Pontianak (2019),2019-08-29
+https://image.tmdb.org/t/p/w185/xUk5AGcGvybPBvvMqrDPbAFAknD.jpg,2.7,https://vip2.idlixvip.asia/movie/the-human-centipede-3-final-sequence-2015/,The Human Centipede 3 (Final Sequence) (2015),2015-05-22
+https://image.tmdb.org/t/p/w185/9YEUMnMhIjD5ek4zIqOhLSnTnJS.jpg,3.8,https://vip2.idlixvip.asia/movie/the-human-centipede-2-full-sequence-2011/,The Human Centipede 2 (Full Sequence) (2011),2011-10-06
+https://image.tmdb.org/t/p/w185/j7ncdqBVufydVzVtxmXu8Ago4ox.jpg,6.8,https://vip2.idlixvip.asia/movie/salems-lot-2024/,Salem's Lot (2024),2024-10-03
+https://image.tmdb.org/t/p/w185/kuzw7lXL9NJZpSL1B9ckwT8Z2ss.jpg,6.5,https://vip2.idlixvip.asia/movie/hold-your-breath-2024/,Hold Your Breath (2024),2024-09-12
+https://image.tmdb.org/t/p/w185/udfMAdiyKhgAS47dRXEnXo6tHt6.jpg,4.7,https://vip2.idlixvip.asia/movie/house-of-spoils-2024/,House of Spoils (2024),2024-09-21
+https://image.tmdb.org/t/p/w185/8XAX6KaqNGcLXcwoDwxyU0bxhxm.jpg,6.8,https://vip2.idlixvip.asia/movie/warm-bodies-2013/,Warm Bodies (2013),2013-01-31
+https://image.tmdb.org/t/p/w185/9pIvQaQV0sMHx7d3Ys9qTK9YqTZ.jpg,4.0,https://vip2.idlixvip.asia/movie/one-missed-call-2008/,One Missed Call (2008),2008-01-04
+https://image.tmdb.org/t/p/w185/j04V65bOn55NYs6w3aQYxNgWSoK.jpg,4.9,https://vip2.idlixvip.asia/movie/one-missed-call-3-final-2006/,One Missed Call 3: Final (2006),2006-06-24
+https://image.tmdb.org/t/p/w185/mbEtfU4WcwKG84dHpSPJV9KZTqq.jpg,5.3,https://vip2.idlixvip.asia/movie/one-missed-call-2-2005/,One Missed Call 2 (2005),2005-02-05
+https://image.tmdb.org/t/p/w185/8ujSEEePCVMyi7Mt1RQMXd6SWmy.jpg,6.2,https://vip2.idlixvip.asia/movie/one-missed-call-2003/,One Missed Call (2003),2003-11-03
+https://image.tmdb.org/t/p/w185/t01TUL5X2oBNF0qjjgS4BXaWplJ.jpg,7.2,https://vip2.idlixvip.asia/movie/speak-no-evil-2024/,Speak No Evil (2024),2024-09-11
+https://image.tmdb.org/t/p/w185/rhhE4U49hM50s7XCYZ8dHShhM7x.jpg,7.6,https://vip2.idlixvip.asia/movie/strange-darling-2024/,Strange Darling (2024),2024-08-22
+https://image.tmdb.org/t/p/w185/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg,7.6,https://vip2.idlixvip.asia/movie/the-others-2001/,The Others (2001),2001-08-02
+https://image.tmdb.org/t/p/w185/oyjEPno8omeDYVNqUZS2RiEpuRC.jpg,0.0,https://vip2.idlixvip.asia/movie/apartment-7a-2024/,Apartment 7A (2024),2024-09-20
+https://image.tmdb.org/t/p/w185/hgpUvybRQzRK6UagoHNQRrO8sUg.jpg,5.3,https://vip2.idlixvip.asia/movie/last-straw-2024/,Last Straw (2024),2024-09-20
+https://image.tmdb.org/t/p/w185/wU038xWl3m2mmrmAIaSrkWZj0ro.jpg,6.6,https://vip2.idlixvip.asia/movie/abnormal-buas-2024/,Abnormal: Buas (2024),2024-06-20
+https://image.tmdb.org/t/p/w185/sWIwES7kkAGjD6rihy26plmkXHU.jpg,6.4,https://vip2.idlixvip.asia/movie/the-passenger-2023/,The Passenger (2023),2023-08-04
+https://image.tmdb.org/t/p/w185/7ARbqk8SqABU8QqANvpJCpMQ5nj.jpg,6.2,https://vip2.idlixvip.asia/movie/the-arrival-1996/,The Arrival (1996),1996-05-31
+https://image.tmdb.org/t/p/w185/w0SFLjdtQtjCB4LvwB7On2V1lgG.jpg,5.1,https://vip2.idlixvip.asia/movie/afraid-2024/,Afraid (2024),2024-08-28
+https://image.tmdb.org/t/p/w185/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg,6.2,https://vip2.idlixvip.asia/movie/cuckoo-2024/,Cuckoo (2024),2024-08-02
+https://image.tmdb.org/t/p/w185/tpAmowSY4fAzlT8nxSZjaWABWLo.jpg,5.8,https://vip2.idlixvip.asia/movie/claws-2024/,Claws (2024),2024-06-07
+https://image.tmdb.org/t/p/w185/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg,4.6,https://vip2.idlixvip.asia/movie/subservience-2024/,Subservience (2024),2024-08-15
+https://image.tmdb.org/t/p/w185/by3EEDIVTdhNJolYK2Msn1RHRFH.jpg,6.4,https://vip2.idlixvip.asia/movie/here-after-2024/,Here After (2024),2024-07-25
+https://image.tmdb.org/t/p/w185/g8TbOXrNMuqq7AaKqdvqS2oG4ob.jpg,4.6,https://vip2.idlixvip.asia/movie/the-crow-2024/,The Crow (2024),2024-08-21
+https://image.tmdb.org/t/p/w185/sKS1Vuqj7OQpOumfs6ArC0TICTN.jpg,6.2,https://vip2.idlixvip.asia/movie/stigmata-1999/,Stigmata (1999),1999-09-02
+https://image.tmdb.org/t/p/w185/2sQWnbH1sFvA1Ug9Jtm8HBDnL16.jpg,5.0,https://vip2.idlixvip.asia/movie/sijjin-6-2019/,Sijjin 6 (2019),2019-08-09
+https://image.tmdb.org/t/p/w185/uN3Hla4lzoiuLWKtDcTta3Dlq2X.jpg,5.0,https://vip2.idlixvip.asia/movie/sijjin-5-2018/,Sijjin 5 (2018),2018-08-17
+https://image.tmdb.org/t/p/w185/8zuhJulB5s77cZAfs5yt8FsWuuR.jpg,5.7,https://vip2.idlixvip.asia/movie/sijjin-4-2017/,Sijjin 4 (2017),2017-09-01
+https://image.tmdb.org/t/p/w185/kUZJoSDQ42ccWUjNU9k69c56aMg.jpg,6.0,https://vip2.idlixvip.asia/movie/sijjin-3-the-forbidden-love-2016/,Sijjin 3: The Forbidden Love (2016),2016-09-02
+https://image.tmdb.org/t/p/w185/92HBT46woySCuwROxD0P1C1m0Af.jpg,6.1,https://vip2.idlixvip.asia/movie/sijjin-2-2015/,Sijjin 2 (2015),2015-07-10
+https://image.tmdb.org/t/p/w185/fYbhwSIVl42JA4f6rs3MeE2wR4s.jpg,6.0,https://vip2.idlixvip.asia/movie/sijjin-2014/,Sijjin (2014),2014-09-26
+https://image.tmdb.org/t/p/w185/og1FteMFRInoQnlZeWqEn8XpXHh.jpg,5.3,https://vip2.idlixvip.asia/movie/the-deliverance-2024/,The Deliverance (2024),2024-08-16
+https://image.tmdb.org/t/p/w185/kDijoX2DQlymtUL44lCxJ1JLsGL.jpg,8.0,https://vip2.idlixvip.asia/movie/out-come-the-wolves-2024/,Out Come the Wolves (2024),2024-08-30
+https://image.tmdb.org/t/p/w185/dZFkk6qkHkyK8ZLtSnoomVzbK2c.jpg,4.8,https://vip2.idlixvip.asia/movie/place-of-bones-2024/,Place of Bones (2024),2024-08-23
+https://image.tmdb.org/t/p/w185/f60S3DisfgrKtrclwB9FOeBxVWK.jpg,5.5,https://vip2.idlixvip.asia/movie/dead-boys-club-2024/,Dead Boys Club (2024),2024-04-25
+https://image.tmdb.org/t/p/w185/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg,7.6,https://vip2.idlixvip.asia/movie/what-we-do-in-the-shadows-2014/,What We Do in the Shadows (2014),2014-06-19
+https://image.tmdb.org/t/p/w185/wPsu2NM0eUpoqycgjjnRJIwxK13.jpg,3.9,https://vip2.idlixvip.asia/movie/species-the-awakening-2007/,Species: The Awakening (2007),2007-10-02
+https://image.tmdb.org/t/p/w185/gaZYFFw1RlEIubcmGUFZbhjtH2p.jpg,4.2,https://vip2.idlixvip.asia/movie/species-iii-2004/,Species III (2004),2004-11-26
+https://image.tmdb.org/t/p/w185/8LSBi0bHACZtIiVErUBQ2UXNYLA.jpg,4.5,https://vip2.idlixvip.asia/movie/species-ii-1998/,Species II (1998),1998-04-10
+https://image.tmdb.org/t/p/w185/cT5wdyo8kT7dycqjrolJ2sHWkFx.jpg,5.9,https://vip2.idlixvip.asia/movie/species-1995/,Species (1995),1995-07-07
+https://image.tmdb.org/t/p/w185/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg,5.8,https://vip2.idlixvip.asia/movie/carrie-2013/,Carrie (2013),2013-10-16
+https://image.tmdb.org/t/p/w185/knjeEeeyIwDkUtZwDfJOcUIuNdB.jpg,5.4,https://vip2.idlixvip.asia/movie/carrie-2002/,Carrie (2002),2002-11-04
+https://image.tmdb.org/t/p/w185/fiGEbHu1CzpTpo4fiAZqXlMJPle.jpg,4.8,https://vip2.idlixvip.asia/movie/the-rage-carrie-2-1999/,The Rage: Carrie 2 (1999),1999-03-12
+https://image.tmdb.org/t/p/w185/uc3OvgmbnYaS5Y0BOjSmC1EmSz1.jpg,7.4,https://vip2.idlixvip.asia/movie/carrie-1976/,Carrie (1976),1976-11-03
+https://image.tmdb.org/t/p/w185/7PFc431SEiHbsMjrkF1VAfFlPn3.jpg,7.1,https://vip2.idlixvip.asia/movie/longlegs-2024/,Longlegs (2024),2024-07-10
+https://image.tmdb.org/t/p/w185/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg,3.8,https://vip2.idlixvip.asia/movie/crescent-city-2024/,Crescent City (2024),2024-08-16
+https://image.tmdb.org/t/p/w185/uln9Efc2vzDOl0Fue2BPs8l1WO7.jpg,7.4,https://vip2.idlixvip.asia/movie/oddity-2024/,Oddity (2024),2024-07-19
+https://image.tmdb.org/t/p/w185/nU5ZeQpy32xbwtxHua1ZkT5QquZ.jpg,5.5,https://vip2.idlixvip.asia/movie/we-are-zombies-2024/,We Are Zombies (2024),2024-07-17
+https://image.tmdb.org/t/p/w185/jCyJN1vj8jqJJ0vNw4hDH2KlySO.jpg,4.6,https://vip2.idlixvip.asia/movie/aliens-vs-predator-requiem-2007/,Aliens vs Predator: Requiem (2007),2007-12-25
+https://image.tmdb.org/t/p/w185/HFgrMNlGKXIpFxYgvuDxQXVhZg.jpg,5.7,https://vip2.idlixvip.asia/movie/avp-alien-vs-predator-2004/,AVP: Alien vs. Predator (2004),2004-08-12
+https://image.tmdb.org/t/p/w185/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg,6.2,https://vip2.idlixvip.asia/movie/alien-resurrection-1997/,Alien Resurrection (1997),1997-11-12
+https://image.tmdb.org/t/p/w185/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg,6.4,https://vip2.idlixvip.asia/movie/alien%c2%b3-1992/,Alien³ (1992),1992-05-22
+https://image.tmdb.org/t/p/w185/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg,8.4,https://vip2.idlixvip.asia/movie/aliens-1986/,Aliens (1986),1986-07-18
+https://image.tmdb.org/t/p/w185/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg,8.5,https://vip2.idlixvip.asia/movie/alien-1979/,Alien (1979),1979-05-25
+https://image.tmdb.org/t/p/w185/5RvNjlDufqUBH3iHBPb1cS53wXl.jpg,4.6,https://vip2.idlixvip.asia/movie/the-beast-within-2024/,The Beast Within (2024),2024-07-22
+https://image.tmdb.org/t/p/w185/3qQok7BPKVcM0DA9Zu5OeMzzmk6.jpg,4.6,https://vip2.idlixvip.asia/movie/the-inheritance-2024/,The Inheritance (2024),2024-07-12
+https://image.tmdb.org/t/p/w185/jYBEX4ed6NBeDYbqC5Rd0xVzblO.jpg,3.5,https://vip2.idlixvip.asia/movie/ghost-project-2023/,Ghost Project (2023),2023-08-07
+https://image.tmdb.org/t/p/w185/dHvOI2eyVGwsmAHWT5NJRCrNGHq.jpg,3.4,https://vip2.idlixvip.asia/movie/cruel-jaws-1995/,Cruel Jaws (1995),1995-05-05
+https://image.tmdb.org/t/p/w185/ebYw9tR0iqBzDGA6HVBhtd2xJM3.jpg,3.0,https://vip2.idlixvip.asia/movie/jaws-the-revenge-1987/,Jaws: The Revenge (1987),1987-07-17
+https://image.tmdb.org/t/p/w185/kqDXj53F9paqVGJLGfHtz7giJ3s.jpg,3.7,https://vip2.idlixvip.asia/movie/jaws-3-d-1983/,Jaws 3-D (1983),1983-07-22
+https://image.tmdb.org/t/p/w185/cN3ijEwsn4kBaRuHfcJpAQJbeWe.jpg,5.8,https://vip2.idlixvip.asia/movie/jaws-2-1978/,Jaws 2 (1978),1978-06-16
+https://image.tmdb.org/t/p/w185/lxM6kqilAdpdhqUl2biYp5frUxE.jpg,8.1,https://vip2.idlixvip.asia/movie/jaws-1975/,Jaws (1975),1975-06-20
+https://image.tmdb.org/t/p/w185/9AGJMNrUfBMIGkCeKNccQbj0Nyg.jpg,5.4,https://vip2.idlixvip.asia/movie/curve-2015/,Curve (2015),2015-08-31
+https://image.tmdb.org/t/p/w185/lq8ktDO2uqJFgV0jRlMQlPSmNm8.jpg,4.6,https://vip2.idlixvip.asia/movie/i-am-the-pretty-thing-that-lives-in-the-house-2016/,I Am the Pretty Thing That Lives in the House (2016),2016-09-10
+https://image.tmdb.org/t/p/w185/3jPSvaW9veHVeaEll9DH7eoJ634.jpg,5.3,https://vip2.idlixvip.asia/movie/the-final-2010/,The Final (2010),2010-01-28
+https://image.tmdb.org/t/p/w185/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg,6.8,https://vip2.idlixvip.asia/movie/maxxxine-2024/,MaXXXine (2024),2024-07-04
+https://image.tmdb.org/t/p/w185/vWb8fEIsqKpO36Y7K5QH4DyV7zn.jpg,4.6,https://vip2.idlixvip.asia/movie/the-last-breath-2024/,The Last Breath (2024),2024-06-28
+https://image.tmdb.org/t/p/w185/vF1c2qgjSP4bKi0Aq7F56AsfmtB.jpg,4.3,https://vip2.idlixvip.asia/movie/the-abandon-2024/,The Abandon (2024),2024-07-19
+https://image.tmdb.org/t/p/w185/5j37QHXuNygzEa2X54RMlOb6hj3.jpg,5.3,https://vip2.idlixvip.asia/movie/starve-acre-2024/,Starve Acre (2024),2024-07-26
+https://image.tmdb.org/t/p/w185/w5siOEoWENdEkkGidm3ip5qJfA3.jpg,4.6,https://vip2.idlixvip.asia/movie/dead-sea-2024/,Dead Sea (2024),2024-07-26
+https://image.tmdb.org/t/p/w185/6tbY9zSftquXK9xsdqU6LGFIj5F.jpg,4.9,https://vip2.idlixvip.asia/movie/pee-nak-4-2024/,Pee Nak 4 (2024),2024-02-22
+https://image.tmdb.org/t/p/w185/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg,6.7,https://vip2.idlixvip.asia/movie/a-quiet-place-day-one-2024/,A Quiet Place: Day One (2024),2024-06-26
+https://image.tmdb.org/t/p/w185/ncrqu5fuEsWNmdLuIps3XiVLioy.jpg,4.1,https://vip2.idlixvip.asia/movie/latency-2024/,Latency (2024),2024-06-14
+https://image.tmdb.org/t/p/w185/81VQ6vemmPxx0NEcCYJ8ECqFYbt.jpg,4.3,https://vip2.idlixvip.asia/movie/hoon-payon-2023/,Hoon Payon (2023),2023-03-09
+https://image.tmdb.org/t/p/w185/9YlsIwWATGwT6LL5UZVF5xoBTcC.jpg,6.2,https://vip2.idlixvip.asia/movie/hell-house-llc-origins-the-carmichael-manor-2023/,Hell House LLC Origins: The Carmichael Manor (2023),2023-10-24
+https://image.tmdb.org/t/p/w185/gchygJq6AnzGFg0uYRDKn7mqsyU.jpg,5.1,https://vip2.idlixvip.asia/movie/hell-house-llc-iii-lake-of-fire-2019/,Hell House LLC III: Lake of Fire (2019),2019-09-19
+https://image.tmdb.org/t/p/w185/chFGqQVmEmskFKXZEbp4hYVT5IM.jpg,5.3,https://vip2.idlixvip.asia/movie/hell-house-llc-ii-the-abaddon-hotel-2018/,Hell House LLC II: The Abaddon Hotel (2018),2018-09-14
+https://image.tmdb.org/t/p/w185/3yVrnuBH1cV1APK80BijYrru32e.jpg,4.6,https://vip2.idlixvip.asia/movie/pagpag-24-7-2024/,Pagpag 24/7 (2024),2024-03-20
+https://image.tmdb.org/t/p/w185/xUSCQEbbAy3Lv6r00RfXtdxhRDX.jpg,6.4,https://vip2.idlixvip.asia/movie/hell-house-llc-2015/,Hell House LLC (2015),2015-10-16
+https://image.tmdb.org/t/p/w185/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg,4.5,https://vip2.idlixvip.asia/movie/the-exorcism-2024/,The Exorcism (2024),2024-05-30
+https://image.tmdb.org/t/p/w185/2sADrLwMQof6yYmrJRSa04tFZuS.jpg,4.6,https://vip2.idlixvip.asia/movie/winnie-the-pooh-blood-and-honey-2-2024/,Winnie-the-Pooh: Blood and Honey 2 (2024),2024-03-26
+https://image.tmdb.org/t/p/w185/lKr93lCNP7NHvSiLduHly61wn5f.jpg,4.9,https://vip2.idlixvip.asia/movie/0-0mhz-2019/,0.0MHz (2019),2019-05-29
+https://image.tmdb.org/t/p/w185/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg,6.0,https://vip2.idlixvip.asia/movie/i-saw-the-tv-glow-2024/,I Saw the TV Glow (2024),2024-05-03
+https://image.tmdb.org/t/p/w185/17esFRgxCM5zvFoAdywxrNKRaT3.jpg,5.9,https://vip2.idlixvip.asia/movie/the-sin-2024/,The Sin (2024),2024-04-03
+https://image.tmdb.org/t/p/w185/b9ZX6U4YflWmNaQqG6DvaaNGwOy.jpg,6.0,https://vip2.idlixvip.asia/movie/in-a-violent-nature-2024/,In a Violent Nature (2024),2024-05-31
+https://image.tmdb.org/t/p/w185/ycoXsJomPmPjtCfNweM0UWiTkPY.jpg,7.0,https://vip2.idlixvip.asia/movie/the-devils-bath-2024/,The Devil's Bath (2024),2024-03-08
+https://image.tmdb.org/t/p/w185/vZVEUPychdvZLrTNwWErr9xZFmu.jpg,5.7,https://vip2.idlixvip.asia/movie/the-watchers-2024/,The Watchers (2024),2024-06-06
+https://image.tmdb.org/t/p/w185/lhUWW8R0YJZzOj3bV2Fh5MBuSfQ.jpg,6.6,https://vip2.idlixvip.asia/movie/mallari-2023/,Mallari (2023),2023-12-25
+https://image.tmdb.org/t/p/w185/fnmYgr4AOOE09zKa7omPW1FWT8K.jpg,5.7,https://vip2.idlixvip.asia/movie/the-bay-2012/,The Bay (2012),2012-09-13
+https://image.tmdb.org/t/p/w185/nJMNvYZ21bMdB2Pq0qCk88jnQc6.jpg,3.4,https://vip2.idlixvip.asia/movie/wild-eyed-and-wicked-2024/,Wild Eyed and Wicked (2024),2024-06-11
+https://image.tmdb.org/t/p/w185/fPQHphdpewjHXb0IsLdfSnM4fYU.jpg,3.3,https://vip2.idlixvip.asia/movie/the-hangman-2024/,The Hangman (2024),2024-05-30
+https://image.tmdb.org/t/p/w185/lUKvvSnjFlazrdh6wyHxHrdMknD.jpg,6.3,https://vip2.idlixvip.asia/movie/scouts-guide-to-the-zombie-apocalypse-2015/,Scouts Guide to the Zombie Apocalypse (2015),2015-10-23
+https://image.tmdb.org/t/p/w185/qyT2xw9FBxHlNXQYsuNCu8T7Rbo.jpg,5.0,https://vip2.idlixvip.asia/movie/the-strangers-chapter-1-2024/,The Strangers: Chapter 1 (2024),2024-05-15
+https://image.tmdb.org/t/p/w185/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg,0.0,https://vip2.idlixvip.asia/movie/under-paris-2024/,Under Paris (2024),2024-06-05
+https://image.tmdb.org/t/p/w185/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg,5.0,https://vip2.idlixvip.asia/movie/tarot-2024/,Tarot (2024),2024-05-01
+https://image.tmdb.org/t/p/w185/cIzk6GhxEZuweekGFXWEoAyuaMX.jpg,6.8,https://vip2.idlixvip.asia/movie/the-first-omen-2024/,The First Omen (2024),2024-04-03
+https://image.tmdb.org/t/p/w185/d4fXuJS3zZcAZfz2HYDtnwqtnwn.jpg,6.4,https://vip2.idlixvip.asia/movie/a-cure-for-wellness-2017/,A Cure for Wellness (2017),2017-02-15
+https://image.tmdb.org/t/p/w185/ywMA2jiUpcvvFeqEdMe8HvoV8Ec.jpg,7.6,https://vip2.idlixvip.asia/movie/the-skin-i-live-in-2011/,The Skin I Live In (2011),2011-08-17
+https://image.tmdb.org/t/p/w185/1iWGGxHEwswZGvPSoMZlLFf0PNq.jpg,4.1,https://vip2.idlixvip.asia/movie/something-in-the-water-2024/,Something in the Water (2024),2024-03-22
+https://image.tmdb.org/t/p/w185/zuSAZIG1PSrxFwPeAlGtg9LTwxo.jpg,5.9,https://vip2.idlixvip.asia/movie/sting-2024/,Sting (2024),2024-04-12
+https://image.tmdb.org/t/p/w185/fYHiA7LPGl9DG7m3DUs0Td1VMcO.jpg,5.7,https://vip2.idlixvip.asia/movie/priest-2011/,Priest (2011),2011-05-05
+https://image.tmdb.org/t/p/w185/m3bwUWLBe5ogVB8HmpQs2YNNq3S.jpg,7.1,https://vip2.idlixvip.asia/movie/abigail-2024/,Abigail (2024),2024-04-18
+https://image.tmdb.org/t/p/w185/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg,5.3,https://vip2.idlixvip.asia/movie/humane-2024/,Humane (2024),2024-04-26
+https://image.tmdb.org/t/p/w185/bYTerxU14TaGKfAmbaWMmGH5ORo.jpg,7.9,https://vip2.idlixvip.asia/movie/new-life-2024/,New Life (2024),2024-05-03
+https://image.tmdb.org/t/p/w185/oRvFzcagAcC6Q317xtV7QXzwBnj.jpg,7.2,https://vip2.idlixvip.asia/movie/shaitaan-2024/,Shaitaan (2024),2024-03-08
+https://image.tmdb.org/t/p/w185/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg,8.3,https://vip2.idlixvip.asia/movie/godzilla-minus-one-2023/,Godzilla Minus One (2023),2023-11-03
+https://image.tmdb.org/t/p/w185/hvnedYKwtR6I2MKRZXC0orxvehp.jpg,6.2,https://vip2.idlixvip.asia/movie/arcadian-2024/,Arcadian (2024),2024-04-12
+https://image.tmdb.org/t/p/w185/slWaOsvj3zKd0XUfLuJDVLOj5n7.jpg,4.7,https://vip2.idlixvip.asia/movie/model-house-2024/,Model House (2024),2024-04-05
+https://image.tmdb.org/t/p/w185/pQYHouPsDw32FhDLr7E3jmw0WTk.jpg,7.4,https://vip2.idlixvip.asia/movie/exhuma-2024/,Exhuma (2024),2024-02-22
+https://image.tmdb.org/t/p/w185/vACxlHSSndGxKK1AYPZva6kWX9L.jpg,0.0,https://vip2.idlixvip.asia/movie/the-djinns-curse-2023/,The Djinn's Curse (2023),2023-09-28
+https://image.tmdb.org/t/p/w185/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg,7.3,https://vip2.idlixvip.asia/movie/late-night-with-the-devil-2024/,Late Night with the Devil (2024),2024-03-19
+https://image.tmdb.org/t/p/w185/eNJrGi1A8lEK6vaBsz5p2FREs1h.jpg,6.1,https://vip2.idlixvip.asia/movie/project-dorothy-2024/,Project Dorothy (2024),2024-01-16
+https://image.tmdb.org/t/p/w185/kf1Qq9b32jn4umll9qD2ue5ftnh.jpg,5.5,https://vip2.idlixvip.asia/movie/the-omen-2006/,The Omen (2006),2006-06-06
+https://image.tmdb.org/t/p/w185/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg,6.3,https://vip2.idlixvip.asia/movie/immaculate-2024/,Immaculate (2024),2024-03-20
+https://image.tmdb.org/t/p/w185/y5RGDxxCPButkHHlc8irUjkVY0V.jpg,5.7,https://vip2.idlixvip.asia/movie/bag-of-lies-2024/,Bag of Lies (2024),2024-03-29
+https://image.tmdb.org/t/p/w185/qT9jhRnf67dmMNpX2FmNPMeuW57.jpg,5.6,https://vip2.idlixvip.asia/movie/ghost-ship-2002/,Ghost Ship (2002),2002-10-25
+https://image.tmdb.org/t/p/w185/48TDjSJpCdJ4SBOHZX3G5IjaV02.jpg,6.4,https://vip2.idlixvip.asia/movie/death-whisperer-2023/,Death Whisperer (2023),2023-10-25
+https://image.tmdb.org/t/p/w185/lbOyeiiRYAE6Nm2e7xiNAAaRwZB.jpg,5.4,https://vip2.idlixvip.asia/movie/baghead-2023/,Baghead (2023),2023-12-28
+https://image.tmdb.org/t/p/w185/zGrVrokVCP6nvSnJeI905aw1nWz.jpg,4.6,https://vip2.idlixvip.asia/movie/the-gates-2024/,The Gates (2024),2024-03-18
+https://image.tmdb.org/t/p/w185/cIo8zG4YIJTVOnvw2EQc71KxBfv.jpg,4.5,https://vip2.idlixvip.asia/movie/shake-rattle-roll-extreme-2023/,"Shake, Rattle & Roll Extreme (2023)",2023-11-29
+https://image.tmdb.org/t/p/w185/e2t5CKMox7tjv3iD3Ko7NdFa5lJ.jpg,7.1,https://vip2.idlixvip.asia/movie/the-ring-2002/,The Ring (2002),2002-10-18
+https://image.tmdb.org/t/p/w185/sZSqZ8vPp6CSY0fBfFswbUXJHCt.jpg,7.2,https://vip2.idlixvip.asia/movie/ring-1998/,Ring (1998),1998-01-31
+https://image.tmdb.org/t/p/w185/wrkjsGcFJxcQqR56kJUYAEKKg2T.jpg,5.5,https://vip2.idlixvip.asia/movie/jennifers-body-2009/,Jennifer's Body (2009),2009-09-18
+https://image.tmdb.org/t/p/w185/52E0LGcMKHOO91P4j6hdHKVwITP.jpg,5.3,https://vip2.idlixvip.asia/movie/the-deep-house-2021/,The Deep House (2021),2021-06-30
+https://image.tmdb.org/t/p/w185/vlRhgfrfBzJKjeGwoUjTvSwk8gi.jpg,4.8,https://vip2.idlixvip.asia/movie/imaginary-2024/,Imaginary (2024),2024-03-06
+https://image.tmdb.org/t/p/w185/dqtAOLQ8KqAYoZckYY9j99NNr9K.jpg,6.5,https://vip2.idlixvip.asia/movie/youll-never-find-me-2024/,You'll Never Find Me (2024),2024-03-14
+https://image.tmdb.org/t/p/w185/shsdw00R6RwkGsUmT7O5cKhmLqv.jpg,5.3,https://vip2.idlixvip.asia/movie/night-shift-2024/,Night Shift (2024),2024-03-08
+https://image.tmdb.org/t/p/w185/qcrbiVMOkAaOyha8BqyVDQCTwh6.jpg,3.5,https://vip2.idlixvip.asia/movie/stranger-in-the-woods-2024/,Stranger in the Woods (2024),2024-02-14
+https://image.tmdb.org/t/p/w185/y7LUlsfkJBHmMpsd0RqbE6zp2Am.jpg,2.4,https://vip2.idlixvip.asia/movie/earworm-2024/,Earworm (2024),2024-02-13
+https://image.tmdb.org/t/p/w185/d4maZqH6a4vOUKuFzUrARZAiNc3.jpg,4.7,https://vip2.idlixvip.asia/movie/lovely-dark-and-deep-2023/,"Lovely, Dark, and Deep (2023)",2023-07-23
+https://image.tmdb.org/t/p/w185/y21OxLwcmMrxiMRkAnritHDVwC7.jpg,3.5,https://vip2.idlixvip.asia/movie/history-of-evil-2023/,History of Evil (2023),2023-09-30
+https://image.tmdb.org/t/p/w185/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg,6.3,https://vip2.idlixvip.asia/movie/stopmotion-2024/,Stopmotion (2024),2024-02-22
+https://image.tmdb.org/t/p/w185/vPhyhML0SNojTUCWCuOxZDCTT1y.jpg,5.2,https://vip2.idlixvip.asia/movie/doom-2005/,Doom (2005),2005-10-20
+https://image.tmdb.org/t/p/w185/qzGcTLjV06r7WtZkSKeRSIVcPk9.jpg,5.9,https://vip2.idlixvip.asia/movie/the-hand-2023/,The Hand (2023),2023-06-21
+https://image.tmdb.org/t/p/w185/somL0rNxv9q60m9DgKhzOVNrJ3Q.jpg,5.9,https://vip2.idlixvip.asia/movie/metamorphosis-2019/,Metamorphosis (2019),2019-08-21
+https://image.tmdb.org/t/p/w185/mdPnNWU05ivcVp0rF2Dv9n5Maf4.jpg,6.6,https://vip2.idlixvip.asia/movie/lisa-frankenstein-2024/,Lisa Frankenstein (2024),2024-02-07
+https://image.tmdb.org/t/p/w185/xhvmUcBl3q8LHkMkX8sLx8gs2qy.jpg,5.4,https://vip2.idlixvip.asia/movie/the-bridge-curse-ritual-2023/,The Bridge Curse: Ritual (2023),2023-10-13
+https://image.tmdb.org/t/p/w185/1Eg0lFWDH1RBWsj7bu9lZEL2VeG.jpg,6.3,https://vip2.idlixvip.asia/movie/tiger-stripes-2023/,Tiger Stripes (2023),2023-10-19
+https://image.tmdb.org/t/p/w185/rieMzC6JJoMVbsaUv6Rzj0fR7Px.jpg,5.0,https://vip2.idlixvip.asia/movie/no-way-up-2024/,No Way Up (2024),2024-01-18
+https://image.tmdb.org/t/p/w185/uK6U2fislddbHWjlYxqgd2Uz8SI.jpg,4.6,https://vip2.idlixvip.asia/movie/the-piper-2023/,The Piper (2023),2023-10-12
+https://image.tmdb.org/t/p/w185/jsOaCojcuxktg8w1UQkoFfn1y1g.jpg,4.2,https://vip2.idlixvip.asia/movie/the-jester-2023/,The Jester (2023),2023-09-20
+https://image.tmdb.org/t/p/w185/nBrzD4DOsj1lbXvjODGAbA8ddm8.jpg,4.5,https://vip2.idlixvip.asia/movie/the-vampire-next-door-2024/,The Vampire Next Door (2024),2024-01-01
+https://image.tmdb.org/t/p/w185/c6Ga1AUGPe3GwlpX3qDYrD9y3EZ.jpg,4.4,https://vip2.idlixvip.asia/movie/hollow-man-ii-2006/,Hollow Man II (2006),2006-05-23
+https://image.tmdb.org/t/p/w185/sd3qUIv5uoP2oTbqv66CzXSPjKG.jpg,5.8,https://vip2.idlixvip.asia/movie/hollow-man-2000/,Hollow Man (2000),2000-08-04
+https://image.tmdb.org/t/p/w185/piK7sqRNjToW7ryMbWEG34vFup5.jpg,3.7,https://vip2.idlixvip.asia/movie/skeletons-in-the-closet-2024/,Skeletons in the Closet (2024),2024-01-24
+https://image.tmdb.org/t/p/w185/jSR06FpV1H36OmW0jfEmvG73l2r.jpg,4.5,https://vip2.idlixvip.asia/movie/cult-killer-2024/,Cult Killer (2024),2024-01-19
+https://image.tmdb.org/t/p/w185/fUM8cjJ65yDH0RETDbX6K1YPV6H.jpg,6.3,https://vip2.idlixvip.asia/movie/rahsia-2023/,Rahsia (2023),2023-08-10
+https://image.tmdb.org/t/p/w185/7Z5sEOC8Y7bdrg7FmIfNGkNniyX.jpg,6.3,https://vip2.idlixvip.asia/movie/dave-made-a-maze-2017/,Dave Made a Maze (2017),2017-08-18
+https://image.tmdb.org/t/p/w185/fdyejM5Zd6dsa0YyWa02ZAKwQzK.jpg,6.6,https://vip2.idlixvip.asia/movie/drag-me-to-hell-2009/,Drag Me to Hell (2009),2009-05-27
+https://image.tmdb.org/t/p/w185/ou9ZKA2cms02b7CdCdVqGkKu0O0.jpg,7.2,https://vip2.idlixvip.asia/movie/red-dragon-2002/,Red Dragon (2002),2002-10-02
+https://image.tmdb.org/t/p/w185/19pHi0qrUKvnUtwx6EoVbFNxg1E.jpg,4.9,https://vip2.idlixvip.asia/movie/madres-2021/,Madres (2021),2021-10-08
+https://image.tmdb.org/t/p/w185/oy1m5dd44foNrxV8U9l6Walx82V.jpg,7.1,https://vip2.idlixvip.asia/movie/dressed-to-kill-1980/,Dressed to Kill (1980),1980-07-25
+https://image.tmdb.org/t/p/w185/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg,5.0,https://vip2.idlixvip.asia/movie/night-swim-2024/,Night Swim (2024),2024-01-03
+https://image.tmdb.org/t/p/w185/iqfjWpbawO2lB1pbjWlqMWE0coa.jpg,6.0,https://vip2.idlixvip.asia/movie/dr-cheon-and-the-lost-talisman-2023/,Dr. Cheon and the Lost Talisman (2023),2023-09-27
+https://image.tmdb.org/t/p/w185/rZgHvyqDNOYGRNhJONRTjheVRwF.jpg,6.6,https://vip2.idlixvip.asia/movie/the-gossip-2021/,The Gossip (2021),2021-06-03
+https://image.tmdb.org/t/p/w185/9lwzTA2JWdLbe5jA54XyvThVTgN.jpg,3.9,https://vip2.idlixvip.asia/movie/wolf-garden-2023/,Wolf Garden (2023),2023-02-23
+https://image.tmdb.org/t/p/w185/wM0kMyH7YIWm8UFfnJnCyij0XUu.jpg,4.5,https://vip2.idlixvip.asia/movie/a-vampire-in-the-family-2023/,A Vampire in the Family (2023),2023-12-23
+https://image.tmdb.org/t/p/w185/AglMVvKL5hZaEzD1iVl3mdH9qcp.jpg,5.3,https://vip2.idlixvip.asia/movie/the-curse-of-the-totem-2023/,The Curse of the Totem (2023),2023-07-27
+https://image.tmdb.org/t/p/w185/5tqDFNRpx0gG83TMm4695qQBxev.jpg,0.0,https://vip2.idlixvip.asia/movie/zaara-2022/,Zaara (2022),2022-12-29
+https://image.tmdb.org/t/p/w185/5vAobXBwPM4zTCPlTY3fF530Ik6.jpg,0.0,https://vip2.idlixvip.asia/movie/it-exists-2014/,It Exists (2014),2014-05-15
+https://image.tmdb.org/t/p/w185/6bIiCjPtOXkQ4FQ6JLhV2334tnE.jpg,5.1,https://vip2.idlixvip.asia/movie/oh-my-ghost-2022/,Oh! My Ghost (2022),2022-09-15
+https://image.tmdb.org/t/p/w185/bnm5NntrQBcG3P7DbO00v2FmXm8.jpg,5.3,https://vip2.idlixvip.asia/movie/its-a-wonderful-knife-2023/,It's a Wonderful Knife (2023),2023-11-10
+https://image.tmdb.org/t/p/w185/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg,6.9,https://vip2.idlixvip.asia/movie/thanksgiving-2023/,Thanksgiving (2023),2023-11-16
+https://image.tmdb.org/t/p/w185/qjAkIHxu8Ld60ZlzbO1dWlJ4fa9.jpg,5.4,https://vip2.idlixvip.asia/movie/the-rope-curse-3-2023/,The Rope Curse 3 (2023),2023-08-25
+https://image.tmdb.org/t/p/w185/74MuudAjlX4gpQLnIhH35lAbx4q.jpg,4.8,https://vip2.idlixvip.asia/movie/the-rope-curse-2-2020/,The Rope Curse 2 (2020),2020-09-02
+https://image.tmdb.org/t/p/w185/tNaSkqxO2mKWkpg51a894OdOXf6.jpg,5.3,https://vip2.idlixvip.asia/movie/the-rope-curse-2018/,The Rope Curse (2018),2018-08-31
+https://image.tmdb.org/t/p/w185/axrzMJR5VPWYNiW9ArENiMEPTjr.jpg,5.7,https://vip2.idlixvip.asia/movie/theres-something-in-the-barn-2023/,There's Something in the Barn (2023),2023-11-02
+https://image.tmdb.org/t/p/w185/6w9Wphe5O5zySyoGxlYJ5irwh4f.jpg,5.5,https://vip2.idlixvip.asia/movie/the-sacrifice-game-2023/,The Sacrifice Game (2023),2023-12-07
+https://image.tmdb.org/t/p/w185/6xo2OFHncAymOQtzHwPFF0nyHPl.jpg,5.2,https://vip2.idlixvip.asia/movie/the-whole-truth-2021/,The Whole Truth (2021),2021-12-02
+https://image.tmdb.org/t/p/w185/hMj3aLl8z3cXJ70LoPLDi1xMcC8.jpg,6.9,https://vip2.idlixvip.asia/movie/sleep-2023/,Sleep (2023),2023-09-06
+https://image.tmdb.org/t/p/w185/5QOYVE6zS0tyQ3qeGaECD7WWoaF.jpg,6.3,https://vip2.idlixvip.asia/movie/naga-2023/,NAGA (2023),2023-09-08
+https://image.tmdb.org/t/p/w185/ksPKfoXovAiFnBktkCBefsRQ8a1.jpg,3.4,https://vip2.idlixvip.asia/movie/vampires-suck-2010/,Vampires Suck (2010),2010-08-18
+https://image.tmdb.org/t/p/w185/3ciFIoIaT8cglt5hxG4KJWqSaL4.jpg,4.4,https://vip2.idlixvip.asia/movie/bloodthirst-2023/,Bloodthirst (2023),2023-10-31
+https://image.tmdb.org/t/p/w185/7Tq7SrB14r3WpjJQOldbDHQk89J.jpg,7.0,https://vip2.idlixvip.asia/movie/shutter-2004/,Shutter (2004),2004-09-09
+https://image.tmdb.org/t/p/w185/xQVyDiVfrfT7ZDFMh4FA2AoH425.jpg,6.0,https://vip2.idlixvip.asia/movie/the-ghost-2004/,The Ghost (2004),2004-06-18
+https://image.tmdb.org/t/p/w185/jN0uuc8U6M3sTg9zEaliJV60Stf.jpg,6.3,https://vip2.idlixvip.asia/movie/underworld-awakening-2012/,Underworld: Awakening (2012),2012-01-19
+https://image.tmdb.org/t/p/w185/tfNFmBGBVF1biwOTBgFONAeCaDZ.jpg,5.3,https://vip2.idlixvip.asia/movie/night-of-the-hunted-2023/,Night of the Hunted (2023),2023-10-12
+https://image.tmdb.org/t/p/w185/iQ7G9LhP7NRRIUM4Vlai3eOxBAc.jpg,7.4,https://vip2.idlixvip.asia/movie/when-evil-lurks-2023/,When Evil Lurks (2023),2023-10-05
+https://image.tmdb.org/t/p/w185/xBlYO5Pih92UKBN3mYUh8Ptiqh2.jpg,5.3,https://vip2.idlixvip.asia/movie/appendage-2023/,Appendage (2023),2023-03-11
+https://image.tmdb.org/t/p/w185/zfVdFJGGgHDM3RFZdTPhZqy1WEi.jpg,7.1,https://vip2.idlixvip.asia/movie/sister-death-2023/,Sister Death (2023),2023-10-05
+https://image.tmdb.org/t/p/w185/tl3vIpRNKaWyMJiLxkpdT9Q2EWm.jpg,6.0,https://vip2.idlixvip.asia/movie/suitable-flesh-2023/,Suitable Flesh (2023),2023-10-27
+https://image.tmdb.org/t/p/w185/bZ8VjJFMuLdZpoyYm3Mvwo78uFd.jpg,8.2,https://vip2.idlixvip.asia/movie/five-nights-at-freddys-2023/,Five Nights at Freddy's (2023),2023-10-25
+https://image.tmdb.org/t/p/w185/8r1g36QdPBw01B5448ZjHphKsRv.jpg,5.1,https://vip2.idlixvip.asia/movie/the-exorcist-believer-2023/,The Exorcist: Believer (2023),2023-10-04
+https://image.tmdb.org/t/p/w185/v6JcxoSz55QfH3DsnPXAZYPnFcj.jpg,0.0,https://vip2.idlixvip.asia/movie/disco-inferno-2023/,Disco Inferno (2023),2023-10-20
+https://image.tmdb.org/t/p/w185/b16RAVwj2QN6RAs752UJNzQ9Of0.jpg,7.1,https://vip2.idlixvip.asia/movie/saw-x-2023/,Saw X (2023),2023-09-26
+https://image.tmdb.org/t/p/w185/kT5tsoIWnXlLBaeOfkoso11dUgB.jpg,3.9,https://vip2.idlixvip.asia/movie/dear-david-2023/,Dear David (2023),2023-10-13
+https://image.tmdb.org/t/p/w185/iiYx85daT0DzoU4XQGgaynvDtn8.jpg,3.9,https://vip2.idlixvip.asia/movie/dont-look-away-2023/,Don't Look Away (2023),2023-09-01
+https://image.tmdb.org/t/p/w185/wEnct8jeMHYzOfm5Y6QmxD3V61t.jpg,0.0,https://vip2.idlixvip.asia/movie/the-puppetman-2023/,The Puppetman (2023),2023-12-22
+https://image.tmdb.org/t/p/w185/8fwsmvBMVQe1iF608ZpdH4CTx69.jpg,4.9,https://vip2.idlixvip.asia/movie/my-animal-2023/,My Animal (2023),2023-09-08
+https://image.tmdb.org/t/p/w185/2JSsduIaJzlScVunHCc6KYBIOjY.jpg,3.9,https://vip2.idlixvip.asia/movie/til-death-do-us-part-2023/,Til Death Do Us Part (2023),2023-08-03
+https://image.tmdb.org/t/p/w185/sazh8qNbkHDPDSzAhpaRiWXWU98.jpg,4.2,https://vip2.idlixvip.asia/movie/natty-knocks-2023/,Natty Knocks (2023),2023-07-21
+https://image.tmdb.org/t/p/w185/5TA3AmwWKasVMRFGXZk0gRv2Oz6.jpg,3.0,https://vip2.idlixvip.asia/movie/island-escape-2023/,Island Escape (2023),2023-08-08
+https://image.tmdb.org/t/p/w185/yIPSlVaTYuxhbsmSsGBDCZkiN3P.jpg,5.7,https://vip2.idlixvip.asia/movie/v-h-s-85-2023/,V/H/S/85 (2023),2023-09-22
+https://image.tmdb.org/t/p/w185/sFBDjWdw8gHSI2dMivP7H52iwvp.jpg,0.0,https://vip2.idlixvip.asia/movie/dark-harvest-2023/,Dark Harvest (2023),2023-10-11
+https://image.tmdb.org/t/p/w185/gpLHbB6emWDnfMFdQs0EoZZs0cV.jpg,0.0,https://vip2.idlixvip.asia/movie/the-conference-2023/,The Conference (2023),2023-10-13
+https://image.tmdb.org/t/p/w185/bjYg9GIKiR3NcE06JsO7K7yJ7RB.jpg,5.1,https://vip2.idlixvip.asia/movie/in-my-mothers-skin-2023/,In My Mother's Skin (2023),2023-01-20
+https://image.tmdb.org/t/p/w185/73gIfV8gDwkVgUrFDzt4TfZC9Zc.jpg,5.6,https://vip2.idlixvip.asia/movie/it-lives-inside-2023/,It Lives Inside (2023),2023-09-06
+https://image.tmdb.org/t/p/w185/s9nwiVMOVvnS2Jt6hdy7UHoFSD0.jpg,5.0,https://vip2.idlixvip.asia/movie/organ-trail-2023/,Organ Trail (2023),2023-04-14
+https://image.tmdb.org/t/p/w185/ozWeF6MofJCdBAzcPGpcLQTgJi2.jpg,4.0,https://vip2.idlixvip.asia/movie/aged-2023/,Aged (2023),2023-06-15
+https://image.tmdb.org/t/p/w185/uoKUTwvHvSVHWjSM4RhCh6rKL0U.jpg,4.7,https://vip2.idlixvip.asia/movie/deliver-us-2023/,Deliver Us (2023),2023-08-30
+https://image.tmdb.org/t/p/w185/yqnNLn24shYnZ6kqGpbwuB3NJ0D.jpg,0.0,https://vip2.idlixvip.asia/movie/pet-sematary-bloodlines-2023/,Pet Sematary: Bloodlines (2023),2023-09-23
+https://image.tmdb.org/t/p/w185/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg,7.1,https://vip2.idlixvip.asia/movie/totally-killer-2023/,Totally Killer (2023),2023-09-28
+https://image.tmdb.org/t/p/w185/pLSoVBuBa3aqFBgBY2puu3BN8of.jpg,5.0,https://vip2.idlixvip.asia/movie/slotherhouse-2023/,Slotherhouse (2023),2023-08-30
+https://image.tmdb.org/t/p/w185/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg,5.9,https://vip2.idlixvip.asia/movie/the-nun-ii-2023/,The Nun II (2023),2023-09-06
+https://image.tmdb.org/t/p/w185/1m0CTxlotr8H8GaoioL2IJHL1gW.jpg,4.7,https://vip2.idlixvip.asia/movie/all-fun-and-games-2023/,All Fun and Games (2023),2023-08-30
+https://image.tmdb.org/t/p/w185/rxBe0Js4dCvp1ZGgHHnBxjtbGPw.jpg,6.5,https://vip2.idlixvip.asia/movie/el-conde-2023/,El Conde (2023),2023-09-08
+https://image.tmdb.org/t/p/w185/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg,0.0,https://vip2.idlixvip.asia/movie/no-one-will-save-you-2023/,No One Will Save You (2023),2023-09-22
+https://image.tmdb.org/t/p/w185/1tuLYOVsQKz3iX0oUPhJMIzDi4q.jpg,5.2,https://vip2.idlixvip.asia/movie/day-zero-2022/,Day Zero (2022),2022-07-03
+https://image.tmdb.org/t/p/w185/bKQBtrhl4Fnpd0620FeCtX7EpnK.jpg,4.0,https://vip2.idlixvip.asia/movie/elevator-game-2023/,Elevator Game (2023),2023-07-12
+https://image.tmdb.org/t/p/w185/zZH0sAUV0nfEEDBUdWBMLjs2XnN.jpg,4.6,https://vip2.idlixvip.asia/movie/killer-book-club-2023/,Killer Book Club (2023),2023-08-25
+https://image.tmdb.org/t/p/w185/HizqO0Htv6e68pWu0gzsoDthXq.jpg,4.9,https://vip2.idlixvip.asia/movie/untitled-horror-movie-2021/,Untitled Horror Movie (2021),2021-06-12
+https://image.tmdb.org/t/p/w185/kdPMUMJzyYAc4roD52qavX0nLIC.jpg,7.4,https://vip2.idlixvip.asia/movie/talk-to-me-2023/,Talk to Me (2023),2023-07-26
+https://image.tmdb.org/t/p/w185/zlEhsNfOKhbnfs5NTJ6zOZtoLBb.jpg,6.3,https://vip2.idlixvip.asia/movie/birth-rebirth-2023/,Birth/Rebirth (2023),2023-08-18
+https://image.tmdb.org/t/p/w185/1nG0NyRIJgDVlKHqrsJFWHMnyKo.jpg,0.0,https://vip2.idlixvip.asia/movie/inhuman-kiss-the-last-breath-2023/,Inhuman Kiss: The Last Breath (2023),2023-03-30
+https://image.tmdb.org/t/p/w185/pYwZdnXVnVxAr7dx4MEK7tTK9gI.jpg,6.1,https://vip2.idlixvip.asia/movie/the-boogeyman-2023/,The Boogeyman (2023),2023-05-31
+https://image.tmdb.org/t/p/w185/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg,6.4,https://vip2.idlixvip.asia/movie/the-last-voyage-of-the-demeter-2023/,The Last Voyage of the Demeter (2023),2023-08-09
+https://image.tmdb.org/t/p/w185/ewM7TaMwNs7EmZ2hFQIeROmtyCR.jpg,5.4,https://vip2.idlixvip.asia/movie/piglady-2023/,Piglady (2023),2023-08-22
+https://image.tmdb.org/t/p/w185/1uNMAlNanIQohAofjyyad2WVCdk.jpg,4.4,https://vip2.idlixvip.asia/movie/haunting-of-the-queen-mary-2023/,Haunting of the Queen Mary (2023),2023-07-21
+https://image.tmdb.org/t/p/w185/puYBDUqC09SEFzUDDjR3Txyz6xp.jpg,3.8,https://vip2.idlixvip.asia/movie/streamer-2023/,Streamer (2023),2023-05-10
+https://image.tmdb.org/t/p/w185/FQHtuf2zc8suMFE28RyvFt3FJN.jpg,5.5,https://vip2.idlixvip.asia/movie/meg-2-the-trench-2023/,Meg 2: The Trench (2023),2023-08-02
+https://image.tmdb.org/t/p/w185/togwv0TGqXkIA2YuYIY9VDLEkdF.jpg,6.6,https://vip2.idlixvip.asia/movie/pari-2018/,Pari (2018),2018-03-02
+https://image.tmdb.org/t/p/w185/5rsS8m61oHTjoTKfDWVMF3OHnww.jpg,6.5,https://vip2.idlixvip.asia/movie/deadstream-2022/,Deadstream (2022),2022-10-20
+https://image.tmdb.org/t/p/w185/cGXFosYUHYjjdKrOmA0bbjvzhKz.jpg,6.0,https://vip2.idlixvip.asia/movie/cobweb-2023/,Cobweb (2023),2023-07-19
+https://image.tmdb.org/t/p/w185/iBYEX7IxR9wocuhgzco7D3SG90F.jpg,4.9,https://vip2.idlixvip.asia/movie/mother-may-i-2023/,"Mother, May I? (2023)",2023-07-21
+https://image.tmdb.org/t/p/w185/juVj6zLwyfzqWey24t61EQDt86w.jpg,0.0,https://vip2.idlixvip.asia/movie/sumpahan-syaitan-2023/,Sumpahan Syaitan (2023),2023-03-02
+https://image.tmdb.org/t/p/w185/9KvcnNfxFq2dU5QS9OPB7HfcFw9.jpg,5.7,https://vip2.idlixvip.asia/movie/the-maid-2005/,The Maid (2005),2005-08-18
+https://image.tmdb.org/t/p/w185/kD35dB3KOHrLo1Y3RU5xXJ1hI7.jpg,0.0,https://vip2.idlixvip.asia/movie/zom-100-bucket-list-of-the-dead-2023/,Zom 100: Bucket List of the Dead (2023),2023-08-03
+https://image.tmdb.org/t/p/w185/wKWxgblLDyI51iCTufKs6mo2Pkc.jpg,4.0,https://vip2.idlixvip.asia/movie/contorted-2022/,Contorted (2022),2022-07-13
+https://image.tmdb.org/t/p/w185/cWVnuaEGbYiDnWm7uP0GqRonHzN.jpg,6.9,https://vip2.idlixvip.asia/movie/kampong-pisang-berbuah-dua-kali-2022/,Kampong Pisang Berbuah Dua Kali (2022),2022-03-03
+https://image.tmdb.org/t/p/w185/orL3v5KKRqFhwJYGkrZ3jmKEAgy.jpg,4.6,https://vip2.idlixvip.asia/movie/the-ghost-station-2023/,The Ghost Station (2023),2023-04-19
+https://image.tmdb.org/t/p/w185/1dleEIjnnCQXMNiwIyBcd9sTieD.jpg,6.9,https://vip2.idlixvip.asia/movie/asvins-2023/,Asvins (2023),2023-06-23
+https://image.tmdb.org/t/p/w185/qayga07ICNDswm0cMJ8P3VwklFZ.jpg,7.0,https://vip2.idlixvip.asia/movie/resident-evil-death-island-2023/,Resident Evil: Death Island (2023),2023-06-22
+https://image.tmdb.org/t/p/w185/uS1AIL7I1Ycgs8PTfqUeN6jYNsQ.jpg,6.0,https://vip2.idlixvip.asia/movie/insidious-the-red-door-2023/,Insidious: The Red Door (2023),2023-07-05
+https://image.tmdb.org/t/p/w185/uWmlk74p14IV4SoDpckdqUhGjl1.jpg,5.6,https://vip2.idlixvip.asia/movie/blood-flower-2022/,Blood Flower (2022),2022-10-06
+https://image.tmdb.org/t/p/w185/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg,6.0,https://vip2.idlixvip.asia/movie/the-wrath-of-becky-2023/,The Wrath of Becky (2023),2023-05-26
+https://image.tmdb.org/t/p/w185/n6vlQoNDhcyAbI7e3iJrbao5Ic2.jpg,7.1,https://vip2.idlixvip.asia/movie/home-for-rent-2023/,Home for Rent (2023),2023-04-06
+https://image.tmdb.org/t/p/w185/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg,5.6,https://vip2.idlixvip.asia/movie/god-is-a-bullet-2023/,God Is a Bullet (2023),2023-06-22
+https://image.tmdb.org/t/p/w185/iTGBHdL12QEpLyRVlykDuiYxzAG.jpg,0.0,https://vip2.idlixvip.asia/movie/bird-box-barcelona-2023/,Bird Box Barcelona (2023),2023-07-14
+https://image.tmdb.org/t/p/w185/n2aS9FE0C3VUHtSb3Ak41aU9K3y.jpg,6.3,https://vip2.idlixvip.asia/movie/the-blackening-2023/,The Blackening (2023),2023-06-15
+https://image.tmdb.org/t/p/w185/qv3GjKNh4noyCmp4ysTDcT8yDlW.jpg,6.9,https://vip2.idlixvip.asia/movie/the-island-2023/,The Island (2023),2023-03-09
+https://image.tmdb.org/t/p/w185/yL8PM4ecGUrsPrUFfNATN9LaZFP.jpg,5.8,https://vip2.idlixvip.asia/movie/run-rabbit-run-2023/,Run Rabbit Run (2023),2023-01-19
+https://image.tmdb.org/t/p/w185/xYyteXgOMCaQA0pogNhpalzS0UD.jpg,5.9,https://vip2.idlixvip.asia/movie/seire-2021/,Seire (2021),2021-10-10
+https://image.tmdb.org/t/p/w185/xwjWUAajQJPj5aik1tounPguZbz.jpg,6.3,https://vip2.idlixvip.asia/movie/nefarious-2023/,Nefarious (2023),2023-04-14
+https://image.tmdb.org/t/p/w185/yQTRmPzKAdLodknnPVtImm6FWPZ.jpg,5.1,https://vip2.idlixvip.asia/movie/consecration-2023/,Consecration (2023),2023-02-09
+https://image.tmdb.org/t/p/w185/uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg,4.1,https://vip2.idlixvip.asia/movie/the-black-demon-2023/,The Black Demon (2023),2023-04-26
+https://image.tmdb.org/t/p/w185/uELzdTzPOpZwSFqBbwpjuKE7UW3.jpg,6.1,https://vip2.idlixvip.asia/movie/wolf-creek-2-2013/,Wolf Creek 2 (2013),2013-08-30
+https://image.tmdb.org/t/p/w185/8NiRpqO3vx7ny6jagrEN61hu7qG.jpg,6.2,https://vip2.idlixvip.asia/movie/wolf-creek-2005/,Wolf Creek (2005),2005-09-16
+https://image.tmdb.org/t/p/w185/m1rcLLs0KmS8Cg60sLoMZC2OyDR.jpg,5.9,https://vip2.idlixvip.asia/movie/malum-2023/,Malum (2023),2023-03-31
+https://image.tmdb.org/t/p/w185/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg,5.1,https://vip2.idlixvip.asia/movie/tin-tina-2023/,Tin & Tina (2023),2023-03-24
+https://image.tmdb.org/t/p/w185/uqvG28xhk34ExPZYu2wRGmKB34h.jpg,7.3,https://vip2.idlixvip.asia/movie/bedevilled-2010/,Bedevilled (2010),2010-08-19
+https://image.tmdb.org/t/p/w185/cToUzXZ9AcUylfIt8vnXhiy6Y9m.jpg,5.0,https://vip2.idlixvip.asia/movie/a-serbian-film-2010/,A Serbian Film (2010),2010-06-16
+https://image.tmdb.org/t/p/w185/s6P8x5ah3x4mOKsgZqplY83YKAY.jpg,5.8,https://vip2.idlixvip.asia/movie/the-unborn-soul-2023/,The Unborn Soul (2023),2023-02-03
+https://image.tmdb.org/t/p/w185/yMeKoe3ui4Pad8FUOJwCby3SOWe.jpg,0.0,https://vip2.idlixvip.asia/movie/deaths-roulette-2023/,Death's Roulette (2023),2023-05-05
+https://image.tmdb.org/t/p/w185/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg,7.2,https://vip2.idlixvip.asia/movie/evil-dead-rise-2023/,Evil Dead Rise (2023),2023-04-12
+https://image.tmdb.org/t/p/w185/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg,6.2,https://vip2.idlixvip.asia/movie/the-popes-exorcist-2023/,The Pope's Exorcist (2023),2023-04-05
+https://image.tmdb.org/t/p/w185/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg,6.7,https://vip2.idlixvip.asia/movie/renfield-2023/,Renfield (2023),2023-04-07
+https://image.tmdb.org/t/p/w185/77i7EBUyQKOUiZeYQ5tWDGQb0AI.jpg,6.0,https://vip2.idlixvip.asia/movie/the-taking-of-deborah-logan-2014/,The Taking of Deborah Logan (2014),2014-10-21
+https://image.tmdb.org/t/p/w185/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg,5.2,https://vip2.idlixvip.asia/movie/the-offering-2022/,The Offering (2022),2022-09-23
+https://image.tmdb.org/t/p/w185/jOA7chFPVzSyPp2DaRg8hqA1BHr.jpg,4.1,https://vip2.idlixvip.asia/movie/bunker-2022/,Bunker (2022),2022-10-08
+https://image.tmdb.org/t/p/w185/aePBN8ffLCHoUXp8lkA5P29CXdx.jpg,7.1,https://vip2.idlixvip.asia/movie/scream-vi-2023/,Scream VI (2023),2023-03-08
+https://image.tmdb.org/t/p/w185/zDjOYwWmC3MiMtq4ya316l5pfmM.jpg,5.2,https://vip2.idlixvip.asia/movie/anglerfish-2022/,Anglerfish (2022),2022-10-28
+https://image.tmdb.org/t/p/w185/jqAD5ysjzVI88qQ7wpsaYdGdDtR.jpg,6.2,https://vip2.idlixvip.asia/movie/enys-men-2023/,Enys Men (2023),2023-01-12
+https://image.tmdb.org/t/p/w185/wQ53sO5n9LCFbssV3oQ4CuajL1L.jpg,5.3,https://vip2.idlixvip.asia/movie/kids-vs-aliens-2023/,Kids vs. Aliens (2023),2023-01-20
+https://image.tmdb.org/t/p/w185/pe9mSStpQC2doKtYY3VDJdBEBHr.jpg,4.8,https://vip2.idlixvip.asia/movie/alien-abduction-2014/,Alien Abduction (2014),2014-04-04
+https://image.tmdb.org/t/p/w185/bMkRWgAvwe0XkpL8swG7UA4N4Q8.jpg,6.2,https://vip2.idlixvip.asia/movie/afflicted-2014/,Afflicted (2014),2014-04-04
+https://image.tmdb.org/t/p/w185/2ZWxZvDWYoDj7PHFizgi17yEZyb.jpg,4.9,https://vip2.idlixvip.asia/movie/urban-myths-2022/,Urban Myths (2022),2022-04-27
+https://image.tmdb.org/t/p/w185/gxIpw7oewZ17zOZUOk31KB0eel4.jpg,0.0,https://vip2.idlixvip.asia/movie/phenomena-2023/,Phenomena (2023),2023-04-14
+https://image.tmdb.org/t/p/w185/1vZksOTo4RjyitMEpPgw5jnkAjc.jpg,5.8,https://vip2.idlixvip.asia/movie/marui-video-2023/,Marui Video (2023),2023-02-01
+https://image.tmdb.org/t/p/w185/4OYeP4mlCLiHU9osQnQsh1CuSgL.jpg,3.7,https://vip2.idlixvip.asia/movie/monster-x-2017/,Monster X (2017),2017-03-01
+https://image.tmdb.org/t/p/w185/v2W5NEz0p9jPFzbbYt0dP86gsOX.jpg,6.9,https://vip2.idlixvip.asia/movie/troll-hunter-2010/,Troll Hunter (2010),2010-10-29
+https://image.tmdb.org/t/p/w185/chgLLNv3bMSOptaciOUPtDcAggq.jpg,5.0,https://vip2.idlixvip.asia/movie/blair-witch-2016/,Blair Witch (2016),2016-09-15
+https://image.tmdb.org/t/p/w185/9050VGrYjYrEjpOvDZVAngLbg1f.jpg,6.5,https://vip2.idlixvip.asia/movie/the-blair-witch-project-1999/,The Blair Witch Project (1999),1999-07-14
+https://image.tmdb.org/t/p/w185/1QOINH7o0gnFwQLJMI7ptjTgVLb.jpg,5.5,https://vip2.idlixvip.asia/movie/the-unheard-2023/,The Unheard (2023),2023-03-31
+https://image.tmdb.org/t/p/w185/dNeOiL6vhe7QcXL7TPTvjnllpZt.jpg,3.3,https://vip2.idlixvip.asia/movie/winnie-the-pooh-blood-and-honey-2023/,Winnie the Pooh: Blood and Honey (2023),2023-01-27
+https://image.tmdb.org/t/p/w185/9ua5v6SNr4FEmEWFh75os6ssBZT.jpg,5.6,https://vip2.idlixvip.asia/movie/munafik-2-2018/,Munafik 2 (2018),2018-08-29
+https://image.tmdb.org/t/p/w185/4EGaC5OlAyIDxD22Eb3ovBKb8Oh.jpg,6.0,https://vip2.idlixvip.asia/movie/the-priest-2021/,The Priest (2021),2021-03-11
+https://image.tmdb.org/t/p/w185/qPxONIm4sWHVMZd4nqgqlz5EwGK.jpg,6.3,https://vip2.idlixvip.asia/movie/unseen-2023/,Unseen (2023),2023-03-07
+https://image.tmdb.org/t/p/w185/9vYJfuYcCrN1GWW8x3MS7To4A3T.jpg,3.9,https://vip2.idlixvip.asia/movie/children-of-the-corn-2023/,Children of the Corn (2023),2023-03-03
+https://image.tmdb.org/t/p/w185/bOtXXOoswsdEWZiMTRQfFPbpPS9.jpg,6.1,https://vip2.idlixvip.asia/movie/steel-cold-winter-2013/,Steel Cold Winter (2013),2013-11-07
+https://image.tmdb.org/t/p/w185/qsQibQ9YVgUDKKon55X1sCRmArq.jpg,5.5,https://vip2.idlixvip.asia/movie/show-me-the-ghost-2021/,Show Me the Ghost (2021),2021-09-09
+https://image.tmdb.org/t/p/w185/hR1jdCw0A9czgsbp45TASkjjBhA.jpg,9.7,https://vip2.idlixvip.asia/movie/the-park-2023/,The Park (2023),2023-03-02
+https://image.tmdb.org/t/p/w185/2jV8PLAHS9k8NMDFKkigi0qVGlL.jpg,4.0,https://vip2.idlixvip.asia/movie/the-lake/,The Lake (2022),2022-08-18
+https://image.tmdb.org/t/p/w185/bkqvGn7BBLvJmnatOmhlTAFH6m0.jpg,5.1,https://vip2.idlixvip.asia/movie/the-outwaters-2023/,The Outwaters (2023),2023-02-09
+https://image.tmdb.org/t/p/w185/1AWcMtUZjpkq4h52yDnNIp9FwEO.jpg,4.5,https://vip2.idlixvip.asia/movie/the-devil-conspiracy-2023/,The Devil Conspiracy (2023),2023-01-13
+https://image.tmdb.org/t/p/w185/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg,5.1,https://vip2.idlixvip.asia/movie/unwelcome-2023/,Unwelcome (2023),2023-01-27
+https://image.tmdb.org/t/p/w185/xo0fgAUoEeVQ7KsKeMWypyglvnf.jpg,6.8,https://vip2.idlixvip.asia/movie/we-have-a-ghost-2023/,We Have a Ghost (2023),2023-02-24
+https://image.tmdb.org/t/p/w185/vmE4gZ9vy8ammgS2UsEh0Z1OCia.jpg,4.8,https://vip2.idlixvip.asia/movie/lullaby-2022/,Lullaby (2022),2022-12-16
+https://image.tmdb.org/t/p/w185/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg,6.4,https://vip2.idlixvip.asia/movie/knock-at-the-cabin-2023/,Knock at the Cabin (2023),2023-02-01
+https://image.tmdb.org/t/p/w185/iZJri8mnELrZIq792uadGznOmCT.jpg,5.8,https://vip2.idlixvip.asia/movie/attachment-2022/,Attachment (2022),2022-07-28
+https://image.tmdb.org/t/p/w185/cCTmZ93aBZ1FwHntiDpa2Lj92zs.jpg,5.4,https://vip2.idlixvip.asia/movie/re-member-2022/,Re/Member (2022),2022-10-14
+https://image.tmdb.org/t/p/w185/5DNRr2juXdwtvktwXxwuk9Usk8O.jpg,6.8,https://vip2.idlixvip.asia/movie/infinity-pool-2023/,Infinity Pool (2023),2023-01-27
+https://image.tmdb.org/t/p/w185/o942912KFh89SGhqWuKXuT0SXzN.jpg,5.1,https://vip2.idlixvip.asia/movie/skinamarink-2023/,Skinamarink (2023),2023-01-13
+https://image.tmdb.org/t/p/w185/8EM2OolKRmJG4EI3jM7679s7gy2.jpg,6.9,https://vip2.idlixvip.asia/movie/noroi-the-curse-2005/,Noroi: The Curse (2005),2005-08-20
+https://image.tmdb.org/t/p/w185/j343Rpj3WeNvP0SV80zveve70io.jpg,6.1,https://vip2.idlixvip.asia/movie/hansel-gretel-witch-hunters-2013/,Hansel & Gretel: Witch Hunters (2013),2013-01-17
+https://image.tmdb.org/t/p/w185/xsQyj1RWeKYafKaDRDfA3x5IVcZ.jpg,8.3,https://vip2.idlixvip.asia/movie/baby-ruby-2023/,Baby Ruby (2023),2023-02-03
+https://image.tmdb.org/t/p/w185/h5bwT8fuE6VIaOslRezwDiL2DxK.jpg,5.2,https://vip2.idlixvip.asia/movie/play-dead-2022/,Play Dead (2022),2022-12-09
+https://image.tmdb.org/t/p/w185/9CxWs95VQWlOAdgE0iadrz3RPwH.jpg,5.6,https://vip2.idlixvip.asia/movie/viking-wolf-2022/,Viking Wolf (2022),2022-11-18
+https://image.tmdb.org/t/p/w185/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg,8.4,https://vip2.idlixvip.asia/movie/teen-wolf-the-movie-2023/,Teen Wolf: The Movie (2023),2023-01-18
+https://image.tmdb.org/t/p/w185/r7ZipEd9oHHVVXTcvbx3Sd3Tukv.jpg,6.2,https://vip2.idlixvip.asia/movie/candy-land-2023/,Candy Land (2023),2023-01-06
+https://image.tmdb.org/t/p/w185/dmn2nVo8h7LMnk694JxCRIwK06p.jpg,6.2,https://vip2.idlixvip.asia/movie/the-thing-2011/,The Thing (2011),2011-10-12
+https://image.tmdb.org/t/p/w185/7CNCv9uhqdwK7Fv4bR4nmDysnd9.jpg,6.6,https://vip2.idlixvip.asia/movie/m3gan-2022/,M3GAN (2022),2022-12-28
+https://image.tmdb.org/t/p/w185/e49Sr3Lxfk2psYhv1SzQjs7MeGo.jpg,6.4,https://vip2.idlixvip.asia/movie/theres-something-wrong-with-the-children-2023/,There's Something Wrong with the Children (2023),2023-01-17
+https://image.tmdb.org/t/p/w185/wfZklSVDJPpHT0Arq4A8GY8Q9S9.jpg,6.7,https://vip2.idlixvip.asia/movie/snow-falls-2023/,Snow Falls (2023),2023-01-17
+https://image.tmdb.org/t/p/w185/8fwJt0qZieQ7dKaiiqehObWpXYT.jpg,5.4,https://vip2.idlixvip.asia/movie/the-price-we-pay-2023/,The Price We Pay (2023),2023-01-13
+https://image.tmdb.org/t/p/w185/jzxgMYk6zRMIIp8m28iatTe70dp.jpg,6.4,https://vip2.idlixvip.asia/movie/unsane-2018/,Unsane (2018),2018-02-21
+https://image.tmdb.org/t/p/w185/60Dy8eA5QyUHKHBmojXUtZxWdo8.jpg,5.1,https://vip2.idlixvip.asia/movie/christmas-bloody-christmas-2022/,Christmas Bloody Christmas (2022),2022-10-05
+https://image.tmdb.org/t/p/w185/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg,6.5,https://vip2.idlixvip.asia/movie/the-pale-blue-eye-2022/,The Pale Blue Eye (2022),2022-12-22
+https://image.tmdb.org/t/p/w185/tpIuYONllZ0mPaCDFw58EC5szmK.jpg,6.0,https://vip2.idlixvip.asia/movie/pee-nak-3-2022/,Pee Nak 3 (2022),2022-03-17
+https://image.tmdb.org/t/p/w185/g0YcSd5QpgGXOjg9tl0if0soOkE.jpg,6.2,https://vip2.idlixvip.asia/movie/scream-4-2011/,Scream 4 (2011),2011-04-11
+https://image.tmdb.org/t/p/w185/qpH8ToZVlFD1bakL04LkEKodyDI.jpg,5.6,https://vip2.idlixvip.asia/movie/scream-3-2000/,Scream 3 (2000),2000-02-03
+https://image.tmdb.org/t/p/w185/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg,6.3,https://vip2.idlixvip.asia/movie/scream-2-1997/,Scream 2 (1997),1997-12-12
+https://image.tmdb.org/t/p/w185/3O3klyyYpAZBBE4n7IngzTomRDp.jpg,7.4,https://vip2.idlixvip.asia/movie/scream-1996/,Scream (1996),1996-12-20
+https://image.tmdb.org/t/p/w185/qXaJkaVTNMhrOylFi6xrWnBQGE8.jpg,3.3,https://vip2.idlixvip.asia/movie/the-friendship-game-2022/,The Friendship Game (2022),2022-11-11
+https://image.tmdb.org/t/p/w185/v31MsWhF9WFh7Qooq6xSBbmJxoG.jpg,7.5,https://vip2.idlixvip.asia/movie/the-menu-2022/,The Menu (2022),2022-11-17
+https://image.tmdb.org/t/p/w185/dBQuk2LkHjrDsSjueirPQg96GCc.jpg,7.0,https://vip2.idlixvip.asia/movie/bones-and-all-2022/,Bones and All (2022),2022-11-18
+https://image.tmdb.org/t/p/w185/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg,6.0,https://vip2.idlixvip.asia/movie/resurrection-2022/,Resurrection (2022),2022-07-29
+https://image.tmdb.org/t/p/w185/pqH23XXiGGg8b8QKitonZAoWQg3.jpg,4.9,https://vip2.idlixvip.asia/movie/the-apology-2022/,The Apology (2022),2022-12-16
+https://image.tmdb.org/t/p/w185/eXN4DJn9f5ytbj1IDy3LIWR8O5L.jpg,6.8,https://vip2.idlixvip.asia/movie/decibel-2022/,Decibel (2022),2022-11-12
+https://image.tmdb.org/t/p/w185/mPhXHRudGxsXIQq1WM6oVePkFIp.jpg,6.3,https://vip2.idlixvip.asia/movie/nanny-2022/,Nanny (2022),2022-11-23
+https://image.tmdb.org/t/p/w185/w3s6XEDNVGq5LUlghqs6VlvsvL6.jpg,5.2,https://vip2.idlixvip.asia/movie/prey-for-the-devil-2022/,Prey for the Devil (2022),2022-10-23
+https://image.tmdb.org/t/p/w185/gn47EAAITuMv5eft8Zwae2bpukU.jpg,5.5,https://vip2.idlixvip.asia/movie/dbbe-6-the-return-2015/,D@bbe 6: The Return (2015),2015-09-11
+https://image.tmdb.org/t/p/w185/fzgebkYldfmmXCTSbpvIvru41VE.jpg,5.9,https://vip2.idlixvip.asia/movie/dbbe-5-curse-of-the-jinn-2014/,D@bbe 5: Curse of the Jinn (2014),2014-09-12
+https://image.tmdb.org/t/p/w185/j537aN6h9w06VipRHqFHnuFB1Ef.jpg,6.8,https://vip2.idlixvip.asia/movie/dbbe-the-possession-2013/,D@bbe: The Possession (2013),2013-08-02
+https://image.tmdb.org/t/p/w185/rE3szsbV1LyZtIfzJadqklnJO7l.jpg,6.1,https://vip2.idlixvip.asia/movie/a-wounded-fawn-2022/,A Wounded Fawn (2022),2022-06-11
+https://image.tmdb.org/t/p/w185/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg,3.2,https://vip2.idlixvip.asia/movie/slender-man-2018/,Slender Man (2018),2018-08-10
+https://image.tmdb.org/t/p/w185/7aQIyXUDqVAPJQzm5BPaW8jbzCu.jpg,6.1,https://vip2.idlixvip.asia/movie/nocebo-2022/,Nocebo (2022),2022-11-03
+https://image.tmdb.org/t/p/w185/rHR3Z5QWzODnoI2GeYtEIHiz1R8.jpg,6.8,https://vip2.idlixvip.asia/movie/the-house-that-jack-built-2018/,The House That Jack Built (2018),2018-10-04
+https://image.tmdb.org/t/p/w185/lZiXgVXQG5YJBy5ReWcy875g7Un.jpg,5.8,https://vip2.idlixvip.asia/movie/mandrake-2022/,Mandrake (2022),2022-03-12
+https://image.tmdb.org/t/p/w185/8EIQAvJjXdbNDMmBtHtgGqbc09V.jpg,6.2,https://vip2.idlixvip.asia/movie/piggy-2022/,Piggy (2022),2022-10-07
+https://image.tmdb.org/t/p/w185/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg,6.9,https://vip2.idlixvip.asia/movie/smile-2022/,Smile (2022),2022-09-23
+https://image.tmdb.org/t/p/w185/fJQr6E6tUwihQuQgTSDUkKsrVZA.jpg,4.6,https://vip2.idlixvip.asia/movie/devils-workshop-2022/,Devil's Workshop (2022),2022-09-30
+https://image.tmdb.org/t/p/w185/ifRFLx83Xk1DcwAS3OScgI6HmWO.jpg,5.6,https://vip2.idlixvip.asia/movie/the-lair-2022/,The Lair (2022),2022-08-25
+https://image.tmdb.org/t/p/w185/ztYN6xo5meeEHLH3bXU6jej3Tad.jpg,7.0,https://vip2.idlixvip.asia/movie/feed-me-2022/,Feed Me (2022),2022-10-06
+https://image.tmdb.org/t/p/w185/9xf3aiAxjx2H34EwwVFFlOrr0nt.jpg,5.9,https://vip2.idlixvip.asia/movie/run-sweetheart-run-2022/,Run Sweetheart Run (2022),2022-10-28
+https://image.tmdb.org/t/p/w185/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg,6.8,https://vip2.idlixvip.asia/movie/wendell-wild-2022/,Wendell & Wild (2022),2022-10-21
+https://image.tmdb.org/t/p/w185/cLEYxnzxHlAVhgjtGoO8cQZTQnO.jpg,5.8,https://vip2.idlixvip.asia/movie/the-loneliest-boy-in-the-world-2022/,The Loneliest Boy in the World (2022),2022-10-14
+https://image.tmdb.org/t/p/w185/1bOMmFtnykBmvhFcx8zdXO6bCAa.jpg,5.4,https://vip2.idlixvip.asia/movie/v-h-s-99-2022/,V/H/S/99 (2022),2022-09-15
+https://image.tmdb.org/t/p/w185/vgq9eyUMDWDugp5ZvS5UuvTCQKN.jpg,4.2,https://vip2.idlixvip.asia/movie/v-h-s-viral-2014/,V/H/S: Viral (2014),2014-10-23
+https://image.tmdb.org/t/p/w185/o4hcWsHaHaNQ9BBReOxLvYJNRhA.jpg,6.0,https://vip2.idlixvip.asia/movie/v-h-s-2-2013/,V/H/S/2 (2013),2013-06-06
+https://image.tmdb.org/t/p/w185/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg,5.8,https://vip2.idlixvip.asia/movie/v-h-s-2012/,V/H/S (2012),2012-07-28
+https://image.tmdb.org/t/p/w185/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg,7.6,https://vip2.idlixvip.asia/movie/barbarian-2022/,Barbarian (2022),2022-09-08
+https://image.tmdb.org/t/p/w185/52gL9six5JuT5qdx3tqwuVHls78.jpg,6.2,https://vip2.idlixvip.asia/movie/sissy-2022/,Sissy (2022),2022-11-03
+https://image.tmdb.org/t/p/w185/yB8BMtvzHlMmRT1WmTQnGv1bcOK.jpg,7.4,https://vip2.idlixvip.asia/movie/terrifier-2-2022/,Terrifier 2 (2022),2022-10-06
+https://image.tmdb.org/t/p/w185/6PQqC4SbY910VvyVad6mvsboILU.jpg,5.6,https://vip2.idlixvip.asia/movie/terrifier-2016/,Terrifier (2016),2016-10-15
+https://image.tmdb.org/t/p/w185/eyr8okTqsFTUVW3DD1edTMsWc3u.jpg,6.3,https://vip2.idlixvip.asia/movie/matriarch-2022/,Matriarch (2022),2022-10-11
+https://image.tmdb.org/t/p/w185/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg,7.5,https://vip2.idlixvip.asia/movie/pearl-2022/,Pearl (2022),2022-09-16
+https://image.tmdb.org/t/p/w185/t6P9l6tcVnWLS1ADUAfkUCGQhm0.jpg,6.9,https://vip2.idlixvip.asia/movie/the-curse-of-bridge-hollow-2022/,The Curse of Bridge Hollow (2022),2022-10-14
+https://image.tmdb.org/t/p/w185/3uDwqxbr0j34rJVJMOW6o8Upw5W.jpg,5.5,https://vip2.idlixvip.asia/movie/halloween-ends-2022/,Halloween Ends (2022),2022-10-12
+https://image.tmdb.org/t/p/w185/qvg75YJMfbHeDNirUrrgBMQImRn.jpg,6.7,https://vip2.idlixvip.asia/movie/grimcutty-2022/,Grimcutty (2022),2022-10-10
+https://image.tmdb.org/t/p/w185/liGvBdUsyOfiTJjNCD55JJfISzb.jpg,5.6,https://vip2.idlixvip.asia/movie/significant-other-2022/,Significant Other (2022),2022-10-06
+https://image.tmdb.org/t/p/w185/1FchVTEnjQw6m5NnQBa8QwjUv6T.jpg,5.4,https://vip2.idlixvip.asia/movie/the-visitor-2022/,The Visitor (2022),2022-10-07
+https://image.tmdb.org/t/p/w185/u4ikorO4E3PouLRRwGaRuhFvsl3.jpg,6.0,https://vip2.idlixvip.asia/movie/hellraiser-2022/,Hellraiser (2022),2022-09-28
+https://image.tmdb.org/t/p/w185/nSguJmHeYv6cwTljOZduPJDTweS.jpg,6.4,https://vip2.idlixvip.asia/movie/old-people-2022/,Old People (2022),2022-10-07
+https://image.tmdb.org/t/p/w185/aGBuiirBIQ7o64FmJxO53eYDuro.jpg,2.5,https://vip2.idlixvip.asia/movie/jeepers-creepers-reborn-2022/,Jeepers Creepers: Reborn (2022),2022-09-15
+https://image.tmdb.org/t/p/w185/q0BbjmTPSqF1QnZxHNc1GQ4JIHc.jpg,5.3,https://vip2.idlixvip.asia/movie/phoenix-forgotten-2017/,Phoenix Forgotten (2017),2017-04-21
+https://image.tmdb.org/t/p/w185/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg,0.0,https://vip2.idlixvip.asia/movie/werewolf-by-night-2022/,Werewolf by Night (2022),2022-10-07
+https://image.tmdb.org/t/p/w185/wfLzocgEa7DDQAJWeorEiDFx9WM.jpg,5.3,https://vip2.idlixvip.asia/movie/slaughterhouse-rulez-2018/,Slaughterhouse Rulez (2018),2018-10-31
+https://image.tmdb.org/t/p/w185/yIXICkqthsqbNtvtEd6rpIt3cT4.jpg,6.0,https://vip2.idlixvip.asia/movie/my-best-friends-exorcism-2022/,My Best Friend's Exorcism (2022),2022-09-29
+https://image.tmdb.org/t/p/w185/l4NuODRseyq0GffTyzpapwRrOe4.jpg,6.0,https://vip2.idlixvip.asia/movie/nix-2022/,Nix (2022),2022-09-27
+https://image.tmdb.org/t/p/w185/85WtvIDJVHqmM5SqjulPoLiYXxy.jpg,4.0,https://vip2.idlixvip.asia/movie/the-curse-of-humpty-dumpty-2021/,The Curse of Humpty Dumpty (2021),2021-08-27
+https://image.tmdb.org/t/p/w185/ek7VDiwmIO6fLrGyJo1ZvAsQYFs.jpg,3.3,https://vip2.idlixvip.asia/movie/they-crawl-beneath-2022/,They Crawl Beneath (2022),2022-10-04
+https://image.tmdb.org/t/p/w185/lTVOquzxw2DPF3MKuYd1ynz9F6H.jpg,5.3,https://vip2.idlixvip.asia/movie/the-silence-2019/,The Silence (2019),2019-05-16
+https://image.tmdb.org/t/p/w185/tIE3nGFSCAfVieN17Juxkv4Zv0w.jpg,6.7,https://vip2.idlixvip.asia/movie/ravens-hollow-2022/,Raven's Hollow (2022),2022-09-22
+https://image.tmdb.org/t/p/w185/uU3YoLSaVBOaMryzhuiiRWDFbIw.jpg,6.8,https://vip2.idlixvip.asia/movie/bodies-bodies-bodies-2022/,Bodies Bodies Bodies (2022),2022-08-05
+https://image.tmdb.org/t/p/w185/vDivpdm4gf2IelTBZWeCG6ctqUd.jpg,6.9,https://vip2.idlixvip.asia/movie/speak-no-evil-2022/,Speak No Evil (2022),2022-03-17
+https://image.tmdb.org/t/p/w185/jcTq6gIskCsHlKDvCKKouEfiU66.jpg,5.4,https://vip2.idlixvip.asia/movie/the-invitation-2022/,The Invitation (2022),2022-08-24
+https://image.tmdb.org/t/p/w185/lYrLxoOaus9YMX95mVO65bkauhM.jpg,6.6,https://vip2.idlixvip.asia/movie/house-of-darkness-2022/,House of Darkness (2022),2022-09-09
+https://image.tmdb.org/t/p/w185/oHhD5jD4S5ElPNNFCDKXJAzMZ5h.jpg,6.5,https://vip2.idlixvip.asia/movie/goodnight-mommy-2022/,Goodnight Mommy (2022),2022-09-16
+https://image.tmdb.org/t/p/w185/ochcUJTPQSfU5fDMA21y4xoDzeX.jpg,4.2,https://vip2.idlixvip.asia/movie/area-51-2015/,Area 51 (2015),2015-05-15
+https://image.tmdb.org/t/p/w185/84Dhwz93vCin6T1PX6ctSvWEuNE.jpg,7.2,https://vip2.idlixvip.asia/movie/10-cloverfield-lane-2016/,10 Cloverfield Lane (2016),2016-03-10
+https://image.tmdb.org/t/p/w185/uNzgeMetu9l4q9NDw7gtiUFwPOJ.jpg,6.8,https://vip2.idlixvip.asia/movie/margaux-2022/,Margaux (2022),2022-09-09
+https://image.tmdb.org/t/p/w185/lcFw1XS35ULWwZde6iDI5m4BwuX.jpg,6.7,https://vip2.idlixvip.asia/movie/hollyblood-2022/,HollyBlood (2022),2022-07-22
+https://image.tmdb.org/t/p/w185/sT1XW0Mx5SEnpuTKNLYDWxRHtdn.jpg,3.8,https://vip2.idlixvip.asia/movie/dead-zone-2022/,Dead Zone (2022),2022-07-29
+https://image.tmdb.org/t/p/w185/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg,5.5,https://vip2.idlixvip.asia/movie/friday-the-13th-2009/,Friday the 13th (2009),2009-02-11
+https://image.tmdb.org/t/p/w185/jS2KDUROSaAxBqerik7mopMCG8v.jpg,5.6,https://vip2.idlixvip.asia/movie/unfriended-2014/,Unfriended (2014),2014-10-22
+https://image.tmdb.org/t/p/w185/xIGr7UHsKf0URWmyyd5qFMAq4d8.jpg,5.9,https://vip2.idlixvip.asia/movie/beast-2022/,Beast (2022),2022-08-11
+https://image.tmdb.org/t/p/w185/iUEu2FZLWZlLKoFqifK5o33mBHk.jpg,5.2,https://vip2.idlixvip.asia/movie/the-bridge-curse-2020/,The Bridge Curse (2020),2020-02-27
+https://image.tmdb.org/t/p/w185/8GBCZxguwkSJ0kwfumSaC1gQfM0.jpg,5.5,https://vip2.idlixvip.asia/movie/who-invited-them-2022/,Who Invited Them (2022),2022-06-05
+https://image.tmdb.org/t/p/w185/9cTOkOWATBoQvtHY6SAJhkiNciF.jpg,4.8,https://vip2.idlixvip.asia/movie/wheres-rose-2021/,Where's Rose (2021),2021-11-01
+https://image.tmdb.org/t/p/w185/42HlPJmiE6rQdtT2lYzPPMQYvqG.jpg,6.3,https://vip2.idlixvip.asia/movie/the-shallows-2016/,The Shallows (2016),2016-06-24
+https://image.tmdb.org/t/p/w185/etc6HKBEhNySNnYU2nRgbSeIyoW.jpg,4.2,https://vip2.idlixvip.asia/movie/hunting-ava-bravo-2022/,Hunting Ava Bravo (2022),2022-04-01
+https://image.tmdb.org/t/p/w185/4RnmHtCLtbBHD9jagVlcSzJTWX6.jpg,6.8,https://vip2.idlixvip.asia/movie/i-am-a-hero-2016/,I Am a Hero (2016),2016-04-23
+https://image.tmdb.org/t/p/w185/KPrZ8lbgbMD7gr1pkMKoNbtcCK.jpg,6.3,https://vip2.idlixvip.asia/movie/gonjiam-haunted-asylum-2018/,Gonjiam: Haunted Asylum (2018),2018-03-28
+https://image.tmdb.org/t/p/w185/dwsoUEJvDpN00rJJ1bR6DrJ5JjF.jpg,4.7,https://vip2.idlixvip.asia/movie/attack-on-titan-part-2-end-of-the-world-2015/,Attack on Titan Part 2: End of the World (2015),2015-09-01
+https://image.tmdb.org/t/p/w185/ihuDg9TeRzoOhv2cZVA8gi50NFl.jpg,5.0,https://vip2.idlixvip.asia/movie/attack-on-titan-part-1-2015/,Attack on Titan Part 1 (2015),2015-08-01
+https://image.tmdb.org/t/p/w185/mHQDLK9DZ5lULet8GhXYumd85p7.jpg,6.8,https://vip2.idlixvip.asia/movie/slr-2022/,SLR (2022),2022-04-21
+https://image.tmdb.org/t/p/w185/hvU92FBnz3weqrHf42MnsTiY9Ei.jpg,5.9,https://vip2.idlixvip.asia/movie/when-i-consume-you-2021/,When I Consume You (2021),2021-08-18
+https://image.tmdb.org/t/p/w185/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg,5.9,https://vip2.idlixvip.asia/movie/glorious-2022/,Glorious (2022),2022-07-21
+https://image.tmdb.org/t/p/w185/aY450sO5nIlsB1I7NbJGCecNEkn.jpg,4.9,https://vip2.idlixvip.asia/movie/the-house-of-snails-2021/,The House of Snails (2021),2021-06-11
+https://image.tmdb.org/t/p/w185/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg,4.3,https://vip2.idlixvip.asia/movie/warhunt-2022/,WarHunt (2022),2022-01-21
+https://image.tmdb.org/t/p/w185/jBeL6pPUPo0wnyTmiuxPegcibPf.jpg,5.5,https://vip2.idlixvip.asia/movie/ghosts-of-war-2020/,Ghosts of War (2020),2020-07-03
+https://image.tmdb.org/t/p/w185/wSqAXL1EHVJ3MOnJzMhUngc8gFs.jpg,6.1,https://vip2.idlixvip.asia/movie/orphan-first-kill-2022/,Orphan: First Kill (2022),2022-07-27
+https://image.tmdb.org/t/p/w185/wvz18lBKjoaz5Sb6Io0v9tGRqyf.jpg,6.2,https://vip2.idlixvip.asia/movie/apocalypse-after-2018/,Apocalypse After (2018),2018-05-09
+https://image.tmdb.org/t/p/w185/g0EsecBQO3nKol7BRozh3ayyi2b.jpg,6.3,https://vip2.idlixvip.asia/movie/rampant-2018/,Rampant (2018),2018-10-25
+https://image.tmdb.org/t/p/w185/bI7lGR5HuYlENlp11brKUAaPHuO.jpg,8.4,https://vip2.idlixvip.asia/movie/day-shift-2022/,Day Shift (2022),2022-08-10
+https://image.tmdb.org/t/p/w185/sfKY55tfwyg0D0m9aWibmRoKLq4.jpg,6.2,https://vip2.idlixvip.asia/movie/what-josiah-saw-2021/,What Josiah Saw (2021),2021-08-13
+https://image.tmdb.org/t/p/w185/j8DN94XDIcnLo5CWpMjsLKhFV8i.jpg,5.0,https://vip2.idlixvip.asia/movie/the-dead-girl-in-apartment-03-2022/,The Dead Girl in Apartment 03 (2022),2022-02-24
+https://image.tmdb.org/t/p/w185/85TJ4udfUOwFIlvQL6EMFvvbvN5.jpg,2.8,https://vip2.idlixvip.asia/movie/they-them-2022/,They/Them (2022),2022-07-24
+https://image.tmdb.org/t/p/w185/zfQGUJ0p0CdYKBYT5HzuaMxEAtJ.jpg,6.7,https://vip2.idlixvip.asia/movie/hypochondriac-2022/,Hypochondriac (2022),2022-03-14
+https://image.tmdb.org/t/p/w185/cv6zBbPfP0MMxgMdve95YrIIQwq.jpg,6.5,https://vip2.idlixvip.asia/movie/prey-2022/,Prey (2022),2022-07-21
+https://image.tmdb.org/t/p/w185/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg,7.3,https://vip2.idlixvip.asia/movie/nope-2022/,Nope (2022),2022-07-20
+https://image.tmdb.org/t/p/w185/2ZRO23w8wfPTJTob000iWkxd4AM.jpg,6.0,https://vip2.idlixvip.asia/movie/erzulie-2022/,Erzulie (2022),2022-06-14
+https://image.tmdb.org/t/p/w185/tOlEzzNllLd9Z5QwXXmhLdJVMuy.jpg,3.3,https://vip2.idlixvip.asia/movie/death-count-2022/,Death Count (2022),2022-07-19
+https://image.tmdb.org/t/p/w185/xwzbih0T2aungMzfASUpeGSODrU.jpg,5.3,https://vip2.idlixvip.asia/movie/the-reef-stalked-2022/,The Reef: Stalked (2022),2022-07-14
+https://image.tmdb.org/t/p/w185/9KJ8Zdmvr50IrkIbxnpeVI9sHB7.jpg,8.8,https://vip2.idlixvip.asia/movie/blackwood-2022/,Blackwood (2022),2022-07-22
+https://image.tmdb.org/t/p/w185/fyNkn7KjgA86vLWl6BnVzIufYqB.jpg,5.1,https://vip2.idlixvip.asia/movie/cracked-2022/,Cracked (2022),2022-02-24
+https://image.tmdb.org/t/p/w185/tW7UxYC8BS5xFPuzm6yXeaYK8Lw.jpg,0.0,https://vip2.idlixvip.asia/movie/unboxed-2022/,Unboxed (2022),2022-07-25
+https://image.tmdb.org/t/p/w185/b4WRdvY6a7bcAjsS4joNPjq2DPm.jpg,3.6,https://vip2.idlixvip.asia/movie/the-prey-legend-of-karnoctus-2022/,The Prey: Legend of Karnoctus (2022),2022-06-07
+https://image.tmdb.org/t/p/w185/6by4WP7ivicvXj79n1litGJMEDn.jpg,6.1,https://vip2.idlixvip.asia/movie/moloch-2022/,Moloch (2022),2022-05-19
+https://image.tmdb.org/t/p/w185/hA2zgMyHGOUSf8iO7atblBvKuVt.jpg,5.9,https://vip2.idlixvip.asia/movie/cam-2018/,Cam (2018),2018-10-01
+https://image.tmdb.org/t/p/w185/zFYYFEhKS6JZvNW7gXeKeqnbcS7.jpg,6.0,https://vip2.idlixvip.asia/movie/daniel-isnt-real-2019/,Daniel Isn't Real (2019),2019-12-06
+https://image.tmdb.org/t/p/w185/jMTsnTweu2eDgXRMaTnXp3nr72h.jpg,5.8,https://vip2.idlixvip.asia/movie/my-girlfriend-is-a-serial-killer-2019/,My Girlfriend is a Serial Killer (2019),2019-11-29
+https://image.tmdb.org/t/p/w185/9x2cz8oTRpIGs29wS35iEo3QYt2.jpg,3.8,https://vip2.idlixvip.asia/movie/the-fall-of-usher-2022/,The Fall of Usher (2022),2022-07-12
+https://image.tmdb.org/t/p/w185/wB8qqLIaYDkYEnjbS5hAJiTuYU6.jpg,3.9,https://vip2.idlixvip.asia/movie/aquaslash-2019/,Aquaslash (2019),2019-07-29
+https://image.tmdb.org/t/p/w185/7tlxaXoxmZCqeyq4MLhy0DSTPdl.jpg,9.0,https://vip2.idlixvip.asia/movie/neon-lights-2022/,Neon Lights (2022),2022-07-03
+https://image.tmdb.org/t/p/w185/eIUixNvox4U4foL5Z9KbN9HXYSM.jpg,5.9,https://vip2.idlixvip.asia/movie/the-grandmother-2022/,The Grandmother (2022),2022-01-28
+https://image.tmdb.org/t/p/w185/A6giic4ReClIwcZAlGYfDnRTzqW.jpg,4.2,https://vip2.idlixvip.asia/movie/the-ancestral-2022/,The Ancestral (2022),2022-03-24
+https://image.tmdb.org/t/p/w185/wd6WxLLR2w8aAXmLPDW5CN0iSB3.jpg,7.3,https://vip2.idlixvip.asia/movie/the-black-phone-2022/,The Black Phone (2022),2022-06-22
+https://image.tmdb.org/t/p/w185/s1xyBLnbY9QcoINxGz48SgnKwUw.jpg,5.3,https://vip2.idlixvip.asia/movie/wyrmwood-apocalypse-2022/,Wyrmwood: Apocalypse (2022),2022-02-10
+https://image.tmdb.org/t/p/w185/6zltP23zLGPogsHZUazSrrwNuKs.jpg,7.7,https://vip2.idlixvip.asia/movie/incantation-2022/,Incantation (2022),2022-03-18
+https://image.tmdb.org/t/p/w185/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg,7.8,https://vip2.idlixvip.asia/movie/i-saw-the-devil-2010/,I Saw the Devil (2010),2010-08-12
+https://image.tmdb.org/t/p/w185/tt9YSQlArAj6849SQQJ5ryNgcJs.jpg,6.4,https://vip2.idlixvip.asia/movie/ghostland-2018/,Ghostland (2018),2018-03-14
+https://image.tmdb.org/t/p/w185/ykn2GWDINcbunWPoNVRQtMaybo7.jpg,6.6,https://vip2.idlixvip.asia/movie/marrowbone-2017/,Marrowbone (2017),2017-10-27
+https://image.tmdb.org/t/p/w185/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg,5.3,https://vip2.idlixvip.asia/movie/beyond-skyline-2017/,Beyond Skyline (2017),2017-10-20
+https://image.tmdb.org/t/p/w185/yyejodyk3lWncVjVhhrEkPctY9o.jpg,5.8,https://vip2.idlixvip.asia/movie/the-prodigy-2019/,The Prodigy (2019),2019-02-06
+https://image.tmdb.org/t/p/w185/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg,6.3,https://vip2.idlixvip.asia/movie/men-2022/,Men (2022),2022-05-20
+https://image.tmdb.org/t/p/w185/sEULzxEZvrJvhz91wKxpbih25Sk.jpg,6.9,https://vip2.idlixvip.asia/movie/mad-god-2022/,Mad God (2022),2022-06-16
+https://image.tmdb.org/t/p/w185/dXCjoI3jdtBrwPHgVsyNLkl8Rvs.jpg,6.6,https://vip2.idlixvip.asia/movie/watcher-2022/,Watcher (2022),2022-06-03
+https://image.tmdb.org/t/p/w185/eFy1wkDPs3tiFxZBXpOfUaOn9uz.jpg,6.8,https://vip2.idlixvip.asia/movie/mid-century-2022/,Mid-Century (2022),2022-06-17
+https://image.tmdb.org/t/p/w185/iSx6t4mj1FT4ePqPYHW287SmNa1.jpg,6.6,https://vip2.idlixvip.asia/movie/crimes-of-the-future-2022/,Crimes of the Future (2022),2022-05-25
+https://image.tmdb.org/t/p/w185/hJUA4wfvw0A6l3niOfxourqpERA.jpg,5.9,https://vip2.idlixvip.asia/movie/spree-2020/,Spree (2020),2020-08-14
+https://image.tmdb.org/t/p/w185/lChJkVniEgCLmVWUaS7QdorhX7U.jpg,6.5,https://vip2.idlixvip.asia/movie/crimson-peak-2015/,Crimson Peak (2015),2015-10-13
+https://image.tmdb.org/t/p/w185/sDupSRbqxJhSrjKQI33w7Fd8Owz.jpg,5.7,https://vip2.idlixvip.asia/movie/underworld-blood-wars-2016/,Underworld: Blood Wars (2016),2016-11-24
+https://image.tmdb.org/t/p/w185/cBgj41y1RvmW1zJCEX0uNWL0UjW.jpg,7.4,https://vip2.idlixvip.asia/movie/forgotten-2017/,Forgotten (2017),2017-11-29
+https://image.tmdb.org/t/p/w185/4wQO3Hqt5CcOWx9SM59smpBKJIl.jpg,6.4,https://vip2.idlixvip.asia/movie/tale-of-tales-2015/,Tale of Tales (2015),2015-05-14
+https://image.tmdb.org/t/p/w185/rYobaxr1JHhmOSszqQh5Aj4Viiu.jpg,6.2,https://vip2.idlixvip.asia/movie/the-cursed-2021/,The Cursed (2021),2021-07-28
+https://image.tmdb.org/t/p/w185/660DFxWpSfZ1d1PruZ6Nd9vKXNE.jpg,7.3,https://vip2.idlixvip.asia/movie/sleepy-hollow-1999/,Sleepy Hollow (1999),1999-11-19
+https://image.tmdb.org/t/p/w185/9TdP3lOYereXW6lJp3ayPkB8muP.jpg,6.8,https://vip2.idlixvip.asia/movie/shin-godzilla-2016/,Shin Godzilla (2016),2016-07-29
+https://image.tmdb.org/t/p/w185/xyPPBPkGbZxfS6UM4PjR5bnVfwR.jpg,5.8,https://vip2.idlixvip.asia/movie/sweetheart-2019/,Sweetheart (2019),2019-01-28
+https://image.tmdb.org/t/p/w185/hangTmbxpSV4gpHG7MgSlCWSSFa.jpg,5.3,https://vip2.idlixvip.asia/movie/the-exorcism-of-god-2022/,The Exorcism of God (2022),2022-02-10
+https://image.tmdb.org/t/p/w185/62s697wZ8wpkHB8ROl8R2lI4dhA.jpg,4.6,https://vip2.idlixvip.asia/movie/dashcam-2022/,Dashcam (2022),2022-06-03
+https://image.tmdb.org/t/p/w185/3WVyuyUPq9EOg9rE6Ain01HRsuZ.jpg,3.6,https://vip2.idlixvip.asia/movie/morbid-colors-2021/,Morbid Colors (2021),2021-10-16
+https://image.tmdb.org/t/p/w185/b6ko0IKC8MdYBBPkkA1aBPLe2yz.jpg,8.4,https://vip2.idlixvip.asia/movie/the-shining-1980/,The Shining (1980),1980-05-23
+https://image.tmdb.org/t/p/w185/cdPSUck4tBRvRu6DFk6XciDrssn.jpg,6.3,https://vip2.idlixvip.asia/movie/cargo-2017/,Cargo (2017),2017-10-06
+https://image.tmdb.org/t/p/w185/4ZgZOfNImgWcIdldUHGYBVWsYW6.jpg,5.5,https://vip2.idlixvip.asia/movie/yakuza-apocalypse-2015/,Yakuza Apocalypse (2015),2015-05-21
+https://image.tmdb.org/t/p/w185/gMtjxIkEi0hnTV5lPHbgeZ4ZpUZ.jpg,4.4,https://vip2.idlixvip.asia/movie/the-human-centipede-first-sequence-2009/,The Human Centipede (First Sequence) (2009),2009-04-26
+https://image.tmdb.org/t/p/w185/qj4C2c96T1n3YnYxFG5l5bSTKbM.jpg,6.4,https://vip2.idlixvip.asia/movie/the-hills-have-eyes-2006/,The Hills Have Eyes (2006),2006-03-10
+https://image.tmdb.org/t/p/w185/ec3aX4DyjepEhPkpIUukaBxKpN3.jpg,4.7,https://vip2.idlixvip.asia/movie/monstrous-2022/,Monstrous (2022),2022-05-13
+https://image.tmdb.org/t/p/w185/kvwuqoHUpPwZv8VWMh38pSCJLct.jpg,5.1,https://vip2.idlixvip.asia/movie/the-hills-have-eyes-2-2007/,The Hills Have Eyes 2 (2007),2007-03-22
+https://image.tmdb.org/t/p/w185/2MTGip0nfahQ1jPQCZSfCsPBZes.jpg,4.6,https://vip2.idlixvip.asia/movie/firestarter-2022/,Firestarter (2022),2022-05-12
+https://image.tmdb.org/t/p/w185/ndAU1A3JgGRExX6VPyOXQbEk0av.jpg,6.3,https://vip2.idlixvip.asia/movie/the-forest-of-love-2019/,The Forest of Love (2019),2019-10-11
+https://image.tmdb.org/t/p/w185/45W9ViL5ilurSLVzBEybYXHrxEJ.jpg,7.1,https://vip2.idlixvip.asia/movie/you-wont-be-alone-2022/,You Won't Be Alone (2022),2022-04-01
+https://image.tmdb.org/t/p/w185/2yOKarmL8B4oXaLXUdHu882SUbu.jpg,6.6,https://vip2.idlixvip.asia/movie/mother-2017/,Mother! (2017),2017-09-13
+https://image.tmdb.org/t/p/w185/3ExDhZAqaSQaUNka4CDkvEaI72L.jpg,5.1,https://vip2.idlixvip.asia/movie/polaroid-2019/,Polaroid (2019),2019-01-10
+https://image.tmdb.org/t/p/w185/a7VHvhROWorsWrtNKQnLZTxpxuG.jpg,6.4,https://vip2.idlixvip.asia/movie/the-sadness-2021/,The Sadness (2021),2021-01-22
+https://image.tmdb.org/t/p/w185/2rlLgZdKC9UhzI7qZHbWKLxl889.jpg,5.3,https://vip2.idlixvip.asia/movie/the-cellar-2022/,The Cellar (2022),2022-03-25
+https://image.tmdb.org/t/p/w185/aXjn0V1lsu9LTSpIbcLT6gDltFe.jpg,7.2,https://vip2.idlixvip.asia/movie/choose-or-die-2022/,Choose or Die (2022),2022-04-15
+https://image.tmdb.org/t/p/w185/woTQx9Q4b8aO13jR9dsj8C9JESy.jpg,7.3,https://vip2.idlixvip.asia/movie/x-2022/,X (2022),2022-03-17
+https://image.tmdb.org/t/p/w185/h7dZpJDORYs5c56dydbrLFkEXpE.jpg,6.5,https://vip2.idlixvip.asia/movie/host-2020/,Host (2020),2020-12-04
+https://image.tmdb.org/t/p/w185/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg,5.1,https://vip2.idlixvip.asia/movie/umma-2022/,Umma (2022),2022-03-18
+https://image.tmdb.org/t/p/w185/6Fl1VMPh78swwVuggkm6tfYJPH9.jpg,4.1,https://vip2.idlixvip.asia/movie/madelines-2022/,Madelines (2022),2022-03-31
+https://image.tmdb.org/t/p/w185/h4WLN3cmEjCsH1fNGRfvGV6IPBX.jpg,5.2,https://vip2.idlixvip.asia/movie/morbius-2022/,Morbius (2022),2022-03-30
+https://image.tmdb.org/t/p/w185/sUw081I0k5JWL6NpTaDRjMpLKwr.jpg,6.7,https://vip2.idlixvip.asia/movie/you-are-not-my-mother-2022/,You Are Not My Mother (2022),2022-03-04
+https://image.tmdb.org/t/p/w185/62WdFTVWAVFnDfNci35Ik59Mwfa.jpg,5.8,https://vip2.idlixvip.asia/movie/blade-trinity-2004/,Blade: Trinity (2004),2004-12-08
+https://image.tmdb.org/t/p/w185/yDHwo3eWcMiy5LnnEnlGV9iLu9k.jpg,6.7,https://vip2.idlixvip.asia/movie/blade-ii-2002/,Blade II (2002),2002-03-22
+https://image.tmdb.org/t/p/w185/3K2Qc4L2ZDTLb7YjLbuMgyTNWfa.jpg,7.1,https://vip2.idlixvip.asia/movie/blade-1998/,Blade (1998),1998-08-21
+https://image.tmdb.org/t/p/w185/p21RvglEmC4MMDb6IyNX2GQrgPu.jpg,6.4,https://vip2.idlixvip.asia/movie/the-piper-2015/,The Piper (2015),2015-07-09
+https://image.tmdb.org/t/p/w185/u11cUeQwJH2rWRpDU6x635G21QK.jpg,6.3,https://vip2.idlixvip.asia/movie/ju-on-the-grudge-2-2003/,Ju-on: The Grudge 2 (2003),2003-08-15
+https://image.tmdb.org/t/p/w185/c8jTCqJKq6DXIjHAz4MqWFb84A2.jpg,6.7,https://vip2.idlixvip.asia/movie/ju-on-the-grudge-2002/,Ju-on: The Grudge (2002),2002-10-18
+https://image.tmdb.org/t/p/w185/gxbwRHsQ2v6DQv28ttp7pIx7Utj.jpg,5.6,https://vip2.idlixvip.asia/movie/master-2022/,Master (2022),2022-03-18
+https://image.tmdb.org/t/p/w185/2JOujdpYUeGg3886gigTAQq0na6.jpg,4.9,https://vip2.idlixvip.asia/movie/silent-hill-revelation-3d-2012/,Silent Hill: Revelation 3D (2012),2012-10-10
+https://image.tmdb.org/t/p/w185/4NAVF9R5pUPOTdPQStom4VsjoTY.jpg,6.5,https://vip2.idlixvip.asia/movie/silent-hill-2006/,Silent Hill (2006),2006-04-21
+https://image.tmdb.org/t/p/w185/xFR5TrTfhjaKN2z17rP09hoQXXs.jpg,5.2,https://vip2.idlixvip.asia/movie/slapface-2022/,Slapface (2022),2022-04-21
+https://image.tmdb.org/t/p/w185/cbhxqeDIgeX36x5jmOvl5OP2MCv.jpg,5.3,https://vip2.idlixvip.asia/movie/aftermath-2021/,Aftermath (2021),2021-08-04
+https://image.tmdb.org/t/p/w185/ur55jwI2ENClaaSlIFbc1DFpawe.jpg,6.7,https://vip2.idlixvip.asia/movie/fresh-2022/,Fresh (2022),2022-03-03
+https://image.tmdb.org/t/p/w185/meRIRfADEGVo65xgPO6eZvJ0CRG.jpg,7.0,https://vip2.idlixvip.asia/movie/texas-chainsaw-massacre-2022/,Texas Chainsaw Massacre (2022),2022-02-18
+https://image.tmdb.org/t/p/w185/qO8zQ9dSADWiwRnR7oCOsPDuOom.jpg,6.5,https://vip2.idlixvip.asia/movie/parasyte-part-2-2015/,Parasyte: Part 2 (2015),2015-04-25
+https://image.tmdb.org/t/p/w185/lNzCFguC8wEyJWP89ewQYK8d2nJ.jpg,6.8,https://vip2.idlixvip.asia/movie/parasyte-part-1-2014/,Parasyte: Part 1 (2014),2014-11-29
+https://image.tmdb.org/t/p/w185/2DKRZHGl7FatwYMgsIsIcX3QY4k.jpg,8.1,https://vip2.idlixvip.asia/movie/shut-in-2022/,Shut In (2022),2022-02-10
+https://image.tmdb.org/t/p/w185/jmv6b1edSt5HKPtA9G12O8Z20x4.jpg,4.6,https://vip2.idlixvip.asia/movie/the-privilege-2022/,The Privilege (2022),2022-02-09
+https://image.tmdb.org/t/p/w185/iZjMFSKCrleKolC1gYcz5Rs8bk1.jpg,0.0,https://vip2.idlixvip.asia/movie/the-house-2022/,The House (2022),2022-01-14
+https://image.tmdb.org/t/p/w185/iLHGciBl5kwUVJCUj8xKtDqkP7V.jpg,3.8,https://vip2.idlixvip.asia/movie/the-long-night-2022/,The Long Night (2022),2022-02-04
+https://image.tmdb.org/t/p/w185/aH0tQXZNRz8hMHtRXp7Iz4smy51.jpg,7.0,https://vip2.idlixvip.asia/movie/the-innocents-2021/,The Innocents (2021),2021-09-03
+https://image.tmdb.org/t/p/w185/kZNHR1upJKF3eTzdgl5V8s8a4C3.jpg,7.0,https://vip2.idlixvip.asia/movie/scream-2022/,Scream (2022),2022-01-12
+https://image.tmdb.org/t/p/w185/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg,7.1,https://vip2.idlixvip.asia/movie/the-mist-2007/,The Mist (2007),2007-11-21
+https://image.tmdb.org/t/p/w185/8qrX020ZNX6Y4bHVt5ARusZuWAk.jpg,6.7,https://vip2.idlixvip.asia/movie/saint-maud-2020/,Saint Maud (2020),2020-10-09
+https://image.tmdb.org/t/p/w185/sR3iV0Jt080jgvPBtJhs3Tta1y9.jpg,5.6,https://vip2.idlixvip.asia/movie/resident-evil-welcome-to-raccoon-city-2021/,Resident Evil: Welcome to Raccoon City (2021),2021-11-24
+https://image.tmdb.org/t/p/w185/bfUO1SBTfgcK77em3lOuRFY2uLc.jpg,5.7,https://vip2.idlixvip.asia/movie/silent-night-2021/,Silent Night (2021),2021-12-03
+https://image.tmdb.org/t/p/w185/klsDRXM68wV7vZTTaAOuu62VNA1.jpg,6.3,https://vip2.idlixvip.asia/movie/antlers-2021/,Antlers (2021),2021-10-28
+https://image.tmdb.org/t/p/w185/tPDe68PDsgIGMs6wdJLtcwVVxA7.jpg,6.2,https://vip2.idlixvip.asia/movie/the-perfection-2018/,The Perfection (2018),2018-09-20
+https://image.tmdb.org/t/p/w185/qMN0HIP34f736kkQcfvTfmL9TP3.jpg,6.7,https://vip2.idlixvip.asia/movie/the-exorcism-of-emily-rose-2005/,The Exorcism of Emily Rose (2005),2005-09-09
+https://image.tmdb.org/t/p/w185/3ddHhfMlZHZCefHDeaP8FzSoH4Y.jpg,7.6,https://vip2.idlixvip.asia/movie/american-psycho-2000/,American Psycho (2000),2000-04-13
+https://image.tmdb.org/t/p/w185/dJe4s2h9hac0Fu3pQVV4OuWe8kU.jpg,5.5,https://vip2.idlixvip.asia/movie/the-cloverfield-paradox-2018/,The Cloverfield Paradox (2018),2018-02-04
+https://image.tmdb.org/t/p/w185/k6pTTqyU9C3NkBwgt8qJNz4JyJ7.jpg,5.4,https://vip2.idlixvip.asia/movie/a-house-on-the-bayou-2021/,A House on the Bayou (2021),2021-11-19
+https://image.tmdb.org/t/p/w185/yxTFHGcS0AJab3olU9BjABf5Ogx.jpg,5.1,https://vip2.idlixvip.asia/movie/the-crucifixion-2017/,The Crucifixion (2017),2017-04-27
+https://image.tmdb.org/t/p/w185/5iGVofFc0mCr8aJYsVICm42ThIu.jpg,7.5,https://vip2.idlixvip.asia/movie/last-night-in-soho-2021/,Last Night in Soho (2021),2021-10-21
+https://image.tmdb.org/t/p/w185/oJZSajKLJkoTOzSZQN2ZwRnPwHZ.jpg,6.2,https://vip2.idlixvip.asia/movie/as-above-so-below-2014/,"As Above, So Below (2014)",2014-08-14
+https://image.tmdb.org/t/p/w185/yoSP4Gh9sr9csceRGlnaByeQJDL.jpg,6.2,https://vip2.idlixvip.asia/movie/ghost-mansion-the-grotesque-mansion-2021/,Ghost Mansion / The Grotesque Mansion (2021),2021-06-30
+https://image.tmdb.org/t/p/w185/miEj4kNc4efZ5WbPJqWl1UXWrvS.jpg,5.2,https://vip2.idlixvip.asia/movie/hypnotic-2021/,Hypnotic (2021),2021-10-27
+https://image.tmdb.org/t/p/w185/7oZdP70fQcCiajv7SVmy6ZXYYrs.jpg,4.6,https://vip2.idlixvip.asia/movie/the-pyramid-2014/,The Pyramid (2014),2014-12-04
+https://image.tmdb.org/t/p/w185/zD3DvlwJbGv0QkNrTNmsve6jvcl.jpg,4.7,https://vip2.idlixvip.asia/movie/guimoon-the-lightless-door-2021/,Guimoon: The Lightless Door (2021),2021-08-25
+https://image.tmdb.org/t/p/w185/gP9yviboTGWGolqUZKIB1UkF1C2.jpg,6.6,https://vip2.idlixvip.asia/movie/lamb-2021/,Lamb (2021),2021-08-12
+https://image.tmdb.org/t/p/w185/bXAVveHiLotZbWdg3PKGhAzxYKP.jpg,5.2,https://vip2.idlixvip.asia/movie/paranormal-activity-next-of-kin-2021/,Paranormal Activity: Next of Kin (2021),2021-10-29
+https://image.tmdb.org/t/p/w185/1WCOKO21W1jhrlyjSQ3OCiwLmyq.jpg,4.8,https://vip2.idlixvip.asia/movie/the-blazing-world-2021/,The Blazing World (2021),2021-10-15
+https://image.tmdb.org/t/p/w185/lubDkWllPr0Susbv0K4oMGuOiLg.jpg,7.0,https://vip2.idlixvip.asia/movie/titane-2021/,Titane (2021),2021-07-14
+https://image.tmdb.org/t/p/w185/GaPJQscaH4MtYQTbJyWjCUIho8.jpg,4.8,https://vip2.idlixvip.asia/movie/theres-someone-inside-your-house-2021/,There's Someone Inside Your House (2021),2021-09-24
+https://image.tmdb.org/t/p/w185/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg,7.5,https://vip2.idlixvip.asia/movie/halloween-kills-2021/,Halloween Kills (2021),2021-10-14
+https://image.tmdb.org/t/p/w185/oHoqxVKgXUiz0gGQ23AZPPLgUXd.jpg,4.9,https://vip2.idlixvip.asia/movie/bite-2015/,Bite (2015),2015-08-15
+https://image.tmdb.org/t/p/w185/4R4DWo10V6CGq9wCRYoOubL1w2q.jpg,4.6,https://vip2.idlixvip.asia/movie/paranormal-activity-the-ghost-dimension-2015/,Paranormal Activity: The Ghost Dimension (2015),2015-10-21
+https://image.tmdb.org/t/p/w185/4srdg5SoxREXha5kibwZBvsqNtV.jpg,5.0,https://vip2.idlixvip.asia/movie/paranormal-activity-the-marked-ones-2014/,Paranormal Activity: The Marked Ones (2014),2014-01-01
+https://image.tmdb.org/t/p/w185/8Devidv1ujbw1uCa1Dn3qVujHTg.jpg,4.6,https://vip2.idlixvip.asia/movie/paranormal-activity-4-2012/,Paranormal Activity 4 (2012),2012-10-17
+https://image.tmdb.org/t/p/w185/9nYranPiWdNmbD5PRPPSL7VUFTS.jpg,5.8,https://vip2.idlixvip.asia/movie/paranormal-activity-3-2011/,Paranormal Activity 3 (2011),2011-10-19
+https://image.tmdb.org/t/p/w185/rgqe1pPLOdBDN5BJyXu0z0c5n9o.jpg,5.7,https://vip2.idlixvip.asia/movie/paranormal-activity-2-2010/,Paranormal Activity 2 (2010),2010-10-20
+https://image.tmdb.org/t/p/w185/1bjA7de4O0NhMsaOqwvrecophUs.jpg,6.3,https://vip2.idlixvip.asia/movie/paranormal-activity-2007/,Paranormal Activity (2007),2007-09-14
+https://image.tmdb.org/t/p/w185/mx6cgtUiEOVGSI3sb3SNQxAXqRa.jpg,3.8,https://vip2.idlixvip.asia/movie/black-as-night-2021/,Black as Night (2021),2021-10-01
+https://image.tmdb.org/t/p/w185/vSHPM4LQDpWdQrD5KZWK6wNqSOD.jpg,4.8,https://vip2.idlixvip.asia/movie/halloween-ii-2009/,Halloween II (2009),2009-08-28
+https://image.tmdb.org/t/p/w185/kX0tl6NyfLw1N2vegNEVO0SNZAg.jpg,6.1,https://vip2.idlixvip.asia/movie/halloween-2007/,Halloween (2007),2007-08-31
+https://image.tmdb.org/t/p/w185/AtE5zie5YPl6gaROcoAP3fh0x4M.jpg,5.9,https://vip2.idlixvip.asia/movie/southbound-2015/,Southbound (2015),2015-09-17
+https://image.tmdb.org/t/p/w185/8rFWAkMZ2Nu6OpjqgXQhP8Fugo.jpg,5.4,https://vip2.idlixvip.asia/movie/vhs-94-2021/,V/H/S/94,2021-09-26
+https://image.tmdb.org/t/p/w185/fYiaBZDjyXjvlY6EDZMAxIhBO1I.jpg,6.5,https://vip2.idlixvip.asia/movie/lego-star-wars-terrifying-tales-2021/,LEGO Star Wars Terrifying Tales (2021),2021-10-01
+https://image.tmdb.org/t/p/w185/qxGRdNeWKQcMg6jJduTthsiBbsd.jpg,6.9,https://vip2.idlixvip.asia/movie/the-night-house-2021/,The Night House (2021),2021-07-15
+https://image.tmdb.org/t/p/w185/pHghiDnQ63O7MiItD6CaSz2jjnr.jpg,5.3,https://vip2.idlixvip.asia/movie/tusk-2014/,Tusk (2014),2014-09-19
+https://image.tmdb.org/t/p/w185/ubDpUo7z5Kz8HMz2qv2bS66Y9uo.jpg,6.0,https://vip2.idlixvip.asia/movie/coming-home-in-the-dark-2021/,Coming Home in the Dark (2021),2021-08-12
+https://image.tmdb.org/t/p/w185/bZUostLcCZYgcuBuAjmuSkBggiQ.jpg,0.0,https://vip2.idlixvip.asia/movie/no-one-gets-out-alive-2021/,No One Gets Out Alive (2021),2021-09-29
+https://image.tmdb.org/t/p/w185/6kUIkCLtqHhf98eaXxohMTDqpB9.jpg,6.7,https://vip2.idlixvip.asia/movie/the-medium-2021/,The Medium (2021),2021-07-14
+https://image.tmdb.org/t/p/w185/cGLL4SY6jFjjUZkz2eFxgtCtGgK.jpg,5.8,https://vip2.idlixvip.asia/movie/old-2021/,Old (2021),2021-07-21
+https://image.tmdb.org/t/p/w185/n0JypRxBSdLFg0MnYnEIaEXlYh5.jpg,5.8,https://vip2.idlixvip.asia/movie/prisoners-of-the-ghostland-2021/,Prisoners of the Ghostland (2021),2021-08-31
+https://image.tmdb.org/t/p/w185/1N5e56325vwih8IeJ29k9FZf8p8.jpg,7.0,https://vip2.idlixvip.asia/movie/malignant-2021/,Malignant (2021),2021-09-01
+https://image.tmdb.org/t/p/w185/l7OhfiroBwaXFL1cfKscSmR2bW6.jpg,5.3,https://vip2.idlixvip.asia/movie/rec%e2%81%b4-apocalypse-2014/,[REC]⁴ Apocalypse (2014),2014-10-31
+https://image.tmdb.org/t/p/w185/tI1534q0Up7PBcLdXdFerLmIXn3.jpg,5.0,https://vip2.idlixvip.asia/movie/rec%c2%b3-genesis-2012/,[REC]³ Genesis (2012),2012-03-30
+https://image.tmdb.org/t/p/w185/gWmIqmhb6B6bmL6EPX4sVx0jO02.jpg,6.5,https://vip2.idlixvip.asia/movie/rec%c2%b2-2009/,[REC]² (2009),2009-09-15
+https://image.tmdb.org/t/p/w185/5XsVGgo8I12v3KlPcD0r1CNHMC6.jpg,7.4,https://vip2.idlixvip.asia/movie/rec-2007/,[REC] (2007),2007-11-23
+https://image.tmdb.org/t/p/w185/jGYJyPzVgrVV2bgClI9uvEZgVLE.jpg,5.7,https://vip2.idlixvip.asia/movie/escape-room-tournament-of-champions-2021/,Escape Room: Tournament of Champions (2021),2021-07-01
+https://image.tmdb.org/t/p/w185/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg,7.3,https://vip2.idlixvip.asia/movie/sweeney-todd-the-demon-barber-of-fleet-street-2007/,Sweeney Todd: The Demon Barber of Fleet Street (2007),2007-01-25
+https://image.tmdb.org/t/p/w185/a8J5xyJIPiNG2FGQVMt4IHHaY9M.jpg,0.0,https://vip2.idlixvip.asia/movie/karen-2021/,Karen (2021),2021-08-13
+https://image.tmdb.org/t/p/w185/rws34k2bqYVo2B5MkhKAbV8925j.jpg,7.7,https://vip2.idlixvip.asia/movie/one-cut-of-the-dead-2017/,One Cut of the Dead (2017),2017-11-04
+https://image.tmdb.org/t/p/w185/tzGY49kseSE9QAKk47uuDGwnSCu.jpg,8.1,https://vip2.idlixvip.asia/movie/the-thing-1982/,The Thing (1982),1982-06-25
+https://image.tmdb.org/t/p/w185/dqoshZPLNsXlC1qtz5n34raUyrE.jpg,6.1,https://vip2.idlixvip.asia/movie/candyman-2021/,Candyman (2021),2021-08-25
+https://image.tmdb.org/t/p/w185/aiIVGWUaucehfL7k2hnip1ieSQA.jpg,6.7,https://vip2.idlixvip.asia/movie/phobia-2-2009/,Phobia 2 (2009),2009-09-09
+https://image.tmdb.org/t/p/w185/cH0xts81UqmkYR9CqYvvhKX3Kpk.jpg,6.6,https://vip2.idlixvip.asia/movie/phobia-4bia-2008/,Phobia / 4bia (2008),2008-04-25
+https://image.tmdb.org/t/p/w185/fOG5Cj9URclWa0zyESPBuRCvAFh.jpg,6.5,https://vip2.idlixvip.asia/movie/bad-samaritan-2018/,Bad Samaritan (2018),2018-04-19
+https://image.tmdb.org/t/p/w185/ptGTI1LbvvVKJToYxtzZpFfVyDh.jpg,4.8,https://vip2.idlixvip.asia/movie/the-dead-room-2015/,The Dead Room (2015),2015-10-01
+https://image.tmdb.org/t/p/w185/x39zGtG5ftF117J4sgG7m9xvABD.jpg,5.6,https://vip2.idlixvip.asia/movie/one-cut-of-the-dead-spin-off-in-hollywood-2019/,One Cut of the Dead Spin-Off: In Hollywood (2019),2019-11-14
+https://image.tmdb.org/t/p/w185/gvBVIlcMaeWKhGjgGjlShiL4w4r.jpg,5.8,https://vip2.idlixvip.asia/movie/jigsaw-2017/,Jigsaw (2017),2017-10-26
+https://image.tmdb.org/t/p/w185/oa3vFRANEmx2RtAp0Q3mKxqhTVV.jpg,5.6,https://vip2.idlixvip.asia/movie/saw-3d-2010/,Saw 3D (2010),2010-10-21
+https://image.tmdb.org/t/p/w185/9O1PDgz8hats6MYg48dBiTtnUSy.jpg,5.8,https://vip2.idlixvip.asia/movie/saw-v-2008/,Saw V (2008),2008-10-23
+https://image.tmdb.org/t/p/w185/wd6mhwDjlpeOufuMUF1FAeMliWZ.jpg,5.9,https://vip2.idlixvip.asia/movie/saw-iv-2007/,Saw IV (2007),2007-10-25
+https://image.tmdb.org/t/p/w185/cM9G0mKHFYbXMiJPyUBUjbwKuda.jpg,6.0,https://vip2.idlixvip.asia/movie/saw-vi-2009/,Saw VI (2009),2009-10-16
+https://image.tmdb.org/t/p/w185/dfl7ti4ataetiyoOg3SI0FA9KeP.jpg,6.2,https://vip2.idlixvip.asia/movie/saw-iii-2006/,Saw III (2006),2006-10-27
+https://image.tmdb.org/t/p/w185/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg,6.6,https://vip2.idlixvip.asia/movie/saw-ii-2005/,Saw II (2005),2005-10-28
+https://image.tmdb.org/t/p/w185/pparEGTCxcTiImyVFoKD0LX11N8.jpg,7.6,https://vip2.idlixvip.asia/movie/saw-2004/,Saw (2004),2004-10-01
+https://image.tmdb.org/t/p/w185/yx7akzfwbPCLlxKgZ1NycThFC92.jpg,5.8,https://vip2.idlixvip.asia/movie/the-babysitter-killer-queen-2020/,The Babysitter: Killer Queen (2020),2020-09-10
+https://image.tmdb.org/t/p/w185/zC4lm38NV09xzHJVAw4jpTfhJjB.jpg,5.3,https://vip2.idlixvip.asia/movie/the-colony-2013/,The Colony (2013),2013-04-12
+https://image.tmdb.org/t/p/w185/yuS2OY6RnvS6G3sFPFPB2OSy2EE.jpg,0.0,https://vip2.idlixvip.asia/movie/the-girl-who-got-away-2021/,The Girl Who Got Away (2021),2021-08-20
+https://image.tmdb.org/t/p/w185/tbqUdzZKbHI4dC1leeKofKiKmTM.jpg,4.1,https://vip2.idlixvip.asia/movie/blood-conscious-2021/,Blood Conscious (2021),2021-08-20
+https://image.tmdb.org/t/p/w185/wdCmgN77TDVTiOJmjZjgIThhnqt.jpg,0.0,https://vip2.idlixvip.asia/movie/dont-breathe-2-2021/,Don't Breathe 2 (2021),2021-08-12
+https://image.tmdb.org/t/p/w185/A734mQnqdLfraDMJ2Ad1lyE8wwP.jpg,5.4,https://vip2.idlixvip.asia/movie/the-swarm-2020/,The Swarm (2020),2020-10-14
+https://image.tmdb.org/t/p/w185/sjNyV8X9R8MU7AYAwvTRj9OBDoz.jpg,5.0,https://vip2.idlixvip.asia/movie/bleed-with-me-2020/,Bleed With Me (2020),2020-08-26
+https://image.tmdb.org/t/p/w185/v7aOJKI5vxCHotHvN8O7SR6SpP6.jpg,6.1,https://vip2.idlixvip.asia/movie/blood-red-sky-2021/,Blood Red Sky (2021),2021-07-23
+https://image.tmdb.org/t/p/w185/piGZDwFW4urLYDWGiYJMrt6hdCS.jpg,0.0,https://vip2.idlixvip.asia/movie/kingdom-ashin-of-the-north-2021/,Kingdom: Ashin of the North (2021),2021-07-23
+https://image.tmdb.org/t/p/w185/uHA5COgDzcxjpYSHHulrKVl6ByL.jpg,5.8,https://vip2.idlixvip.asia/movie/the-forever-purge-2021/,The Forever Purge (2021),2021-06-30
+https://image.tmdb.org/t/p/w185/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg,6.6,https://vip2.idlixvip.asia/movie/fear-street-part-three-1666-2021/,Fear Street Part Three: 1666 (2021),2021-07-14
+https://image.tmdb.org/t/p/w185/g0cerMc747UTsaBqLq0yANzAc6n.jpg,4.8,https://vip2.idlixvip.asia/movie/pee-nak-2-2020/,Pee Nak 2 (2020),2020-02-20
+https://image.tmdb.org/t/p/w185/tJ23DWQPU6qHWgrRhRayKt8K9nc.jpg,4.6,https://vip2.idlixvip.asia/movie/pee-nak-2019/,Pee Nak (2019),2019-02-21
+https://image.tmdb.org/t/p/w185/jIhCR7kuoy6WTENPZCNsDJfgLtX.jpg,7.3,https://vip2.idlixvip.asia/movie/pee-mak-phrakanong-2013/,Pee Mak Phrakanong (2013),2013-03-28
+https://image.tmdb.org/t/p/w185/xnxGmUof0HiugUaNbUFiS4GJPx4.jpg,5.7,https://vip2.idlixvip.asia/movie/a-classic-horror-story-2021/,A Classic Horror Story (2021),2021-07-14
+https://image.tmdb.org/t/p/w185/86a7GRVRCwfl7wdI4QadyvKa6Zu.jpg,6.3,https://vip2.idlixvip.asia/movie/the-babysitter-2017/,The Babysitter (2017),2017-10-13
+https://image.tmdb.org/t/p/w185/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg,6.7,https://vip2.idlixvip.asia/movie/fear-street-part-two-1978-2021/,Fear Street Part Two: 1978 (2021),2021-07-08
+https://image.tmdb.org/t/p/w185/trSDStH3UP4ux4lAILNNSqDXSB3.jpg,5.3,https://vip2.idlixvip.asia/movie/the-8th-night-2021/,The 8th Night (2021),2021-07-02
+https://image.tmdb.org/t/p/w185/WoG2tvwanOMlU0qsbxpf9Qd3y.jpg,6.6,https://vip2.idlixvip.asia/movie/werewolves-within-2021/,Werewolves Within (2021),2021-06-25
+https://image.tmdb.org/t/p/w185/mI7xBibGBNai6vSdycTjgxEQQOO.jpg,5.8,https://vip2.idlixvip.asia/movie/till-death-2021/,Till Death (2021),2021-07-02
+https://image.tmdb.org/t/p/w185/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg,6.2,https://vip2.idlixvip.asia/movie/fear-street-part-one-1994-2021/,Fear Street Part One: 1994 (2021),2021-06-28
+https://image.tmdb.org/t/p/w185/v8cwfPwjHDWf5s5MxvLvcfnxPLL.jpg,5.6,https://vip2.idlixvip.asia/movie/gaia-2021/,Gaia (2021),2021-06-18
+https://image.tmdb.org/t/p/w185/1FOEEtGFPp5cgpLfPQVMB0UNVpI.jpg,6.0,https://vip2.idlixvip.asia/movie/censor-2021/,Censor (2021),2021-06-11
+https://image.tmdb.org/t/p/w185/bfrdfB3eeK7ddQP4Qw0ozrxWD2x.jpg,0.0,https://vip2.idlixvip.asia/movie/dragon-fury-2021/,Dragon Fury (2021),2021-10-06
+https://image.tmdb.org/t/p/w185/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg,7.3,https://vip2.idlixvip.asia/movie/a-quiet-place-part-ii-2021/,A Quiet Place Part II (2021),2021-05-21
+https://image.tmdb.org/t/p/w185/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg,6.3,https://vip2.idlixvip.asia/movie/the-conjuring-the-devil-made-me-do-it-2021/,The Conjuring: The Devil Made Me Do It (2021),2021-05-25
+https://image.tmdb.org/t/p/w185/qkl6mRoFexK2FGWCbAsvrRxjWaF.jpg,5.2,https://vip2.idlixvip.asia/movie/spiral-from-the-book-of-saw-2021/,Spiral: From the Book of Saw (2021),2021-05-12
+https://image.tmdb.org/t/p/w185/vdMsMYfkHJ6mLht5QCg7Hl8hnEp.jpg,0.0,https://vip2.idlixvip.asia/movie/ghost-lab-2021/,Ghost Lab (2021),2021-05-26
+https://image.tmdb.org/t/p/w185/b4gYVcl8pParX8AjkN90iQrWrWO.jpg,0.0,https://vip2.idlixvip.asia/movie/the-unholy-2021/,The Unholy (2021),2021-03-31
+https://image.tmdb.org/t/p/w185/6ttn2RPsJxNom7XsDg16cuH5a6O.jpg,5.6,https://vip2.idlixvip.asia/movie/the-maid-2020/,The Maid (2020),2020-07-13
+https://image.tmdb.org/t/p/w185/1m10QitDjpbZgFP1syXgVOv2pH7.jpg,6.0,https://vip2.idlixvip.asia/movie/the-bad-seed-2018/,The Bad Seed (2018),2018-09-09
+https://image.tmdb.org/t/p/w185/z8CExJekGrEThbpMXAmCFvvgoJR.jpg,5.7,https://vip2.idlixvip.asia/movie/army-of-the-dead-2021/,Army of the Dead (2021),2021-05-14
+https://image.tmdb.org/t/p/w185/nJCPWN1NZCKmA4cfJNgGdyC6r9K.jpg,4.8,https://vip2.idlixvip.asia/movie/the-djinn-2021/,The Djinn (2021),2021-05-14
+https://image.tmdb.org/t/p/w185/fbFG87LLTuPT8MZHRxofYvDnelc.jpg,4.1,https://vip2.idlixvip.asia/movie/great-white-2021/,Great White (2021),2021-05-07
+https://image.tmdb.org/t/p/w185/oT3q1gClsLyDS6kI15FYISy4arw.jpg,5.0,https://vip2.idlixvip.asia/movie/initiation-2021/,Initiation (2021),2021-05-07
+https://image.tmdb.org/t/p/w185/bUcWwnm2mHgllN4m95Xj8kSVyzp.jpg,5.5,https://vip2.idlixvip.asia/movie/in-the-earth-2021/,In the Earth (2021),2021-04-30
+https://image.tmdb.org/t/p/w185/4WGas7DgM54ZfokeO87N3kj2bbW.jpg,0.0,https://vip2.idlixvip.asia/movie/wrong-place-wrong-time-2021/,"Wrong Place, Wrong Time (2021)",2021-05-04
+https://image.tmdb.org/t/p/w185/9tSkNmGt1K5Lgf0L0BTHHYJNz0W.jpg,5.3,https://vip2.idlixvip.asia/movie/things-heard-seen-2021/,Things Heard & Seen (2021),2021-04-29
+https://image.tmdb.org/t/p/w185/3wh1fiomVxP98ItRnCtH40971cx.jpg,8.0,https://vip2.idlixvip.asia/movie/in-search-of-darkness-a-journey-into-iconic-80s-horror-2019/,In Search of Darkness: A Journey Into Iconic '80s Horror (2019),2019-05-01
+https://image.tmdb.org/t/p/w185/4fl6EdtMp6p0RKJgESdFti1J3dC.jpg,0.0,https://vip2.idlixvip.asia/movie/son-2021/,Son (2021),2021-03-13
+https://image.tmdb.org/t/p/w185/4U1SBHmwHkNA0eHZ2n1CuiC1K1g.jpg,5.5,https://vip2.idlixvip.asia/movie/wrong-turn-2021/,Wrong Turn (2021),2021-01-26
+https://image.tmdb.org/t/p/w185/keEnkeAvifw8NSEC4f6WsqeLJgF.jpg,0.0,https://vip2.idlixvip.asia/movie/willys-wonderland-2021/,Willy's Wonderland (2021),2021-02-12
+https://image.tmdb.org/t/p/w185/zlhUgY0xoqGhMUge4dX1ruHcUvm.jpg,4.3,https://vip2.idlixvip.asia/movie/reunion-2020/,Reunion (2020),2020-11-05
+https://image.tmdb.org/t/p/w185/aF6ptlTCyTVx7rkzGr2dGh4oNYN.jpg,2.8,https://vip2.idlixvip.asia/movie/red-woods-2021/,Red Woods (2021),2021-02-05
+https://image.tmdb.org/t/p/w185/bn0BLVadmvzq6MmJ0n97MLxGpNQ.jpg,5.7,https://vip2.idlixvip.asia/movie/a-glitch-in-the-matrix-2021/,A Glitch in the Matrix (2021),2021-01-30
+https://image.tmdb.org/t/p/w185/4BwPmBSmj2cuYxyihOxXc4DFFXC.jpg,3.4,https://vip2.idlixvip.asia/movie/ouija-craft-2020/,Ouija Craft (2020),2020-06-10
+https://image.tmdb.org/t/p/w185/zBAi13WS0BG82Vbk94pgFOyHIMZ.jpg,4.2,https://vip2.idlixvip.asia/movie/evil-takes-root-2020/,Evil Takes Root (2020),2020-09-15
+https://image.tmdb.org/t/p/w185/28Y3pxfkRZMhLsw4if6e3J0HD7Q.jpg,6.9,https://vip2.idlixvip.asia/movie/psycho-goreman-2021/,Psycho Goreman (2021),2021-01-22
+https://image.tmdb.org/t/p/w185/t7EUMSlfUN3jUSZUJOLURAzJzZs.jpg,5.0,https://vip2.idlixvip.asia/movie/shadow-in-the-cloud-2020/,Shadow in the Cloud (2020),2020-12-31
+https://image.tmdb.org/t/p/w185/AjlVJ8y62Sx34eXsugV4htv8wpQ.jpg,7.0,https://vip2.idlixvip.asia/movie/the-night-they-knocked-2020/,The Night They Knocked (2020),2020-11-06
+https://image.tmdb.org/t/p/w185/ffdPUteSePSqJEhKJKwgSIWumC2.jpg,6.2,https://vip2.idlixvip.asia/movie/dont-listen-2020/,Don't Listen (2020),2020-07-24
+https://image.tmdb.org/t/p/w185/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg,6.8,https://vip2.idlixvip.asia/movie/freaky-2020/,Freaky (2020),2020-11-12
+https://image.tmdb.org/t/p/w185/zWXkYJQ8Z1gRvKhLpuyB7CUFaPU.jpg,6.0,https://vip2.idlixvip.asia/movie/yummy-2019/,Yummy (2019),2019-12-13
+https://image.tmdb.org/t/p/w185/mtDYMa2inpJjxq2DjELPXbtf02v.jpg,6.7,https://vip2.idlixvip.asia/movie/run-2020/,Run (2020),2020-11-20
+https://image.tmdb.org/t/p/w185/3ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg,5.7,https://vip2.idlixvip.asia/movie/the-rental-2020/,The Rental (2020),2020-07-23
+https://image.tmdb.org/t/p/w185/KvhqUA8EtywXYCHb9up4cnG5en.jpg,5.6,https://vip2.idlixvip.asia/movie/triggered-2020/,Triggered (2020),2020-08-28
+https://image.tmdb.org/t/p/w185/5vFCHFVLPcU4M8uNXM1ba9y83Iu.jpg,4.8,https://vip2.idlixvip.asia/movie/nobody-sleeps-in-the-woods-tonight-2020/,Nobody Sleeps in the Woods Tonight (2020),2020-03-13
+https://image.tmdb.org/t/p/w185/9Z2qT9iZYLzzsCSYu7A4SEQsKX0.jpg,6.2,https://vip2.idlixvip.asia/movie/the-divine-fury-2019/,The Divine Fury (2019),2019-07-31
+https://image.tmdb.org/t/p/w185/zJNFiWBGYSMbfTAk6Ygqdj6Rahq.jpg,5.6,https://vip2.idlixvip.asia/movie/nocturne-2020/,Nocturne (2020),2020-10-13
+https://image.tmdb.org/t/p/w185/53hAnvr5sBT2YA3ZyK57Cu0R1Lc.jpg,3.8,https://vip2.idlixvip.asia/movie/redwood-massacre-annihilation-2020/,Redwood Massacre: Annihilation (2020),2020-10-20
+https://image.tmdb.org/t/p/w185/nwrcxcYgXPYHLgqqmNfDxzM6y2I.jpg,4.1,https://vip2.idlixvip.asia/movie/8ight-after-2020/,8ight After (2020),2020-10-15
+https://image.tmdb.org/t/p/w185/hCr1FiejbRJBUjFZyZF5c8O9HGp.jpg,5.3,https://vip2.idlixvip.asia/movie/hotel-lake-2020/,Hotel Lake (2020),2020-04-29
+https://image.tmdb.org/t/p/w185/4rjHhj1BAREc9zNFU8FheLJQdFf.jpg,5.2,https://vip2.idlixvip.asia/movie/spell-2020/,Spell (2020),2020-10-30
+https://image.tmdb.org/t/p/w185/lhMIra0pqWNuD6CIXoTmGwZ0EBS.jpg,4.0,https://vip2.idlixvip.asia/movie/the-craft-legacy-2020/,The Craft: Legacy (2020),2020-10-28
+https://image.tmdb.org/t/p/w185/oLQlUUSlI669r1bgQ7AlnjcrrvC.jpg,6.5,https://vip2.idlixvip.asia/movie/possessor-uncut-2020/,Possessor Uncut (2020),2020-10-02
+https://image.tmdb.org/t/p/w185/s6XxJEe4ovVTMgmGmKeO87OFANU.jpg,6.4,https://vip2.idlixvip.asia/movie/his-house-2020/,His House (2020),2020-01-23
+https://image.tmdb.org/t/p/w185/yVsINl4Aa9vvQ9lE2LF77qNj7AP.jpg,6.5,https://vip2.idlixvip.asia/movie/la-llorona-2020/,La llorona (2020),2020-01-22
+https://image.tmdb.org/t/p/w185/jhZlXSnFUpNiLAek9EkPrtLEWQI.jpg,5.3,https://vip2.idlixvip.asia/movie/the-curse-of-la-llorona-2019/,The Curse of La Llorona (2019),2019-04-17
+https://image.tmdb.org/t/p/w185/b1C0FuXp4wiPmHLVKq4kwtDMgK6.jpg,5.3,https://vip2.idlixvip.asia/movie/roald-dahls-the-witches-2020/,Roald Dahl's The Witches (2020),2020-10-25
+https://image.tmdb.org/t/p/w185/kMVxPRyDuod7479mTykw4SPHMQN.jpg,4.8,https://vip2.idlixvip.asia/movie/the-curse-of-audrey-earnshaw-2020/,The Curse of Audrey Earnshaw (2020),2020-07-11
+https://image.tmdb.org/t/p/w185/nXeTSXR5ryFwxrlpmD9hhXJTAuc.jpg,6.2,https://vip2.idlixvip.asia/movie/the-wolf-of-snow-hollow-2020/,The Wolf of Snow Hollow (2020),2020-10-09
+https://image.tmdb.org/t/p/w185/duEI37Qjtt1WaiOzZzVlkI6JO2z.jpg,4.7,https://vip2.idlixvip.asia/movie/eerie-2018/,Eerie (2018),2018-12-03
+https://image.tmdb.org/t/p/w185/dbhC6qRydXyRmpUdcl9bL9rARya.jpg,0.0,https://vip2.idlixvip.asia/movie/hubie-halloween-2020/,Hubie Halloween (2020),2020-10-07
+https://image.tmdb.org/t/p/w185/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg,0.0,https://vip2.idlixvip.asia/movie/books-of-blood-2020/,Books of Blood (2020),2020-10-07
+https://image.tmdb.org/t/p/w185/jjs3hE3mQlVGTX3u5ZH2EJBJpf3.jpg,7.3,https://vip2.idlixvip.asia/movie/american-murder-the-family-next-door-2020/,American Murder: The Family Next Door (2020),2020-09-30
+https://image.tmdb.org/t/p/w185/6VkE7YZKkolB2gTlVYCKjr92ma1.jpg,4.7,https://vip2.idlixvip.asia/movie/vampires-vs-the-bronx-2020/,Vampires vs. the Bronx (2020),2020-10-02
+https://image.tmdb.org/t/p/w185/zDo6t0cgFVof4Pvu9BnkhGfDT79.jpg,5.5,https://vip2.idlixvip.asia/movie/12-hour-shift-2020/,12 Hour Shift (2020),2020-10-02
+https://image.tmdb.org/t/p/w185/wRPxVAIRS0i3O6yYuKcVsuvl5vQ.jpg,5.5,https://vip2.idlixvip.asia/movie/antebellum-2020/,Antebellum (2020),2020-09-02
+https://image.tmdb.org/t/p/w185/nOXuOeD07nZPT29IgiGT0S8PZH.jpg,5.9,https://vip2.idlixvip.asia/movie/unfriended-dark-web-2018/,Unfriended: Dark Web (2018),2018-07-19
+https://image.tmdb.org/t/p/w185/gzFatNrw0lhKD5NxaU6zC7S2KjP.jpg,0.0,https://vip2.idlixvip.asia/movie/the-owners-2020/,The Owners (2020),2020-09-04
+https://image.tmdb.org/t/p/w185/aQQW03qNC5O5N2C5XDAbvtywOVr.jpg,6.2,https://vip2.idlixvip.asia/movie/sputnik-2020/,Sputnik (2020),2020-04-16
+https://image.tmdb.org/t/p/w185/3KoETZ3Wu6QowOwet0FBegSyB0O.jpg,4.6,https://vip2.idlixvip.asia/movie/black-water-abyss-2020/,Black Water: Abyss (2020),2020-07-09
+https://image.tmdb.org/t/p/w185/7S9RvfMBWSTlUZ4VbxDY7oLeenk.jpg,5.5,https://vip2.idlixvip.asia/movie/peninsula-2020/,Peninsula / Train to Busan 2 (2020),2020-07-15
+https://image.tmdb.org/t/p/w185/eLAfIpi1AkWouKEfyx23v6qEhs.jpg,6.8,https://vip2.idlixvip.asia/movie/relic-2020/,Relic (2020),2020-07-03
+https://image.tmdb.org/t/p/w185/hrD8fU6tA1Pzh4ybxG4iN5TbVdU.jpg,2.3,https://vip2.idlixvip.asia/movie/i-spit-on-your-grave-deja-vu-2019/,I Spit on Your Grave: Deja Vu (2019),2019-04-23
+https://image.tmdb.org/t/p/w185/jG5GDIcqiqHXkvINZSjyzBUO2vH.jpg,5.2,https://vip2.idlixvip.asia/movie/i-spit-on-your-grave-iii-vengeance-is-mine-2015/,I Spit on Your Grave III: Vengeance is Mine (2015),2015-10-01
+https://image.tmdb.org/t/p/w185/5gM5nslul301XNHzQ9DpVxhGnLn.jpg,5.7,https://vip2.idlixvip.asia/movie/i-spit-on-your-grave-2-2013/,I Spit on Your Grave 2 (2013),2013-08-25
+https://image.tmdb.org/t/p/w185/7hUHtWT0I0ex84megfNKdTPTRWK.jpg,6.3,https://vip2.idlixvip.asia/movie/i-spit-on-your-grave-2010/,I Spit on Your Grave (2010),2010-06-17
+https://image.tmdb.org/t/p/w185/qntguRoupnAASFdld8kTDe68fEn.jpg,6.8,https://vip2.idlixvip.asia/movie/suspiria-2018/,Suspiria (2018),2018-10-11
+https://image.tmdb.org/t/p/w185/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg,5.7,https://vip2.idlixvip.asia/movie/pet-sematary-2019/,Pet Sematary (2019),2019-04-04
+https://image.tmdb.org/t/p/w185/r0v8qg78Ol9NIsRGe3DME27ORpd.jpg,5.4,https://vip2.idlixvip.asia/movie/house-of-wax-2005/,House of Wax (2005),2005-04-30
+https://image.tmdb.org/t/p/w185/hTBueN0Ru3R7brwtONenDyEMNYe.jpg,0.0,https://vip2.idlixvip.asia/movie/the-texas-chainsaw-massacre-the-beginning-2006/,The Texas Chainsaw Massacre: The Beginning (2006),2006-10-06
+https://image.tmdb.org/t/p/w185/bIID8uZTYNnSMfWwaIluRTzaZQL.jpg,5.7,https://vip2.idlixvip.asia/movie/eli-2019/,Eli (2019),2019-10-18
+https://image.tmdb.org/t/p/w185/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg,5.3,https://vip2.idlixvip.asia/movie/you-should-have-left-2020/,You Should Have Left (2020),2020-06-19
+https://image.tmdb.org/t/p/w185/zqf711LsnQ5CcW3rISFw2t7OYzb.jpg,6.2,https://vip2.idlixvip.asia/movie/alive-2020/,#Alive (2020),2020-06-24
+https://image.tmdb.org/t/p/w185/vERJ4umbQBZDu4EbKztaXguIhs4.jpg,4.7,https://vip2.idlixvip.asia/movie/awoken-2019/,Awoken (2019),2019-12-20
+https://image.tmdb.org/t/p/w185/5kFQrl8fCIrQEXqFUc6bBUylrFs.jpg,5.5,https://vip2.idlixvip.asia/movie/z-2019/,Z (2019),2019-09-19
+https://image.tmdb.org/t/p/w185/bZqvgz347MMvavenBElZgStuRQc.jpg,5.4,https://vip2.idlixvip.asia/movie/the-monster-2016/,The Monster (2016),2016-11-11
+https://image.tmdb.org/t/p/w185/h9VOirT4dKXzVyVzZZxPfAghmRV.jpg,6.2,https://vip2.idlixvip.asia/movie/it-comes-at-night-2017/,It Comes at Night (2017),2017-06-09
+https://image.tmdb.org/t/p/w185/rd269f2Yftxxam3EOJPYVwrvjIJ.jpg,6.3,https://vip2.idlixvip.asia/movie/apostle-2018/,Apostle (2018),2018-09-21
+https://image.tmdb.org/t/p/w185/jXcTF45BwAGVVfybWb3AlFqcuUc.jpg,6.2,https://vip2.idlixvip.asia/movie/veronica-2017/,Veronica (2017),2017-08-25
+https://image.tmdb.org/t/p/w185/yake2myhbW7c6dKbmwYDy1i40bm.jpg,6.1,https://vip2.idlixvip.asia/movie/the-lodge-2020/,The Lodge (2020),2020-01-16
+https://image.tmdb.org/t/p/w185/lCGpOgoTOGLtZnBiGY9HRg5Xnjd.jpg,7.0,https://vip2.idlixvip.asia/movie/orphan-2009/,Orphan (2009),2009-07-24
+https://vip2.idlixvip.asia/wp-content/themes/idlixv3/assets/img/no/dt_poster.png,4.8,https://vip2.idlixvip.asia/movie/concrete-2004/,Concrete (2004),2004-02-11
+https://image.tmdb.org/t/p/w185/mBBBXseq4k4dI63k06XIrsc02j8.jpg,5.3,https://vip2.idlixvip.asia/movie/gretel-hansel-2020/,Gretel & Hansel (2020),2020-01-30
+https://image.tmdb.org/t/p/w185/5t5uHwmt3UQ8MbvnqE7aiL7RMW4.jpg,3.8,https://vip2.idlixvip.asia/movie/the-turning-2020/,The Turning (2020),2020-01-23
+https://image.tmdb.org/t/p/w185/hES2eVAbVt08JJTqgu3jmI34Yxx.jpg,2.8,https://vip2.idlixvip.asia/movie/megalodon-2018/,Megalodon (2018),2018-08-10
+https://image.tmdb.org/t/p/w185/8cKs4cPTAhAjjRAOjjXFbVnYc1l.jpg,6.7,https://vip2.idlixvip.asia/movie/detention-2019/,Detention (2019),2019-09-20
+https://image.tmdb.org/t/p/w185/ei2waWQAG8NP244WShIFgGu9IOu.jpg,5.2,https://vip2.idlixvip.asia/movie/truth-or-dare-2018/,Truth or Dare (2018),2018-04-12
+https://image.tmdb.org/t/p/w185/aXlL7yYwpXInhltamtzKQFBG08G.jpg,7.4,https://vip2.idlixvip.asia/movie/the-wailing-2016/,The Wailing (2016),2016-05-12
+https://image.tmdb.org/t/p/w185/dAEodQQODOtOlhiQQTW7n1eS9ft.jpg,5.3,https://vip2.idlixvip.asia/movie/siren-2016/,Siren (2016),2016-12-02
+https://image.tmdb.org/t/p/w185/mtMfKRCa2V5b7d9k4piogB72mcY.jpg,6.2,https://vip2.idlixvip.asia/movie/the-visit-2015/,The Visit (2015),2015-09-10
+https://image.tmdb.org/t/p/w185/nhJPHf06aG5cm2x5ZopyBdIjmys.jpg,5.1,https://vip2.idlixvip.asia/movie/mahalai-tiang-kuen-2016/,Mahalai Tiang Kuen (2016),2016-07-28
+https://image.tmdb.org/t/p/w185/5Ao4qAFbjP7fcFOOdMNvQEnl0Yr.jpg,4.9,https://vip2.idlixvip.asia/movie/the-darkest-hour-2011/,The Darkest Hour (2011),2011-12-22
+https://image.tmdb.org/t/p/w185/hHuJqzby593lmYmw1SzT0XYy99t.jpg,6.3,https://vip2.idlixvip.asia/movie/the-ritual-2017/,The Ritual (2017),2017-10-11
+https://image.tmdb.org/t/p/w185/zHzBTd502IZf60x8n2g0TB01vPF.jpg,6.6,https://vip2.idlixvip.asia/movie/hush-2016/,Hush (2016),2016-03-12
+https://image.tmdb.org/t/p/w185/vOl6shtL0wknjaIs6JdKCpcHvg8.jpg,6.9,https://vip2.idlixvip.asia/movie/ready-or-not-2019/,Ready or Not (2019),2019-08-21
+https://image.tmdb.org/t/p/w185/ldywME8eLiJHzA8YlXJiovst5od.jpg,6.5,https://vip2.idlixvip.asia/movie/horns-2013/,Horns (2013),2013-09-06
+https://image.tmdb.org/t/p/w185/m5h3NtZ2ZfryIHl1MvatmANvIqQ.jpg,6.2,https://vip2.idlixvip.asia/movie/dracula-untold-2014/,Dracula Untold (2014),2014-10-01
+https://image.tmdb.org/t/p/w185/88uIQJzMWUvf3o4saEJrfw894W0.jpg,4.5,https://vip2.idlixvip.asia/movie/the-house-that-never-dies-2014/,The House That Never Dies (2014),2014-07-18
+https://image.tmdb.org/t/p/w185/wScnnPO3DApFKnYbokWdJblu2mg.jpg,4.0,https://vip2.idlixvip.asia/movie/47-hours-to-live-2019/,47 Hours to Live (2019),2019-05-04
+https://image.tmdb.org/t/p/w185/p69QzIBbN06aTYqRRiCOY1emNBh.jpg,7.4,https://vip2.idlixvip.asia/movie/doctor-sleep-2019/,Doctor Sleep (2019),2019-10-30
+https://image.tmdb.org/t/p/w185/A1ymtbzatZp94Z49ZOBb8JGXOBB.jpg,4.9,https://vip2.idlixvip.asia/movie/poltergeist-2015/,Poltergeist (2015),2015-05-20
+https://image.tmdb.org/t/p/w185/jO45nIEQMWHE0I68aGls3mRJR8M.jpg,4.1,https://vip2.idlixvip.asia/movie/the-apparition-2012/,The Apparition (2012),2012-08-23
+https://image.tmdb.org/t/p/w185/mzPCU6xQ2XQmD76cDVZPm5PZAaS.jpg,6.1,https://vip2.idlixvip.asia/movie/krampus-2015/,Krampus (2015),2015-11-26
+https://image.tmdb.org/t/p/w185/mJb6Yxd0BjgAhoKTAnHzIfSSwdS.jpg,4.7,https://vip2.idlixvip.asia/movie/8-a-south-african-horror-story-2019/,8: A South African Horror Story (2019),2019-10-18
+https://image.tmdb.org/t/p/w185/x1IrVoc9Q7Hn6NKP4jq77jN1cUU.jpg,6.4,https://vip2.idlixvip.asia/movie/inhuman-kiss-2019/,Inhuman Kiss (2019),2019-03-14
+https://image.tmdb.org/t/p/w185/dTEY7mDBVwYnByLJaJKcC4areCG.jpg,4.4,https://vip2.idlixvip.asia/movie/dead-earth-two-of-us-2020/,Dead Earth / Two of Us (2020),2020-01-28
+https://image.tmdb.org/t/p/w185/lUHIYrK8KcDFHmbtwURELouI55u.jpg,5.6,https://vip2.idlixvip.asia/movie/ghost-wife-2018/,Ghost Wife (2018),2018-11-22
+https://image.tmdb.org/t/p/w185/7EPOZv9bQjNVjFvk8lPGkcTubgO.jpg,4.7,https://vip2.idlixvip.asia/movie/ghost-house-2017/,Ghost House (2017),2017-07-21
+https://image.tmdb.org/t/p/w185/sVpJcOQsR2wBCY9xMJXWCURxSMS.jpg,3.9,https://vip2.idlixvip.asia/movie/jeepers-creepers-3-2017/,Jeepers Creepers 3 (2017),2017-09-26
+https://image.tmdb.org/t/p/w185/u2ghDfjcs3y5c8ata3COc4pWiAN.jpg,5.6,https://vip2.idlixvip.asia/movie/jeepers-creepers-2-2003/,Jeepers Creepers 2 (2003),2003-08-08
+https://image.tmdb.org/t/p/w185/g410Y1U1ELbmJG14Zru3UAimm1G.jpg,6.2,https://vip2.idlixvip.asia/movie/jeepers-creepers-2001/,Jeepers Creepers (2001),2001-07-01
+https://image.tmdb.org/t/p/w185/9ojbUahh8McTbR92Qf69ocWnggE.jpg,6.2,https://vip2.idlixvip.asia/movie/killer-toon-2013/,Killer Toon (2013),2013-06-27
+https://image.tmdb.org/t/p/w185/o8B3CIbIuxWhPf0G19lse4mJrLI.jpg,4.5,https://vip2.idlixvip.asia/movie/anguish-2015/,Anguish (2015),2015-07-21
+https://image.tmdb.org/t/p/w185/qCDPKUMX5xrxxQY8XhGVCKO3fks.jpg,5.4,https://vip2.idlixvip.asia/movie/countdown-2019/,Countdown (2019),2019-10-24
+https://image.tmdb.org/t/p/w185/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg,4.9,https://vip2.idlixvip.asia/movie/fantasy-island-2020/,Fantasy Island (2020),2020-02-12
+https://image.tmdb.org/t/p/w185/jlHL2BH176JApGiLnNQLQgdjMFd.jpg,5.8,https://vip2.idlixvip.asia/movie/underwater-2020/,Underwater (2020),2020-01-08
+https://image.tmdb.org/t/p/w185/4WT7zYFpe0fsbg6TitppiHddWAh.jpg,7.1,https://vip2.idlixvip.asia/movie/naruto-shippuden-the-movie-blood-prison-2011/,Naruto Shippuden the Movie: Blood Prison (2011),2011-07-30
+https://image.tmdb.org/t/p/w185/qjdEHY5Bhebk5w2MAf0vFHiWwQS.jpg,6.1,https://vip2.idlixvip.asia/movie/van-helsing-2004/,Van Helsing (2004),2004-05-03
+https://image.tmdb.org/t/p/w185/8ZX18L5m6rH5viSYpRnTSbb9eXh.jpg,7.0,https://vip2.idlixvip.asia/movie/the-platform-2019/,The Platform (2019),2019-11-08
+https://image.tmdb.org/t/p/w185/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg,6.5,https://vip2.idlixvip.asia/movie/the-hunt-2020/,The Hunt (2020),2020-03-11
+https://image.tmdb.org/t/p/w185/4U7hpTK0XTQBKT5X60bKmJd05ha.jpg,7.1,https://vip2.idlixvip.asia/movie/the-invisible-man-2020/,The Invisible Man (2020),2020-02-26
+https://image.tmdb.org/t/p/w185/cuuI1UVwnoyDoN691Z0bYZrOezx.jpg,4.6,https://vip2.idlixvip.asia/movie/brahms-the-boy-ii-2020/,Brahms: The Boy II (2020),2020-02-20
+https://image.tmdb.org/t/p/w185/nMTiDEye1BwnQP8J1hM3G16EEmX.jpg,5.4,https://vip2.idlixvip.asia/movie/tokyo-ghoul-s-2019/,Tokyo Ghoul 'S' (2019),2019-07-19
+https://image.tmdb.org/t/p/w185/tMs8ZJ2dNJ0fExF7ISXJvOov4Y6.jpg,5.7,https://vip2.idlixvip.asia/movie/tokyo-ghoul-2017/,Tokyo Ghoul (2017),2017-07-16
+https://image.tmdb.org/t/p/w185/eZlVh3Wj5U9Qdb6zvjGogDUkXd0.jpg,7.6,https://vip2.idlixvip.asia/movie/to-your-last-death-2019/,To Your Last Death (2019),2019-08-23
+https://image.tmdb.org/t/p/w185/xsKtz6gRNa0qv1br0n3UTo02ypw.jpg,4.5,https://vip2.idlixvip.asia/movie/ravers-2018/,Ravers (2018),2018-08-25
+https://image.tmdb.org/t/p/w185/lBW7Aq7RzsFbrnmn9RCkpd6GbXf.jpg,4.4,https://vip2.idlixvip.asia/movie/guardians-of-the-tomb-2018/,Guardians of the Tomb (2018),2018-01-19
+https://image.tmdb.org/t/p/w185/3HX2ba3sVatQPH6JgMCwBTgUEPI.jpg,6.5,https://vip2.idlixvip.asia/movie/resident-evil-damnation-2012/,Resident Evil: Damnation (2012),2012-09-25
+https://image.tmdb.org/t/p/w185/pZ3rh5Yu7akSFKXUjKpBU9CsH39.jpg,6.5,https://vip2.idlixvip.asia/movie/resident-evil-degeneration-2008/,Resident Evil: Degeneration (2008),2008-02-13
+https://image.tmdb.org/t/p/w185/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg,5.7,https://vip2.idlixvip.asia/movie/insidious-the-last-key-2018/,Insidious: The Last Key (2018),2018-01-03
+https://image.tmdb.org/t/p/w185/yUv9QvfoohkOrYc0W3E2vWbDxGZ.jpg,6.1,https://vip2.idlixvip.asia/movie/insidious-chapter-3-2015/,Insidious: Chapter 3 (2015),2015-06-04
+https://image.tmdb.org/t/p/w185/chnxUtTmTRZh5FE7Ha4aUOZ9ahs.jpg,6.6,https://vip2.idlixvip.asia/movie/insidious-chapter-2-2013/,Insidious: Chapter 2 (2013),2013-09-12
+https://image.tmdb.org/t/p/w185/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg,6.8,https://vip2.idlixvip.asia/movie/insidious-2010/,Insidious (2010),2010-09-13
+https://image.tmdb.org/t/p/w185/fGQAO4RgUzspO7L4u5KXirIn34s.jpg,7.0,https://vip2.idlixvip.asia/movie/hellboy-ii-the-golden-army-2008/,Hellboy II: The Golden Army (2008),2008-07-11
+https://image.tmdb.org/t/p/w185/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg,6.2,https://vip2.idlixvip.asia/movie/happy-death-day-2u-2019/,Happy Death Day 2U (2019),2019-02-13
+https://image.tmdb.org/t/p/w185/8fDtXi6gVw8WUMWGT9XFz7YwkuE.jpg,7.5,https://vip2.idlixvip.asia/movie/upgrade-2018/,Upgrade (2018),2018-06-01
+https://image.tmdb.org/t/p/w185/xZNw9xxtwbEf25NYoz52KdbXHPM.jpg,0.0,https://vip2.idlixvip.asia/movie/the-new-mutants-2020/,The New Mutants (2020),2020-04-01
+https://image.tmdb.org/t/p/w185/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg,6.6,https://vip2.idlixvip.asia/movie/happy-death-day-2017/,Happy Death Day (2017),2017-10-12
+https://image.tmdb.org/t/p/w185/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg,7.1,https://vip2.idlixvip.asia/movie/midsommar-2019/,Midsommar (2019),2019-07-03
+https://image.tmdb.org/t/p/w185/vN7JHlHOT9rHNDU27tfYqhABBj5.jpg,4.2,https://vip2.idlixvip.asia/movie/the-grudge-2020/,The Grudge (2020),2020-01-02
+https://image.tmdb.org/t/p/w185/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg,6.9,https://vip2.idlixvip.asia/movie/us-2019/,Us (2019),2019-03-14
+https://image.tmdb.org/t/p/w185/wF6SNPcUrTKFA4fOFfukm7zQ3ob.jpg,6.6,https://vip2.idlixvip.asia/movie/it-chapter-two-2019/,It Chapter Two (2019),2019-09-04
+https://image.tmdb.org/t/p/w185/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg,7.3,https://vip2.idlixvip.asia/movie/it-2017/,It (2017),2017-09-06
+https://image.tmdb.org/t/p/w185/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg,6.5,https://vip2.idlixvip.asia/movie/evil-dead-2013/,Evil Dead (2013),2013-04-05
+https://image.tmdb.org/t/p/w185/7LwSrvFA0gz1KAlcrGcinoQPene.jpg,6.6,https://vip2.idlixvip.asia/movie/30-days-of-night-2007/,30 Days of Night (2007),2007-10-17
+https://image.tmdb.org/t/p/w185/ja8nzgtzhJq0vtX3BJcnbceIxCF.jpg,6.9,https://vip2.idlixvip.asia/movie/28-weeks-later-2007/,28 Weeks Later (2007),2007-04-26
+https://image.tmdb.org/t/p/w185/sQckQRt17VaWbo39GIu0TMOiszq.jpg,7.5,https://vip2.idlixvip.asia/movie/28-days-later-2002/,28 Days Later (2002),2002-10-31
+https://image.tmdb.org/t/p/w185/ndvOjo7Nfk8ULnFLMXthPzhI62L.jpg,5.5,https://vip2.idlixvip.asia/movie/the-dead-dont-die-2019/,The Dead Don't Die (2019),2019-05-15
+https://image.tmdb.org/t/p/w185/40Zrwud1EVxNvcjQkotZo7jmr4L.jpg,6.4,https://vip2.idlixvip.asia/movie/swallow-2020/,Swallow (2020),2020-02-15
+https://image.tmdb.org/t/p/w185/dEDLY3KeghKFzks5nTDWdigVikr.jpg,7.1,https://vip2.idlixvip.asia/movie/the-host-2006/,The Host (2006),2006-07-27
+https://image.tmdb.org/t/p/w185/jLNUo05tEYaPMTmEoYTld8XYmOt.jpg,5.3,https://vip2.idlixvip.asia/movie/sinister-2-2015/,Sinister 2 (2015),2015-08-19
+https://image.tmdb.org/t/p/w185/nzx10sca3arCeYBAomHan4Q6wa1.jpg,6.8,https://vip2.idlixvip.asia/movie/sinister-2012/,Sinister (2012),2012-03-29
+https://image.tmdb.org/t/p/w185/cEr3S3Atr4eRlHmMOA1GvaX0f4p.jpg,4.6,https://vip2.idlixvip.asia/movie/rattlesnake-2019/,Rattlesnake (2019),2019-10-25
+https://image.tmdb.org/t/p/w185/1RxhzwFkAUqMt215Brb06u8P8pn.jpg,5.4,https://vip2.idlixvip.asia/movie/in-the-tall-grass-2019/,In the Tall Grass (2019),2019-09-20
+https://image.tmdb.org/t/p/w185/32dippiypDdaKv7XFEfUlQ7kPup.jpg,6.6,https://vip2.idlixvip.asia/movie/geralds-game-2017/,Gerald's Game (2017),2017-09-19
+https://image.tmdb.org/t/p/w185/fqyUw2DAFZGKSi724UKOeJWP0lS.jpg,4.7,https://vip2.idlixvip.asia/movie/stay-2017/,Stay (2017),2019-02-18
+https://image.tmdb.org/t/p/w185/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg,6.3,https://vip2.idlixvip.asia/movie/1922-2017/,1922 (2017),2017-10-20
+https://image.tmdb.org/t/p/w185/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg,5.3,https://vip2.idlixvip.asia/movie/the-predator-2018/,The Predator (2018),2018-09-05
+https://image.tmdb.org/t/p/w185/jxHWPPNXhegzZHCUSgjlPwnuQ2C.jpg,1.7,https://vip2.idlixvip.asia/movie/alien-predator-2018/,Alien Predator (2018),2018-09-11
+https://image.tmdb.org/t/p/w185/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg,5.3,https://vip2.idlixvip.asia/movie/the-nun-2018/,The Nun (2018),2018-09-05
+https://image.tmdb.org/t/p/w185/vjKS3YODinjajccJ7SnLHTDNLde.jpg,7.3,https://vip2.idlixvip.asia/movie/hereditary-2018/,Hereditary (2018),2018-06-07
+https://image.tmdb.org/t/p/w185/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg,6.8,https://vip2.idlixvip.asia/movie/annihilation-2018/,Annihilation (2018),2018-02-22
+https://image.tmdb.org/t/p/w185/wgmniaoxuRfA7waV4wpC7zLPEgX.jpg,6.5,https://vip2.idlixvip.asia/movie/halloween-2018/,Halloween (2018),2018-10-18
+https://image.tmdb.org/t/p/w185/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg,6.9,https://vip2.idlixvip.asia/movie/the-witch-2015/,The Witch (2015),2015-01-27
+https://image.tmdb.org/t/p/w185/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg,7.0,https://vip2.idlixvip.asia/movie/constantine-2005/,Constantine (2005),2005-02-08
+https://image.tmdb.org/t/p/w185/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg,5.6,https://vip2.idlixvip.asia/movie/the-meg-2018/,The Meg (2018),2018-08-09
+https://image.tmdb.org/t/p/w185/wmiC67ium8Is9Fg7PkTAK7cnHj0.jpg,5.0,https://vip2.idlixvip.asia/movie/47-meters-down-uncaged-2019/,47 Meters Down: Uncaged (2019),2019-08-15
+https://image.tmdb.org/t/p/w185/2IgdRUTdHyoI3nFORcnnYEKOGIH.jpg,5.6,https://vip2.idlixvip.asia/movie/47-meters-down-2017/,47 Meters Down (2017),2017-05-25
+https://image.tmdb.org/t/p/w185/dwIQ7WDCSiIcNdbferTcU7uI0KV.jpg,4.8,https://vip2.idlixvip.asia/movie/texas-chainsaw-3d-2013/,Texas Chainsaw 3D (2013),2013-01-03
+https://image.tmdb.org/t/p/w185/6K0wjP8kPCiPYy9PtXBGuypyt5I.jpg,6.8,https://vip2.idlixvip.asia/movie/the-autopsy-of-jane-doe-2016/,The Autopsy of Jane Doe (2016),2016-12-21
+https://image.tmdb.org/t/p/w185/8fIgsHFQtg47xxN7SBwZkg0tZJn.jpg,7.1,https://vip2.idlixvip.asia/movie/dont-breathe-2016/,Don't Breathe (2016),2016-06-08
+https://image.tmdb.org/t/p/w185/8BnElzAQQpp7ZgdJJiAe1diomr4.jpg,6.3,https://vip2.idlixvip.asia/movie/lights-out-2016/,Lights Out (2016),2016-07-21
+https://image.tmdb.org/t/p/w185/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg,6.4,https://vip2.idlixvip.asia/movie/alien-covenant-2017/,Alien: Covenant (2017),2017-05-09
+https://image.tmdb.org/t/p/w185/bqb9WsmZmDIKxqYmBJ9lj7J6hzn.jpg,7.3,https://vip2.idlixvip.asia/movie/split-2017/,Split (2017),2016-11-15
+https://image.tmdb.org/t/p/w185/lja0Kh17LLleh6DhtixEh7Z7T6D.jpg,6.6,https://vip2.idlixvip.asia/movie/life-2017/,Life (2017),2017-03-22
+https://image.tmdb.org/t/p/w185/vkwgzCBBiY3C1XEy0WakYfMOvnG.jpg,6.2,https://vip2.idlixvip.asia/movie/color-out-of-space-2019/,Color Out of Space (2019),2019-09-07
+https://image.tmdb.org/t/p/w185/nNZr776Ua56v8aThSqHRBXxpUa7.jpg,3.2,https://vip2.idlixvip.asia/movie/black-christmas-2019/,Black Christmas (2019),2019-12-11
+https://image.tmdb.org/t/p/w185/3gxznVkacYCFlaYTNbUBvyxg6bf.jpg,5.0,https://vip2.idlixvip.asia/movie/the-dawn-2019/,The Dawn (2019),2020-01-10
+https://image.tmdb.org/t/p/w185/rH19vkjAzCZ0HIUvrgB3rowm68h.jpg,8.0,https://vip2.idlixvip.asia/movie/black-swan-2010/,Black Swan (2010),2010-12-03
+https://image.tmdb.org/t/p/w185/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg,5.4,https://vip2.idlixvip.asia/movie/the-mummy-2017/,The Mummy (2017),2017-06-06
+https://image.tmdb.org/t/p/w185/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg,7.2,https://vip2.idlixvip.asia/movie/i-am-legend-2007/,I Am Legend (2007),2007-12-14
+https://image.tmdb.org/t/p/w185/ubLbY97m8lYJ3Fykh7nfiwB5eth.jpg,6.0,https://vip2.idlixvip.asia/movie/the-purge-election-year-2016/,The Purge: Election Year (2016),2016-06-29
+https://image.tmdb.org/t/p/w185/f2HD5iVhJWWv72QVWThUKk09zYy.jpg,6.4,https://vip2.idlixvip.asia/movie/the-purge-anarchy-2014/,The Purge: Anarchy (2014),2014-07-17
+https://image.tmdb.org/t/p/w185/x6hwbnR2nGacSzljqYaXY25w1Me.jpg,5.7,https://vip2.idlixvip.asia/movie/the-purge-2013/,The Purge (2013),2013-05-31
+https://image.tmdb.org/t/p/w185/8qev1papxnzWVrXxZvEUqI8Z3n5.jpg,5.2,https://vip2.idlixvip.asia/movie/the-first-purge-2018/,The First Purge (2018),2018-07-04
+https://image.tmdb.org/t/p/w185/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg,5.9,https://vip2.idlixvip.asia/movie/final-destination-5-2011/,Final Destination 5 (2011),2011-08-12
+https://image.tmdb.org/t/p/w185/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg,5.1,https://vip2.idlixvip.asia/movie/the-final-destination-2009/,The Final Destination (2009),2009-08-26
+https://image.tmdb.org/t/p/w185/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg,5.8,https://vip2.idlixvip.asia/movie/final-destination-3-2006/,Final Destination 3 (2006),2006-02-09
+https://image.tmdb.org/t/p/w185/sDsdhVmGzh4L56QvtLLinvXjDs3.jpg,6.2,https://vip2.idlixvip.asia/movie/final-destination-2-2003/,Final Destination 2 (2003),2003-01-31
+https://image.tmdb.org/t/p/w185/g4dkGtWdc1eQ9JL1kta6LC0DlGS.jpg,6.7,https://vip2.idlixvip.asia/movie/final-destination-2000/,Final Destination (2000),2000-03-17
+https://image.tmdb.org/t/p/w185/cV1biK7jlHVXlQ7ErYe5MUSBGcx.jpg,4.1,https://vip2.idlixvip.asia/movie/wrong-turn-6-last-resort-2014/,Wrong Turn 6: Last Resort (2014),2014-08-22
+https://image.tmdb.org/t/p/w185/i9prGtsGbWzaH30bp8TXPEs6QGm.jpg,4.1,https://vip2.idlixvip.asia/movie/wrong-turn-5-bloodlines-2012/,Wrong Turn 5: Bloodlines (2012),2012-10-23
+https://image.tmdb.org/t/p/w185/lwGgaJ6DikLj7wgGB4PPNMs2piK.jpg,4.5,https://vip2.idlixvip.asia/movie/wrong-turn-4-bloody-beginnings-2011/,Wrong Turn 4: Bloody Beginnings (2011),2011-10-17
+https://image.tmdb.org/t/p/w185/84s4LMWuGbm4xPWW5PSbHyQhh33.jpg,4.6,https://vip2.idlixvip.asia/movie/wrong-turn-3-left-for-dead-2009/,Wrong Turn 3: Left for Dead (2009),2009-10-20
+https://image.tmdb.org/t/p/w185/n5Re2ywnpqwAXTin8W5j3lqSwc7.jpg,5.5,https://vip2.idlixvip.asia/movie/wrong-turn-2-dead-end-2007/,Wrong Turn 2: Dead End (2007),2007-08-25
+https://image.tmdb.org/t/p/w185/ixBGcbQKvl2N4VZmJfmQkyKBJCX.jpg,6.1,https://vip2.idlixvip.asia/movie/wrong-turn-2003/,Wrong Turn (2003),2003-05-30
+https://image.tmdb.org/t/p/w185/aa9aXprkzY2YQeGwvsAzLPV3iEF.jpg,5.5,https://vip2.idlixvip.asia/movie/piranha-3d-2010/,Piranha 3D (2010),2010-08-20
+https://image.tmdb.org/t/p/w185/cyIfbnRhzlBKNRUXZu17XT9uT9T.jpg,7.3,https://vip2.idlixvip.asia/movie/dawn-of-the-dead-2004/,Dawn of the Dead (2004),2004-03-19
+https://image.tmdb.org/t/p/w185/y7eDuFR9DevYINfvTqA2TsWpJ85.jpg,7.9,https://vip2.idlixvip.asia/movie/shaun-of-the-dead-2004/,Shaun of the Dead (2004),2004-04-09
+https://image.tmdb.org/t/p/w185/oV7M00fPXy5P0nbdeMbSUjYv0vx.jpg,4.6,https://vip2.idlixvip.asia/movie/a-haunted-house-2-2014/,A Haunted House 2 (2014),2014-04-17
+https://image.tmdb.org/t/p/w185/skQt53YE2iyOftXj5afJkHmYxLW.jpg,5.0,https://vip2.idlixvip.asia/movie/a-haunted-house-2013/,A Haunted House (2013),2013-01-11
+https://image.tmdb.org/t/p/w185/vVNNRgJsFnALq4T9cuTIY8f1k2L.jpg,6.3,https://vip2.idlixvip.asia/movie/mermaid-down-2019/,Mermaid Down (2019),2019-10-15
+https://image.tmdb.org/t/p/w185/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg,7.3,https://vip2.idlixvip.asia/movie/the-conjuring-2-2016/,The Conjuring 2 (2016),2016-06-08
+https://image.tmdb.org/t/p/w185/wVYREutTvI2tmxr6ujrHT704wGF.jpg,7.5,https://vip2.idlixvip.asia/movie/the-conjuring-2013/,The Conjuring (2013),2013-07-18
+https://image.tmdb.org/t/p/w185/snYI6TDLkB8wL7SHFyBV6qkJuPx.jpg,6.5,https://vip2.idlixvip.asia/movie/annabelle-creation-2017/,Annabelle: Creation (2017),2017-08-03
+https://image.tmdb.org/t/p/w185/a9iL3FIwLrympRyiL5v0tAkwrvX.jpg,5.4,https://vip2.idlixvip.asia/movie/annabelle-2014/,Annabelle (2014),2014-10-02
+https://image.tmdb.org/t/p/w185/nAU74GmpUk7t5iklEp3bufwDq4n.jpg,7.5,https://vip2.idlixvip.asia/movie/a-quiet-place-2018/,A Quiet Place (2018),2018-04-03
+https://image.tmdb.org/t/p/w185/ayds6ZnMCEhgtoDbm0EVtYmzyzk.jpg,6.7,https://vip2.idlixvip.asia/movie/zombieland-double-tap-2019/,Zombieland: Double Tap (2019),2019-10-09
+https://image.tmdb.org/t/p/w185/3nk9UoepYmv1G9oP18q6JJCeYwN.jpg,7.4,https://vip2.idlixvip.asia/movie/the-lighthouse-2019/,The Lighthouse (2019),2019-10-18
+https://image.tmdb.org/t/p/w185/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg,6.1,https://vip2.idlixvip.asia/movie/brightburn-2019/,Brightburn (2019),2019-05-09
+https://image.tmdb.org/t/p/w185/7dZolgPm00vOd7RxWOMf94pA67J.jpg,6.5,https://vip2.idlixvip.asia/movie/antichrist-2009/,Antichrist (2009),2009-05-20
+https://image.tmdb.org/t/p/w185/47IXH2iEWwX0F7vIyGXaKQ0psBG.jpg,6.9,https://vip2.idlixvip.asia/movie/climax-2018/,Climax (2018),2018-09-19
+https://image.tmdb.org/t/p/w185/mKxpYRIrCZLxZjNqpocJ2RdQW8v.jpg,6.1,https://vip2.idlixvip.asia/movie/crawl-2019/,Crawl (2019),2019-07-11
+https://image.tmdb.org/t/p/w185/d0FWbzrmm99BTfUqf1Lbjl2zu3S.jpg,6.2,https://vip2.idlixvip.asia/movie/scary-stories-to-tell-in-the-dark-2019/,Scary Stories to Tell in the Dark (2019),2019-08-08
+https://image.tmdb.org/t/p/w185/7Uor1Jtj1Q5UTgqagIiwXE6KFH8.jpg,7.5,https://vip2.idlixvip.asia/movie/train-to-busan-2016/,Train to Busan (2016),2016-07-20
+https://image.tmdb.org/t/p/w185/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg,7.0,https://vip2.idlixvip.asia/movie/world-war-z-2013/,World War Z (2013),2013-06-20
+https://image.tmdb.org/t/p/w185/88qfHWhlOBYXp69277QFhdPYnWf.jpg,6.3,https://vip2.idlixvip.asia/movie/resident-evil-vendetta-2017/,Resident Evil: Vendetta (2017),2017-05-27
+https://image.tmdb.org/t/p/w185/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg,5.5,https://vip2.idlixvip.asia/movie/resident-evil-the-final-chapter-2016/,Resident Evil: The Final Chapter (2016),2016-12-23
+https://image.tmdb.org/t/p/w185/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg,5.3,https://vip2.idlixvip.asia/movie/resident-evil-retribution-2012/,Resident Evil: Retribution (2012),2012-09-12
+https://image.tmdb.org/t/p/w185/7bOaokWMNxRkAUorl71kPoEz4lJ.jpg,5.8,https://vip2.idlixvip.asia/movie/resident-evil-afterlife-2010/,Resident Evil: Afterlife (2010),2010-09-09
+https://image.tmdb.org/t/p/w185/6yaLr7Ymg5cvbtSVi5hHwBKx35I.jpg,6.2,https://vip2.idlixvip.asia/movie/resident-evil-extinction-2007/,Resident Evil: Extinction (2007),2007-09-20
+https://image.tmdb.org/t/p/w185/yzNQSLlZb7NAkA4C5uADfNDJ7hm.jpg,6.2,https://vip2.idlixvip.asia/movie/resident-evil-apocalypse-2004/,Resident Evil: Apocalypse (2004),2004-09-10
+https://image.tmdb.org/t/p/w185/eps9siiZKt0WgY51mHuFvtScNzR.jpg,6.7,https://vip2.idlixvip.asia/movie/resident-evil-2002/,Resident Evil (2002),2002-03-15
+https://image.tmdb.org/t/p/w185/qbaIViX3tgWSTSFXbldq0ODMdi4.jpg,7.7,https://vip2.idlixvip.asia/movie/get-out-2017/,Get Out (2017),2017-02-24
+https://image.tmdb.org/t/p/w185/kjDXrK3ReIwuDrpWElI5OQkKYTA.jpg,7.0,https://vip2.idlixvip.asia/movie/the-cabin-in-the-woods-2012/,The Cabin in the Woods (2012),2012-04-12
+https://image.tmdb.org/t/p/w185/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg,5.9,https://vip2.idlixvip.asia/movie/annabelle-comes-home-2019/,Annabelle Comes Home (2019),2019-06-26
+https://image.tmdb.org/t/p/w185/x0U2Z3ATcRAGicUwdJGjcaFXQru.jpg,5.8,https://vip2.idlixvip.asia/movie/childs-play-2019/,Child's Play (2019),2019-06-19
+https://image.tmdb.org/t/p/w185/6n7ASmQ1wY2cxTubFFGlcvPpyk7.jpg,5.6,https://vip2.idlixvip.asia/movie/ma-2019/,Ma (2019),2019-05-29
+https://image.tmdb.org/t/p/w185/9AKhThGA8IATBy3gR7I4dw9SEc4.jpg,5.0,https://vip2.idlixvip.asia/movie/chernobyl-diaries-2012/,Chernobyl Diaries (2012),2012-05-24
+https://image.tmdb.org/t/p/w185/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg,7.6,https://vip2.idlixvip.asia/movie/zombieland-2009/,Zombieland (2009),2009-10-07
