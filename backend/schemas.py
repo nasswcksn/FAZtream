@@ -1,14 +1,25 @@
 from pydantic import BaseModel
-from datetime import date
-from typing import List
 from typing import Optional
 
 class MovieOut(BaseModel):
-    movie_id: int
+    id: int
     title: str
-    link_film: str
-    rating: Optional[float] = None
-    release_date: Optional[date] = None  # jadikan Optional
-
+    genre: Optional[str]
+    overview: Optional[str]
     class Config:
-        from_attributes = True
+        orm_mode = True
+
+class MovieWithGenreOut(BaseModel):
+    id: int
+    title: str
+    genre: Optional[str]
+    overview: Optional[str]
+    poster: Optional[str]
+    link: Optional[str]
+    rating: Optional[float]
+    date: Optional[str]
+    class Config:
+        orm_mode = True
+
+class RecommendQuery(BaseModel):
+    query: str

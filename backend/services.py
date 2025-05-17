@@ -1,40 +1,97 @@
 import pandas as pd
-from sqlalchemy.orm import Session
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from .database import engine
-from .models import Movie
+from . import models
 
-# Module-level globals
-df: pd.DataFrame = pd.DataFrame()
-vectorizer: TfidfVectorizer
+# Global variables
+df = None
+vectorizer = None
 tfidf_matrix = None
 
-def load_data_from_db() -> pd.DataFrame:
-    df_local = pd.read_sql_table(
-        table_name="idlix",
-        schema="movies",
-        con=engine,
-        columns=["movie_id", "title", "overview", "link_film", "rating", "release_date"]
-    )
-    df_local["overview"] = df_local["overview"].fillna("No description available.")
-    return df_local
+GENRE_TABLE_MAP = {
+    "action": "action",
+    "adventure": "adventure",
+    "animation": "animation",
+    "anime": "anime",
+    "biography": "biography",
+    "comedy": "comedy",
+    "crime": "crime",
+    "drama": "drama",
+    "family": "family",
+    "fantasy": "fantasy",
+    "horror": "horror",
+    "mystery": "mystery",
+    "romance": "romance",
+    "science fiction": "science_fiction",
+    "sport": "sport",
+    "talk": "talk",
+    "thriller": "thriller"
+}
 
-def preprocess_data(df: pd.DataFrame) -> pd.DataFrame:
-    df["combined"] = df["overview"] + " " + df["title"]
+def load_data():
+    global df
+    df = pd.read_sql_table("movies", con=engine)
+    df['genre'] = df['genre'].fillna('')
+    df['overview'] = df['overview'].fillna('')
+    df['title'] = df['title'].fillna('')
+    df['combined_features'] = (df['genre'] + ' ' + df['overview'] + ' ' + df['title']).str.lower()
     return df
 
-def train_tfidf(df_prep: pd.DataFrame):
+def train_model():
     global vectorizer, tfidf_matrix
-    vectorizer = TfidfVectorizer(
-        stop_words=None, ngram_range=(1, 2),
-        max_df=0.8, min_df=1,
-        sublinear_tf=True, smooth_idf=True
-    )
-    tfidf_matrix = vectorizer.fit_transform(df_prep["combined"])
+    vectorizer = TfidfVectorizer(stop_words='english')
+    tfidf_matrix = vectorizer.fit_transform(df['combined_features'])
 
-def recommend(user_query: str, top_n: int = 10) -> pd.DataFrame:
-    query_vec = vectorizer.transform([user_query])
-    sims = cosine_similarity(query_vec, tfidf_matrix).flatten()
-    top_idx = sims.argsort()[::-1][:top_n]
-    return df.iloc[top_idx][['movie_id', 'title', 'link_film', 'rating']]
+def recommend_movies(user_input, top_n=10):
+    input_vector = vectorizer.transform([user_input.lower()])
+    similarities = cosine_similarity(input_vector, tfidf_matrix)
+    scores = list(enumerate(similarities[0]))
+    scores = sorted(scores, key=lambda x: x[1], reverse=True)
+    movie_indices = [i[0] for i in scores[:top_n]]
+    top_movies = df.iloc[movie_indices]
+    return top_movies
+
+def get_recommendations(user_query: str, db, top_n: int = 10):
+    top_movies = recommend_movies(user_query, top_n=top_n)
+    movie_titles = top_movies['title'].tolist()
+    movies = db.query(models.Movie).filter(models.Movie.title.in_(movie_titles)).all()
+    movies_sorted = sorted(movies, key=lambda x: movie_titles.index(x.title))
+    genre_models = [
+        getattr(models, attr)
+        for attr in dir(models)
+        if attr[0].isupper() and attr not in ["Base", "Movie"] and hasattr(getattr(models, attr), '__tablename__')
+    ]
+    results = []
+    for movie in movies_sorted:
+        genre_data = None
+        main_genres = [g.strip().lower() for g in (movie.genre or '').split(',')]
+        found = False
+        for main_genre in main_genres:
+            table_name = GENRE_TABLE_MAP.get(main_genre)
+            if not table_name:
+                continue
+            for genre_model in genre_models:
+                if genre_model.__tablename__ == table_name:
+                    genre_data = db.query(genre_model).filter(genre_model.movie_id == movie.id).first()
+                    if genre_data:
+                        found = True
+                        break
+            if found:
+                break
+        if not genre_data:
+            for genre_model in genre_models:
+                genre_data = db.query(genre_model).filter(genre_model.movie_id == movie.id).first()
+                if genre_data:
+                    break
+        results.append({
+            'id': movie.id,
+            'title': movie.title,
+            'genre': movie.genre,
+            'overview': movie.overview,
+            'poster': genre_data.poster if genre_data else None,
+            'link': genre_data.link if genre_data else None,
+            'rating': genre_data.rating if genre_data else None,
+            'date': str(genre_data.date) if genre_data and genre_data.date is not None else None,
+        })
+    return results

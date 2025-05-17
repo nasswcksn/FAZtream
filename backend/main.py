@@ -1,29 +1,35 @@
-from fastapi import FastAPI, HTTPException
-from typing import List
+from fastapi import FastAPI, Depends, HTTPException
+from sqlalchemy.orm import Session
+from . import models, schemas
 from .database import SessionLocal, engine, Base
-from .schemas import MovieOut
-from .services import (load_data_from_db, preprocess_data, train_tfidf, recommend,)
+from .genre_endpoints import router as genre_router
+from . import services
 
-app = FastAPI(title="FAZtream")
+app = FastAPI(title="FAZtream Backend")
 
-# Buat tabel jika belum ada
 Base.metadata.create_all(bind=engine)
 
-# Inisialisasi data + model saat startup
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
+
+@app.get("/movies", response_model=list[schemas.MovieOut])
+def get_movies(db: Session = Depends(get_db)):
+    return db.query(models.Movie).all()
+
+@app.post("/recommend", response_model=list[schemas.MovieWithGenreOut])
+def recommend_movies(query: schemas.RecommendQuery, db: Session = Depends(get_db)):
+    recommendations = services.get_recommendations(query.query, db)
+    if not recommendations:
+        raise HTTPException(status_code=404, detail="No recommendations found.")
+    return recommendations
+
 @app.on_event("startup")
 def startup_event():
-    # load & preprocess
-    df_loaded = load_data_from_db()
-    df_prep = preprocess_data(df_loaded)
-    # assign ke module-level globals
-    from . import services
-    services.df = df_prep
-    # train model
-    train_tfidf(df_prep)
+    services.load_data()
+    services.train_model()
 
-@app.get("/search", response_model=List[MovieOut])
-def search_movies(query: str):
-    if not query:
-        raise HTTPException(400, "Query wajib diisi")
-    results = recommend(query, top_n=10)
-    return results.to_dict(orient="records")
+app.include_router(genre_router)
