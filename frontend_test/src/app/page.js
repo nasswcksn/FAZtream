@@ -3,17 +3,16 @@ import { useState, useEffect } from "react";
 import { Kadwa } from "next/font/google";
 import Head from "next/head";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 
 const kadwa = Kadwa({ subsets: ["latin"], weight: ["700"] });
 
 export default function Home() {
   const [query, setQuery] = useState("");
-  const [results, setResults] = useState([]);
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState("");
   const [mounted, setMounted] = useState(false);
   const titleText = "FAZTREAM";
   const [titleAnim, setTitleAnim] = useState("........");
+  const router = useRouter();
 
   useEffect(() => {
     setMounted(true);
@@ -29,28 +28,17 @@ export default function Home() {
     animate();
   }, []);
 
-  const handleSearch = async (e) => {
+  const handleSearch = (e) => {
     e.preventDefault();
-    setLoading(true);
-    setError("");
-    setResults([]);
-    try {
-      const res = await fetch(`/search?query=${encodeURIComponent(query)}`);
-      if (!res.ok) throw new Error("Gagal mengambil data");
-      const data = await res.json();
-      setResults(data);
-    } catch (err) {
-      setError("Terjadi kesalahan saat mencari film.");
-    } finally {
-      setLoading(false);
-    }
+    if (!query) return;
+    router.push(`/result?query=${encodeURIComponent(query)}`);
   };
 
   return (
     <>
       <Head>
-        <link rel="icon" href="/favicon.ico" />
-        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="/movie.png" />
+        <link rel="shortcut icon" href="/movie.png" type="image/x-icon" />
         <title>FAZtream</title>
       </Head>
       {/* Navbar */}
@@ -106,28 +94,10 @@ export default function Home() {
             <button
               type="submit"
               className="w-full bg-indigo-600 text-white py-2 rounded-full font-semibold hover:bg-indigo-700 hover:scale-105 transition-all duration-300 shadow-md hover:shadow-xl"
-              disabled={loading}
             >
-              {loading ? "Searching..." : "Search"}
+              Search
             </button>
-            {error && <div className="text-red-500 mt-4 animate-pulse">{error}</div>}
           </form>
-          {/* Hasil pencarian */}
-          {results.length > 0 && (
-            <div className="mt-8 w-full max-w-xl bg-white/80 rounded-xl p-4 transition-all duration-700 animate-fadeIn">
-              <div className="font-semibold mb-2 text-gray-800">Hasil Rekomendasi:</div>
-              <ul>
-                {results.map((movie, idx) => (
-                  <li
-                    key={idx}
-                    className="border-b py-2 last:border-b-0 text-gray-700 transition-all duration-300 hover:bg-indigo-50 hover:pl-4 hover:text-indigo-700 cursor-pointer"
-                  >
-                    {movie.title}
-                  </li>
-                ))}
-              </ul>
-            </div>
-          )}
           {/* Footer */}
           <div className={`mt-20 text-center text-white font-bold transition-all duration-700 ${mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
             <div className="text-xl mb-2">Developed By</div>
