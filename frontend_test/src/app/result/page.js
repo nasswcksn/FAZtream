@@ -41,24 +41,32 @@ export default function ResultPage() {
           <Link href="/result" className="text-white font-semibold hover:text-indigo-400 transition-colors duration-200">Result</Link>
         </div>
       </nav>
-      <div className="pt-20 min-h-screen bg-gradient-to-r from-[#0B0B0B] via-[#181A1B] to-[#6B21A8] flex flex-col items-center">
+      <div className="pt-20 min-h-screen bg-transparent flex flex-col items-center">
         <h1 className={`text-white text-4xl font-extrabold mt-8 mb-8 ${kadwa.className} underline underline-offset-8 decoration-indigo-500`}>Result Page</h1>
         {loading && <div className="text-white">Loading...</div>}
         {error && <div className="text-red-500">Error: {error}</div>}
         {!loading && !error && (
-          <div className="w-full max-w-3xl grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div className="w-full max-w-6xl grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
             {results.length === 0 ? (
-              <div className="text-white">Tidak ada hasil</div>
+              <div className="text-white col-span-4">Tidak ada hasil</div>
             ) : (
               results.map((movie, idx) => (
-                <div key={idx} className="bg-white/90 rounded-xl shadow-lg p-6 flex gap-4 items-center hover:scale-105 hover:shadow-2xl transition-all duration-300">
-                  <img src={movie.poster || "/movie.png"} alt={movie.title} className="w-24 h-32 object-cover rounded-lg border border-indigo-200" />
-                  <div>
-                    <div className="text-xl font-bold text-indigo-700 mb-1">{movie.title} <span className="text-gray-500 font-normal">({movie.year})</span></div>
-                    <div className="text-sm text-gray-600 mb-2">Genre: {movie.genre}</div>
-                    <div className="text-gray-800 text-sm mb-2">{movie.desc}</div>
+                <a
+                  key={idx}
+                  href={movie.link || '#'}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bg-white/90 rounded-xl shadow-lg p-6 flex flex-col items-center hover:scale-105 hover:shadow-2xl transition-all duration-300 cursor-pointer"
+                  style={{ textDecoration: 'none' }}
+                >
+                  <img src={movie.poster || "/movie.png"} alt={movie.title} className="w-24 h-32 object-cover rounded-lg border border-indigo-200 mb-3" />
+                  <div className="text-center">
+                    <div className="text-lg font-bold text-indigo-700 mb-1">{movie.title} {movie.year ? <span className="text-gray-500 font-normal">({movie.year})</span> : null}</div>
+                    <div className="text-sm text-gray-600 mb-1">Genre: {movie.genre || '-'}</div>
+                    <div className="text-sm text-gray-600 mb-1">Release: {movie.date || '-'}</div>
+                    <div className="text-gray-800 text-xs mb-2 line-clamp-4 min-h-[64px]">{movie.overview || '-'}</div>
                   </div>
-                </div>
+                </a>
               ))
             )}
           </div>
