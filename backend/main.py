@@ -4,8 +4,18 @@ from . import models, schemas
 from .database import SessionLocal, engine, Base
 from .genre_endpoints import router as genre_router
 from . import services
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(title="FAZtream Backend")
+
+# Tambahkan CORS agar frontend bisa akses API
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Ganti dengan domain frontend untuk produksi
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 Base.metadata.create_all(bind=engine)
 

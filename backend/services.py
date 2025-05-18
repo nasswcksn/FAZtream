@@ -5,6 +5,9 @@ from .database import engine
 from . import models
 
 # Global variables
+# DataFrame, vectorizer, and tfidf_matrix will be loaded and trained once
+# Call load_data() and train_model() at app startup
+
 df = None
 vectorizer = None
 tfidf_matrix = None
@@ -30,6 +33,7 @@ GENRE_TABLE_MAP = {
 }
 
 def load_data():
+    """Load movies data from the database into a pandas DataFrame and preprocess it."""
     global df
     df = pd.read_sql_table("movies", con=engine)
     df['genre'] = df['genre'].fillna('')
@@ -39,11 +43,17 @@ def load_data():
     return df
 
 def train_model():
+    """Train the TF-IDF vectorizer on the combined features column."""
     global vectorizer, tfidf_matrix
+    if df is None:
+        load_data()
     vectorizer = TfidfVectorizer(stop_words='english')
     tfidf_matrix = vectorizer.fit_transform(df['combined_features'])
 
 def recommend_movies(user_input, top_n=10):
+    """Recommend top N movies based on user input using cosine similarity."""
+    if vectorizer is None or tfidf_matrix is None:
+        train_model()
     input_vector = vectorizer.transform([user_input.lower()])
     similarities = cosine_similarity(input_vector, tfidf_matrix)
     scores = list(enumerate(similarities[0]))
@@ -53,6 +63,7 @@ def recommend_movies(user_input, top_n=10):
     return top_movies
 
 def get_recommendations(user_query: str, db, top_n: int = 10):
+    """Get top N recommended movies with additional genre data from the database."""
     top_movies = recommend_movies(user_query, top_n=top_n)
     movie_titles = top_movies['title'].tolist()
     movies = db.query(models.Movie).filter(models.Movie.title.in_(movie_titles)).all()
