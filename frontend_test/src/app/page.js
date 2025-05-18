@@ -16,13 +16,13 @@ export default function Home() {
 
   useEffect(() => {
     setMounted(true);
-    // Typing animation for title
+    // Intro animasi pada bagian title
     let i = 0;
     const animate = () => {
       setTitleAnim(titleText.slice(0, i) + "•".repeat(titleText.length - i));
       if (i < titleText.length) {
         i++;
-        setTimeout(animate, 300); // 300ms per character, can be adjusted
+        setTimeout(animate, 325); // 325ms per character, can be adjusted
       }
     };
     animate();
@@ -49,7 +49,7 @@ export default function Home() {
           <Link href="/result" className="text-white font-semibold hover:text-indigo-400 transition-colors duration-200">Result</Link>
         </div>
       </nav>
-      <div className="pt-20 min-h-screen flex bg-gradient-to-r from-[#0B0B0B] via-[#181A1B] to-[#6B21A8]">
+      <div className="pt-20 min-h-screen flex bg-transparent">
         {/* Left Panel */}
         <div
           className={`hidden md:flex w-1/3 flex-col justify-between items-center p-0 bg-black/95 rounded-l-3xl overflow-hidden min-h-screen shadow-2xl transition-all duration-700 ${mounted ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-10'}`}
@@ -64,7 +64,7 @@ export default function Home() {
           </div>
         </div>
         {/* Main Content */}
-        <div className={`flex-1 flex flex-col justify-center items-center px-4 bg-gradient-to-br from-transparent via-[#181A1B]/60 to-[#6B21A8]/80 min-h-screen transition-all duration-700 ${mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
+        <div className={`flex-1 flex flex-col justify-center items-center px-4 bg-transparent min-h-screen transition-all duration-700 ${mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
           <h1
             className={`text-white text-6xl font-extrabold mb-10 text-center transition-all duration-700 ${mounted ? 'opacity-100 scale-100' : 'opacity-0 scale-90'} ${kadwa.className} underline underline-offset-8 decoration-indigo-500`}
             aria-label="FAZtream"
