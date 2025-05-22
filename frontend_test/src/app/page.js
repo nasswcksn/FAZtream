@@ -104,7 +104,7 @@ export default function Home() {
           <div className={`mt-20 text-center text-white font-bold transition-all duration-700 ${mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
             <div className="text-xl mb-2">Developed By</div>
             <div className="space-x-4 text-base font-semibold">
-              <span className="hover:text-indigo-300 transition-colors duration-300">• FAISHAL IZZUDIN</span>
+              <span className="hover:text-indigo-300 transition-colors duration-300">• FAISHAL IZZUDDIN</span>
               <span className="hover:text-indigo-300 transition-colors duration-300">• ANAS WICAKSONO</span>
               <span className="hover:text-indigo-300 transition-colors duration-300">• ZAKI ZAIN</span>
             </div>
