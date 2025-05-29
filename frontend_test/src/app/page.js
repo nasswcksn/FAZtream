@@ -49,6 +49,7 @@ export default function Home() {
         <div className="flex gap-6">
           <Link href="/" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Home</Link>
           <Link href="/result" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Result</Link>
+          <Link href="/about" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">About Us</Link>
           <Link href="/faq" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">FAQ</Link>
           <Link href="/trending" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Trending</Link>
         </div>
@@ -96,7 +97,7 @@ export default function Home() {
           <footer className="w-full flex flex-col items-center mt-24 mb-6">
             <div className={`text-white text-lg font-semibold mb-2 ${anta.className}`}>Developed By</div>
             <div className={`flex flex-wrap gap-4 text-base font-bold ${anta.className}`}>
-              <span className="hover:text-indigo-300 transition-colors duration-300">• FAISHAL IZZUDDIN</span>
+              <span className="hover:text-indigo-300 transition-colors duration-300">• FAISHAL IR</span>
               <span className="hover:text-indigo-300 transition-colors duration-300">• ANAS WICAKSONO</span>
               <span className="hover:text-indigo-300 transition-colors duration-300">• ZAKI ZAIN</span>
             </div>
