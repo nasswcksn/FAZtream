@@ -1,10 +1,10 @@
 "use client";
-import { Kadwa } from "next/font/google";
+import { Anta } from "next/font/google";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 
-const kadwa = Kadwa({ subsets: ["latin"], weight: ["700"] });
+const anta = Anta({ subsets: ["latin"], weight: ["400"] });
 
 export default function ResultPage() {
   const searchParams = useSearchParams();
@@ -35,16 +35,16 @@ export default function ResultPage() {
     <>
       {/* Navbar */}
       <nav className="fixed top-0 left-0 w-full z-30 bg-black/80 backdrop-blur-md shadow-md flex items-center justify-between px-8 py-3">
-        <Link href="/" className={`text-2xl font-extrabold tracking-widest text-white ${kadwa.className} underline underline-offset-4 decoration-indigo-500`}>FAZtream</Link>
+        <Link href="/" className={`text-2xl font-extrabold tracking-widest text-white ${anta.className} underline underline-offset-4 decoration-indigo-500`}>FAZtream</Link>
         <div className="flex gap-6">
           <Link href="/" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Home</Link>
           <Link href="/result" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Result</Link>
           <Link href="/faq" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">FAQ</Link>
-          <Link href="/popular" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Popular</Link>
+          <Link href="/trending" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Trending</Link>
         </div>
       </nav>
       <div className="pt-20 min-h-screen bg-transparent flex flex-col items-center">
-        <h1 className={`text-white text-4xl font-extrabold mt-8 mb-8 ${kadwa.className} underline underline-offset-8 decoration-indigo-500`}>Result Page</h1>
+        <h1 className={`text-white text-4xl font-extrabold mt-8 mb-8 ${anta.className}`}>Result Page</h1>
         {loading && <div className="text-white">Loading...</div>}
         {error && <div className="text-red-500">Error: {error}</div>}
         {!loading && !error && (

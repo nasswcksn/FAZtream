@@ -1,11 +1,13 @@
 "use client";
 import { useState, useEffect } from "react";
 import { Kadwa } from "next/font/google";
+import { Anta } from "next/font/google";
 import Head from "next/head";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 
 const kadwa = Kadwa({ subsets: ["latin"], weight: ["700"] });
+const anta = Anta({ subsets: ["latin"], weight: ["400"] });
 
 export default function Home() {
   const [query, setQuery] = useState("");
@@ -43,12 +45,12 @@ export default function Home() {
       </Head>
       {/* Navbar */}
       <nav className="fixed top-0 left-0 w-full z-30 bg-black/80 backdrop-blur-md shadow-md flex items-center justify-between px-8 py-3">
-        <Link href="/" className={`text-2xl font-extrabold tracking-widest text-white ${kadwa.className} underline underline-offset-4 decoration-indigo-500`}>FAZtream</Link>
+        <Link href="/" className={`text-2xl font-extrabold tracking-widest text-white ${anta.className} underline underline-offset-4 decoration-indigo-500`}>FAZtream</Link>
         <div className="flex gap-6">
           <Link href="/" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Home</Link>
           <Link href="/result" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Result</Link>
           <Link href="/faq" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">FAQ</Link>
-          <Link href="/popular" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Popular</Link>
+          <Link href="/trending" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Trending</Link>
         </div>
       </nav>
       <div className="pt-13 min-h-screen flex bg-transparent">
@@ -60,7 +62,7 @@ export default function Home() {
             <img src="/pexels-cottonbro-8263351.jpg" alt="Cinema" className="object-cover w-full h-full min-h-[600px] scale-100 transition-transform duration-700 hover:scale-105" />
             <div className="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/90 to-transparent p-8 transition-all duration-700">
               <p className="text-white text-lg font-normal drop-shadow-md">
-                <span className="font-bold">Faztream</span> merupakan sebuah platform film non legal yang membantu bagi user yang membutuhkan rekomendasi film
+                <span className={`font-bold ${anta.className}`}>FAZtream</span> is a smart movie recommendation platform that helps users who need movie recommendations according to their preferences.
               </p>
             </div>
           </div>
@@ -68,7 +70,7 @@ export default function Home() {
         {/* Main Content */}
         <div className={`flex-1 flex flex-col justify-center items-center px-4 bg-transparent min-h-screen transition-all duration-700 ${mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
           <h1
-            className={`text-white text-6xl font-extrabold mb-10 text-center transition-all duration-700 ${mounted ? 'opacity-100 scale-100' : 'opacity-0 scale-90'} ${kadwa.className} underline underline-offset-8 decoration-indigo-500`}
+            className={`text-white text-6xl font-extrabold mb-10 text-center transition-all duration-700 ${mounted ? 'opacity-100 scale-100' : 'opacity-0 scale-90'} ${kadwa.className}`}
             aria-label="FAZtream"
           >
             {titleAnim}
@@ -83,16 +85,6 @@ export default function Home() {
               value={query}
               onChange={e => setQuery(e.target.value)}
             />
-            <div className="w-full flex mb-4">
-              <button
-                type="button"
-                className="border px-4 py-1 rounded-full mr-auto text-sm bg-yellow-100 text-yellow-800 font-semibold shadow hover:bg-yellow-200 focus:outline-none focus:ring-2 focus:ring-yellow-400 transition-all duration-300 cursor-not-allowed"
-                tabIndex={-1}
-                disabled
-              >
-                Related History ⚡
-              </button>
-            </div>
             <button
               type="submit"
               className="w-full bg-indigo-600 text-white py-2 rounded-full font-semibold hover:bg-indigo-700 hover:scale-105 transition-all duration-300 shadow-md hover:shadow-xl"
@@ -101,14 +93,14 @@ export default function Home() {
             </button>
           </form>
           {/* Footer */}
-          <div className={`mt-20 text-center text-white font-bold transition-all duration-700 ${mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
-            <div className="text-xl mb-2">Developed By</div>
-            <div className="space-x-4 text-base font-semibold">
+          <footer className="w-full flex flex-col items-center mt-24 mb-6">
+            <div className={`text-white text-lg font-semibold mb-2 ${anta.className}`}>Developed By</div>
+            <div className={`flex flex-wrap gap-4 text-base font-bold ${anta.className}`}>
               <span className="hover:text-indigo-300 transition-colors duration-300">• FAISHAL IZZUDIN</span>
               <span className="hover:text-indigo-300 transition-colors duration-300">• ANAS WICAKSONO</span>
               <span className="hover:text-indigo-300 transition-colors duration-300">• ZAKI ZAIN</span>
             </div>
-          </div>
+          </footer>
         </div>
         <style jsx global>{`
           @keyframes fadeIn {
