@@ -283,3 +283,15 @@ SELECT 'thriller' AS genre, * FROM thriller WHERE movie_id IS NULL;
 ALTER TABLE action
 ADD CONSTRAINT fk_action_movie
 FOREIGN KEY (movie_id) REFERENCES movies(id);
+
+--Cari judul yang mirip di tabel pusat:
+SELECT g.title AS genre_title, m.title AS movies_title
+FROM action g
+LEFT JOIN movies m ON LOWER(g.title) = LOWER(m.title)
+WHERE g.movie_id IS NULL;
+
+--Update movie_id Setelah Perbaikan
+UPDATE action a
+SET movie_id = m.id
+FROM movies m
+WHERE LOWER(a.title) = LOWER(m.title) AND a.movie_id IS NULL;
