@@ -213,10 +213,10 @@ SET movie_id = m.id
 FROM movies m
 WHERE h.title = m.title;
 
-UPDATE mystery m
+UPDATE mystery x
 SET movie_id = m.id
 FROM movies m
-WHERE m.title = m.title;
+WHERE x.title = m.title;
 
 UPDATE romance r
 SET movie_id = m.id
