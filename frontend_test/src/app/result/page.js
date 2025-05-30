@@ -39,8 +39,9 @@ export default function ResultPage() {
         <div className="flex gap-6">
           <Link href="/" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Home</Link>
           <Link href="/result" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Result</Link>
-          <Link href="/faq" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">FAQ</Link>
           <Link href="/trending" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Trending</Link>
+          <Link href="/faq" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">FAQ</Link>
+          <Link href="/about" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">About Us</Link>
         </div>
       </nav>
       <div className="pt-20 min-h-screen bg-transparent flex flex-col items-center">
@@ -48,28 +49,33 @@ export default function ResultPage() {
         {loading && <div className="text-white">Loading...</div>}
         {error && <div className="text-red-500">Error: {error}</div>}
         {!loading && !error && (
-          <div className="w-full max-w-6xl grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="w-full max-w-6xl min-h-[400px] flex flex-col items-center justify-center">
             {results.length === 0 ? (
-              <div className="text-white col-span-4">Tidak ada hasil</div>
+              <div className="flex flex-col items-center justify-center w-full h-full">
+                <img src="/glitch-error-404-page-background.png" alt="No Result" className="w-80 h-80 object-contain mb-4" />
+                <div className="text-white text-xl font-bold text-center">Tidak ada hasil ditemukan</div>
+              </div>
             ) : (
-              results.map((movie, idx) => (
-                <a
-                  key={idx}
-                  href={movie.link || '#'}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-white/90 rounded-xl shadow-lg p-6 flex flex-col items-center hover:scale-105 hover:shadow-2xl transition-all duration-300 cursor-pointer"
-                  style={{ textDecoration: 'none' }}
-                >
-                  <img src={movie.poster || "/movie.png"} alt={movie.title} className="w-24 h-32 object-cover rounded-lg border border-indigo-200 mb-3" />
-                  <div className="text-center">
-                    <div className="text-lg font-bold text-indigo-700 mb-1">{movie.title} {movie.year ? <span className="text-gray-500 font-normal">({movie.year})</span> : null}</div>
-                    <div className="text-sm text-gray-600 mb-1">Genre: {movie.genre || '-'}</div>
-                    <div className="text-sm text-gray-600 mb-1">Release: {movie.date || '-'}</div>
-                    <div className="text-gray-800 text-xs mb-2 line-clamp-4 min-h-[64px]">{movie.overview || '-'}</div>
-                  </div>
-                </a>
-              ))
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 w-full">
+                {results.map((movie, idx) => (
+                  <a
+                    key={idx}
+                    href={movie.link || '#'}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="bg-white/90 rounded-xl shadow-lg p-6 flex flex-col items-center hover:scale-105 hover:shadow-2xl transition-all duration-300 cursor-pointer"
+                    style={{ textDecoration: 'none' }}
+                  >
+                    <img src={movie.poster || "/movie.png"} alt={movie.title} className="w-24 h-32 object-cover rounded-lg border border-indigo-200 mb-3" />
+                    <div className="text-center">
+                      <div className="text-lg font-bold text-indigo-700 mb-1">{movie.title} {movie.year ? <span className="text-gray-500 font-normal">({movie.year})</span> : null}</div>
+                      <div className="text-sm text-gray-600 mb-1">Genre: {movie.genre || '-'}</div>
+                      <div className="text-sm text-gray-600 mb-1">Release: {movie.date || '-'}</div>
+                      <div className="text-gray-800 text-xs mb-2 line-clamp-4 min-h-[64px]">{movie.overview || '-'}</div>
+                    </div>
+                  </a>
+                ))}
+              </div>
             )}
           </div>
         )}
