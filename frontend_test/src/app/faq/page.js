@@ -7,24 +7,29 @@ const anta = Anta({ subsets: ["latin"], weight: ["400"] });
 
 const faqData = [
 	{
-		question: "Apa itu web platform FAZtream?",
+		question: "Apa itu FAZtream?",
 		answer:
-			"FAZtream adalah sebuah platform web yang menyediakan layanan rekomendasi film berbasis konten, membantu pengguna menemukan film sesuai minat mereka secara cepat dan mudah.",
+			"FAZtream merupakan sebuah platform rekomendasi sistem cerdas yang menggunakan teknik semantic search dengan algoritma TF-IDF dan Cosine Similarity, tujuannya untuk membantu user menemukan film sesuai minat atau preferensi secara cepat dan mudah.",
 	},
 	{
-		question: "Apa fungsi utama dari FAZtream?",
+		question: "Bagaimana cara kerja FAZtream?",
 		answer:
-			"Fungsi utama FAZtream adalah memberikan rekomendasi film yang relevan berdasarkan input atau preferensi pengguna, sehingga pengalaman mencari film menjadi lebih efisien dan personal.",
+			"FAZtream bekerja dengan menggunakan metode content-based filtering. Ketika user memasukkan keyword unik atau judul film, sistem akan langsung menganalisis data film yang tersedia dan mencari film lain dengan kemiripan konten, seperti genre, judul, dan deskripsi. Proses pencocokan ini dilakukan secara otomatis di backend menggunakan algoritma pencarian teks, sehingga rekomendasi yang diberikan relevan dengan preferensi atau minat user.",
 	},
 	{
-		question: "Dibangun menggunakan teknologi apa saja?",
+		question: "Kenapa memakai algoritma demikian?",
 		answer:
-			"FAZtream dibangun menggunakan Next.js (React) untuk frontend, FastAPI untuk backend, PostgreSQL untuk database, serta Tailwind CSS untuk styling dan RapidFuzz untuk pencocokan judul.",
+			"Karena menggunakan TF-IDF terkenal ringan dan mudah diimplementasikan tanpa membutuhkan perangkat keras yang canggih dan untuk produk prototype sudah cukup menangkap relevansi dasar antara query dan teks (overview/judul).",
 	},
 	{
-		question: "Bagaimana dengan aspek legalitas dan aturan perfilman?",
+		question: "Source dataset yang digunakan?",
 		answer:
-			"Kami menyadari bahwa industri film memiliki aturan dan regulasi tersendiri. Platform ini dibuat sebagai sarana edukasi dan eksperimen teknologi, bukan untuk tujuan komersial atau distribusi ilegal. Penggunaan data film hanya untuk kebutuhan pembelajaran dan pengembangan teknologi rekomendasi.",
+			"Platform FAZtream dibangun dengan menggunakan dataset yang berasal dari situs web non resmi salah satunya seperti 'IDLIX' yang telah diintegrasikan ke database PostgreSQL yang saat ini sedang digunakan.",
+	},
+	{
+		question: "Bagaimana dengan isu hak cipta?",
+		answer:
+			"Kami menyadari bahwa Undang-Undang No. 28 Tahun 2014 tentang Hak Cipta (Pasal 113) melarang “mendistribusikan atau memfasilitasi penyebaran ciptaan berhak cipta tanpa izin.” Oleh karena itu, meski FAZtream menggunakan tautan film ilegal untuk menampilkan URL ke situs non-legal, namun platform ini hanya bersifat sebagai media pembelajaran bukan untuk diimplementasikan secara nyata.",
 	},
 ];
 
@@ -40,7 +45,7 @@ export default function FAQPage() {
 			<nav className="fixed top-0 left-0 w-full z-30 bg-black/80 backdrop-blur-md shadow-md flex items-center justify-between px-8 py-3">
 				<Link href="/" className="flex items-center gap-3">
 					<img
-						src="/faztream_logo_v6.png"
+						src="/FAZtream_logo_v6.png"
 						alt="FAZtream Logo"
 						width={80}
 						className="rounded-md shadow"
