@@ -15,8 +15,8 @@ export const metadata = {
   title: "FAZtream - Smart Movie Recommendation Platform",
   description: "Discover your next favorite movie with FAZtream's smart recommendation system.",
   icons: {
-    icon: "/movie.png",
-    shortcut: "/movie.png",
+    icon: "/faztream_logo_v3.png",
+    shortcut: "/faztream_logo_v3.png",
   },
   openGraph: {
     title: "FAZtream",
@@ -24,7 +24,7 @@ export const metadata = {
     siteName: "FAZtream - Smart Movie Recommendation Platform",
     images: [
       {
-        url: "/movie.png",
+        url: "/faztream_logo_v3.png",
         width: 800,
         height: 600,
         alt: "FAZtream Logo",

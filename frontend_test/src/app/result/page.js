@@ -1,12 +1,20 @@
 "use client";
 import { Anta } from "next/font/google";
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { Suspense, useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 
 const anta = Anta({ subsets: ["latin"], weight: ["400"] });
 
 export default function ResultPage() {
+  return (
+    <Suspense fallback={<div className="text-white">Loading...</div>}>
+      <ResultContent />
+    </Suspense>
+  );
+}
+
+function ResultContent() {
   const searchParams = useSearchParams();
   const query = searchParams.get("query");
   const [results, setResults] = useState([]);
@@ -35,7 +43,9 @@ export default function ResultPage() {
     <>
       {/* Navbar */}
       <nav className="fixed top-0 left-0 w-full z-30 bg-black/80 backdrop-blur-md shadow-md flex items-center justify-between px-8 py-3">
-        <Link href="/" className={`text-2xl font-extrabold tracking-widest text-white ${anta.className} underline underline-offset-4 decoration-indigo-500`}>FAZtream</Link>
+        <Link href="/" className="flex items-center gap-3">
+          <img src="/faztream_logo_v6.png" alt="FAZtream Logo" width={80}className="rounded-md shadow" />
+        </Link>
         <div className="flex gap-6">
           <Link href="/" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Home</Link>
           <Link href="/result" className="text-white font-semibold relative transition-colors duration-200 hover:text-indigo-400 after:content-[''] after:block after:w-0 after:h-0.5 after:bg-indigo-400 after:transition-all after:duration-300 hover:after:w-full after:absolute after:left-0 after:-bottom-1">Result</Link>
@@ -52,8 +62,7 @@ export default function ResultPage() {
           <div className="w-full max-w-6xl min-h-[400px] flex flex-col items-center justify-center">
             {results.length === 0 ? (
               <div className="flex flex-col items-center justify-center w-full h-full">
-                <img src="/glitch-error-404-page-background.png" alt="No Result" className="w-80 h-80 object-contain mb-4" />
-                <div className="text-white text-xl font-bold text-center">Tidak ada hasil ditemukan</div>
+                <img src="/glitch-web-background.png" alt="No Result" className="w-80 h-80 object-contain mb-4" />
               </div>
             ) : (
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 w-full">

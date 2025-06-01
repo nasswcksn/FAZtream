@@ -48,7 +48,9 @@ export default function AboutPage() {
       </Head>
 
       <nav className="fixed top-0 left-0 w-full z-30 bg-black/80 backdrop-blur-md shadow-md flex items-center justify-between px-8 py-3">
-        <Link href="/" className={`text-2xl font-extrabold tracking-widest text-white ${anta.className} underline underline-offset-4 decoration-indigo-500`}>FAZtream</Link>
+        <Link href="/" className="flex items-center gap-3">
+          <img src="/faztream_logo_v6.png" alt="FAZtream Logo" width={80}className="rounded-md shadow" />
+        </Link>
         <div className="flex gap-6 text-white font-semibold">
           <Link href="/">Home</Link>
           <Link href="/result">Result</Link>

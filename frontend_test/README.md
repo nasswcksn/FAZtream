@@ -1,44 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# FAZtream Frontend
 
-## Getting Started
+Frontend untuk FAZtream - Smart Movie Recommendation Platform
 
-First, run the development server:
+## Fitur
+- UI modern dengan Next.js & Tailwind CSS
+- Halaman utama, hasil rekomendasi, trending, FAQ, dan about
+- Integrasi dengan backend FastAPI untuk rekomendasi film
+- Responsive & mobile friendly
 
-```bash
-npm run dev
-```
-# or
-```bash
-yarn dev
-```
-# or
-```bash
-pnpm dev
-```
-# or
-```bash
-bun dev
-```
+## Struktur Folder
+- `src/app/`         : Halaman utama dan sub-halaman (about, faq, result, trending)
+- `public/`          : Asset gambar, logo, background
+- `globals.css`      : Global styling
+- `next.config.mjs`  : Konfigurasi Next.js
+- `package.json`     : Dependensi frontend
 
-Open [http://localhost:3000] with your browser to see the result.
-```bash
-http://localhost:3000
-```
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Menjalankan Frontend (Local/Windows)
+1. Masuk ke folder frontend:
+   ```powershell
+   cd frontend_test
+   ```
+2. Install dependensi:
+   ```powershell
+   npm install
+   ```
+3. Jalankan development server:
+   ```powershell
+   npm run dev
+   ```
+   Akses di http://localhost:3000 (atau port lain jika diubah)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Menjalankan Frontend (Docker)
+1. Build dan jalankan via docker compose:
+   ```powershell
+   docker compose up --build
+   ```
+2. Akses di http://localhost:3001
 
-## Learn More
+## Konfigurasi API
+- Endpoint backend default: `http://localhost:8000`
+- Pastikan backend berjalan dan dapat diakses dari frontend
 
-To learn more about Next.js, take a look at the following resources:
+## Catatan
+- Logo dan favicon dapat diubah di folder `public/`
+- Untuk produksi, pastikan environment variable sudah diatur sesuai kebutuhan
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+© 2025 FAZtream Team
