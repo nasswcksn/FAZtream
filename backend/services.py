@@ -1,8 +1,9 @@
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from .database import engine
-from . import models
+import models
+import schemas
+import database
 
 # Global variables
 # DataFrame, vectorizer, and tfidf_matrix will be loaded and trained once
@@ -35,7 +36,7 @@ GENRE_TABLE_MAP = {
 def load_data():
     """Load movies data from the database into a pandas DataFrame and preprocess it."""
     global df
-    df = pd.read_sql_table("movies", con=engine)
+    df = pd.read_sql_table("movies", con=database.engine)
     df['genre'] = df['genre'].fillna('')
     df['overview'] = df['overview'].fillna('')
     df['title'] = df['title'].fillna('')
