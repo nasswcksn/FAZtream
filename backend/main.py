@@ -1,10 +1,10 @@
 from fastapi import FastAPI, Depends, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy.orm import Session
-from . import models, schemas
-from .database import SessionLocal, engine, Base
-from .genre_endpoints import router as genre_router
-from . import services
+import models, schemas
+from database import SessionLocal, engine, Base
+from genre_endpoints import router as genre_router
+import services
 
 app = FastAPI(title="FAZtream Backend")
 
