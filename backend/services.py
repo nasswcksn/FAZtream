@@ -110,7 +110,7 @@ def get_recommendations(user_query: str, db, top_n: int = 10):
     genre_models = [
         getattr(models, attr)
         for attr in dir(models)
-        if attr[0].isupper() and attr not in ["Base", "Movie"] and hasattr(getattr(models, attr), '__tablename__')
+        if attr[0].isupper() and attr not in ["Base", "Movie"] and hasattr(getattr(models, attr), '_tablename_')
     ]
 
     results = []
@@ -123,7 +123,7 @@ def get_recommendations(user_query: str, db, top_n: int = 10):
             if not table_name:
                 continue
             for genre_model in genre_models:
-                if genre_model.__tablename__ == table_name:
+                if genre_model._tablename_ == table_name:
                     genre_data = db.query(genre_model).filter(genre_model.movie_id == movie.id).first()
                     if genre_data:
                         found = True
