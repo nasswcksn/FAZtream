@@ -1,6 +1,7 @@
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from difflib import SequenceMatcher
 import models
 import schemas
 import database
@@ -51,29 +52,67 @@ def train_model():
     vectorizer = TfidfVectorizer(stop_words='english')
     tfidf_matrix = vectorizer.fit_transform(df['combined_features'])
 
-def recommend_movies(user_input, top_n=10):
-    """Recommend top N movies based on user input using cosine similarity."""
-    if vectorizer is None or tfidf_matrix is None:
+def get_autocomplete_suggestions(user_input: str, top_n: int = 5):
+    """Return top N movie titles most similar to the input based on combined features."""
+    global df, vectorizer, tfidf_matrix
+    if df is None or vectorizer is None or tfidf_matrix is None:
+        load_data()
         train_model()
     input_vector = vectorizer.transform([user_input.lower()])
-    similarities = cosine_similarity(input_vector, tfidf_matrix)
+    similarities = cosine_similarity(input_vector, tfidf_matrix).flatten()
+    
+    top_indices = similarities.argsort()[::-1][:top_n]
+    top_titles = df.iloc[top_indices]['title'].tolist()
+    return top_titles
+
+def find_anchor_movie(title_input, threshold=0.6):
+    """Find the most similar title in the dataset. Return title if above threshold, else None."""
+    best_match = None
+    highest_score = 0
+    for title in df['title']:
+        score = SequenceMatcher(None, title_input.lower(), title.lower()).ratio()
+        if score > highest_score:
+            best_match = title
+            highest_score = score
+    if highest_score >= threshold:
+        return best_match
+    return None
+
+def recommend_movies_from_anchor(anchor_title, top_n=10):
+    """Recommend top N movies based on similarity to the anchor movie title."""
+    if vectorizer is None or tfidf_matrix is None:
+        train_model()
+    try:
+        anchor_idx = df[df['title'] == anchor_title].index[0]
+    except IndexError:
+        return pd.DataFrame()  # No match found
+    anchor_vector = tfidf_matrix[anchor_idx]
+    similarities = cosine_similarity(anchor_vector, tfidf_matrix)
     scores = list(enumerate(similarities[0]))
     scores = sorted(scores, key=lambda x: x[1], reverse=True)
-    movie_indices = [i[0] for i in scores[:top_n]]
-    top_movies = df.iloc[movie_indices]
-    return top_movies
+    movie_indices = [i[0] for i in scores[1:top_n+1]]  # Skip the anchor itself
+    return df.iloc[movie_indices]
 
 def get_recommendations(user_query: str, db, top_n: int = 10):
-    """Get top N recommended movies with additional genre data from the database."""
-    top_movies = recommend_movies(user_query, top_n=top_n)
+    """Get top N recommended movies based on closest matching title (anchor)."""
+    anchor_title = find_anchor_movie(user_query)
+    if not anchor_title:
+        return []  # Tidak ada judul yang mirip
+
+    top_movies = recommend_movies_from_anchor(anchor_title, top_n=top_n)
+    if top_movies.empty:
+        return []  # Tidak ada film yang mirip dengan anchor
+
     movie_titles = top_movies['title'].tolist()
     movies = db.query(models.Movie).filter(models.Movie.title.in_(movie_titles)).all()
     movies_sorted = sorted(movies, key=lambda x: movie_titles.index(x.title))
+
     genre_models = [
         getattr(models, attr)
         for attr in dir(models)
         if attr[0].isupper() and attr not in ["Base", "Movie"] and hasattr(getattr(models, attr), '__tablename__')
     ]
+
     results = []
     for movie in movies_sorted:
         genre_data = None

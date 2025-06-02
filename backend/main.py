@@ -26,6 +26,11 @@ def get_db():
     finally:
         db.close()
 
+@app.get("/autocomplete")
+def autocomplete_movies(q: str, db: Session = Depends(get_db)):
+    suggestions = services.get_autocomplete_suggestions(q, top_n=5)
+    return suggestions
+
 @app.get("/movies", response_model=list[schemas.MovieOut])
 def get_movies(db: Session = Depends(get_db)):
     return db.query(models.Movie).all()
